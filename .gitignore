@@ -1,0 +1,6 @@
+.DS_Store
+*.swp
+*.swo
+.obsidian/
+CLAUDE.md
+Context/Profile.md
