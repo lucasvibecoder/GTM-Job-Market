@@ -8,15 +8,15 @@ This vault tracks **61 job descriptions** across the emerging GTM Engineering sp
 
 ## Why This Exists
 
-"GTM Engineer" barely existed as a title two years ago. There's no standard job description, no agreed-upon tool stack, and companies define the role differently depending on their stage and go-to-market motion. If you're hiring for this role, you don't know what to look for. If you're applying, you don't know what to call yourself. This project brings structure to that chaos.
+"GTM Engineer" barely existed as a title two years ago. There's no standard job description, no agreed-upon tool stack, and companies define the role differently depending on their stage and go-to-market motion. If you're hiring for this role, you don't know what to look for. If you're applying, you don't know what to call yourself.
 
-Every JD is parsed into a consistent schema, normalized against a canonical tool list, and classified into one of five role archetypes. The analysis layer then generates market-wide insights — which tools are table-stakes vs. differentiators, how salary bands cluster by archetype, and where the field is converging. New JDs are auto-fed from Clay and added continuously.
+You could dump 100 JDs into ChatGPT and get a summary. This is different — it's a structured data model with a processing pipeline. Every JD is forced into the same schema, normalized against a canonical tool list, and classified into one of five role archetypes. The analysis layer generates market-wide insights automatically. New JDs are auto-fed from Clay and the system gets smarter with every one it processes. The skill isn't the prompting — it's the design of the harness: what fields matter, how to normalize messy data, where to enforce structure, and what gets regenerated vs. what persists.
 
-**The approach works beyond GTM Engineering.** Anyone could fork this setup and apply it to their own space — product management, data engineering, DevRel, whatever emerging role is too messy to hire for or evaluate. Three use cases:
+**The approach works for any emerging role.** Fork this, swap in your own JDs — product management, data engineering, DevRel, whatever space is too messy to hire for or evaluate cleanly. Three use cases:
 
-1. **Job search** — Understand what companies actually mean when they post a role, find the gaps in your profile, and target the archetype that fits.
-2. **Market intelligence** — Map an emerging job market before it standardizes. See which tools are converging, which skills are inflating in demand, and where the whitespace is.
-3. **Product-market alignment** — If you sell into this space, this dataset shows you exactly what your champion's job description looks like, which tools they already use, and how close your product is to their daily workflow.
+1. **Job search** — Show me what the market actually wants. Where are my gaps? Which roles are the best fit for my profile?
+2. **Market intelligence** — You're at a company and you want to monitor how the market is evolving. What tools are becoming table stakes? What new responsibilities are showing up? How does your GTM stack compare to what others are building?
+3. **Product-market alignment** — You sell a product to this ICP. This dataset shows you exactly what your champion's job description looks like, which tools sit next to yours in the stack, and how to position your product against the jobs to be done inside their actual responsibilities.
 
 ## Architecture
 
