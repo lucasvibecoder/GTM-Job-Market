@@ -4,11 +4,19 @@ A structured market intelligence system for GTM Engineer roles — built with Cl
 
 This vault tracks **61 job descriptions** across the emerging GTM Engineering space, parsing each into structured YAML frontmatter, categorizing by archetype, and generating derived analysis artifacts automatically. The result is a living knowledge graph that surfaces patterns in tools, skills, salary bands, and role archetypes across the market.
 
+![GTM Engineer Job Market — Knowledge Graph](assets/graph-view.png)
+
 ## Why This Exists
 
-"GTM Engineer" barely existed as a title two years ago. There's no standard job description, no agreed-upon tool stack, and companies define the role differently depending on their stage and go-to-market motion. This project brings structure to that chaos.
+"GTM Engineer" barely existed as a title two years ago. There's no standard job description, no agreed-upon tool stack, and companies define the role differently depending on their stage and go-to-market motion. If you're hiring for this role, you don't know what to look for. If you're applying, you don't know what to call yourself. This project brings structure to that chaos.
 
-Every JD is parsed into a consistent schema, normalized against a canonical tool list, and classified into one of five role archetypes. The analysis layer then generates market-wide insights — which tools are table-stakes vs. differentiators, how salary bands cluster by archetype, and where the field is converging.
+Every JD is parsed into a consistent schema, normalized against a canonical tool list, and classified into one of five role archetypes. The analysis layer then generates market-wide insights — which tools are table-stakes vs. differentiators, how salary bands cluster by archetype, and where the field is converging. New JDs are auto-fed from Clay and added continuously.
+
+**The approach works beyond GTM Engineering.** Anyone could fork this setup and apply it to their own space — product management, data engineering, DevRel, whatever emerging role is too messy to hire for or evaluate. Three use cases:
+
+1. **Job search** — Understand what companies actually mean when they post a role, find the gaps in your profile, and target the archetype that fits.
+2. **Market intelligence** — Map an emerging job market before it standardizes. See which tools are converging, which skills are inflating in demand, and where the whitespace is.
+3. **Product-market alignment** — If you sell into this space, this dataset shows you exactly what your champion's job description looks like, which tools they already use, and how close your product is to their daily workflow.
 
 ## Architecture
 
