@@ -2966,3 +2966,131 @@ Qualifications
 
 Hybrid: 3 days/week (Tue/Wed/Thu) in Manhattan
 Pay: $125,000 - $175,000 USD
+
+---
+<!-- Imported: 2026-02-26T00:00:00Z via /add -->
+Chainalysis / chainalysis.com
+title: GTM Engineer - Revenue Automation Specialist
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-revenue-automation-specialist-at-chainalysis-4334147581
+salary: 90000 - 150000 currency: USD YEAR
+date added: 2026-02-20T11:12:55.332Z
+location: United States
+LinkedIn job id: 4334147581
+
+Vibrant storytellers and Chainalysis evangelists, our Marketing team leverages cutting edge research, real customer success stories, and the infinite possibilities in between to drive expansion around the world. We're the connectors and facilitators for key players in the cryptocurrency industry.
+
+We're looking for a GTM Engineer to sit within the Demand Generation team, owning the technical implementation and optimization of our growth workflows. This role is dedicated to helping marketing scale pipeline creation by building AI-powered outbound campaigns, self-service experiences, and integrated engagement paths that reduce friction and accelerate revenue.
+
+Why This Role Matters
+
+As a GTM Engineer, you'll be the architect behind the workflows that power AI-assisted outbound, self-service product demos, and integrated campaigns. This role is critical to delivering faster speed-to-lead, higher conversion rates, and a more efficient pipeline.
+
+In This Role, You'll
+
+Develop self-service experiences by designing and maintaining product tours, gated demo environments, and (PLG )product-led growth workflows that enhance conversion and accelerate buyer education.Implement AI-powered outbound programs using tools like Clay and nReach to automate account research, data enrichment, and personalized outreach sequences in support of marketing pipeline goals.Integrate marketing systems by partnering with Marketing Operations and Revenue Systems to connect CRM, marketing automation, and enrichment tools, ensuring seamless campaign workflows from first touch to opportunity creation.Optimize conversion paths through analysis of user journeys across ads, landing pages, chatbots, and demos to identify drop-offs and improve overall conversion rates.Collaborate across teams, working closely with sales, product, product marketing, and brand and content marketing to translate campaign strategies into scalable workflows.Experiment and iterate by quickly prototyping new processes, measuring results, and refining approaches to boost speed-to-lead, lead quality, and pipeline efficiency.
+
+We're Looking For Candidates Who Have
+
+3–5 years of experience in growth engineering, technical marketing, marketing operations, or revenue operations, with a track record of driving measurable results.Hands-on experience with tools like Clay, Zapier or N8N, GPT or other LLM APIs, and CRM platforms such as Salesforce or HubSpot.A passion for turning marketing strategies into scalable systems that deliver real business impact.The ability to blend no-code, low-code, and light scripting to automate, optimize, and scale marketing workflows.A collaborative mindset and the energy to thrive in fast-paced environments where experimentation and innovation are part of everyday work.
+
+Nice to have experience: [icing on the cake, not a deal-breaker]
+
+Working in a product-led growth (PLG) or B2B SaaS environment.Familiarity with customer data platforms (CDPs) such as Segment or Hightouch, and analytics tools like Looker or Tableau.Experience designing or optimizing marketing attribution, lead scoring, or conversion funnels.Basic proficiency with APIs or light scripting (Python, JavaScript) to connect and automate systems.
+
+About Chainalysis
+
+Blockchain technology is powering a growing wave of innovation. Businesses and governments around the world are using blockchains to make banking more efficient, connect with their customers, and investigate criminal cases. As adoption of blockchain technology grows, more and more organizations seek access to all this ecosystem has to offer. That's where Chainalysis comes in. We provide complete knowledge of what's happening on blockchains through our data, services, and solutions. With Chainalysis, organizations can navigate blockchains safely and with confidence.
+
+Compensation Range: $90K - $150K
+
+---
+<!-- Imported: 2026-02-26T00:00:00Z via /add -->
+Ontra / ontra.ai
+title: Staff GTM Engineer, Marketing Operations
+job url: https://www.linkedin.com/jobs/view/staff-gtm-engineer-marketing-operations-at-ontra-4364268980/
+salary: 156000 - 234000 currency: USD YEAR (base)
+date added: 2026-02-26
+location: United States
+
+About Ontra
+
+Ontra is the leader in AI-powered solutions for the private markets. Powered by industry-leading AI, data from over 2 million contracts, and a global network of legal professionals, Ontra automates critical private market workflows across the fund lifecycle. Ontra's solutions transform unstructured data trapped in static documents into actionable intelligence, enabling firms to accelerate contracts, streamline compliance, and automate entity management. Trusted by more than 1,000 global GPs, investment banks, law firms, and advisors – including nine of the top ten PEI-ranked firms worldwide – Ontra helps firms focus on what's important.
+
+About the Role
+
+Ontra is seeking a Staff GTM Engineer reporting to our Director, Marketing Operations. We're looking for someone excited to innovate and elevate our marketing systems by designing AI-powered, automated GTM workflows, systematizing outreach and enrichment across the funnel, and experimenting with data-driven strategies to fuel acquisition and growth.
+
+What You'll Do
+
+Workflow Design and Automation: Design and build AI-powered GTM workflows that scale acquisition, activation, and pipeline - replacing manual and one-off processes with durable, reusable systems.
+Cross-Functional Collaboration: Partner closely with Sales, Marketing, RevOps, and Product teams to identify GTM inefficiencies and translate business needs into scalable technical solutions.
+Integration Management: Build and maintain reliable integrations between AI platforms and core GTM systems, ensuring clean data flow, high data quality, and operational continuity.
+Experimentation and Optimization: Design, run, and analyze GTM experiments (e.g., outbound, routing, enrichment), using results to refine workflows, optimize strategies, and inform what to scale.
+AI Model & Prompt Development: Develop, test, and refine AI models, agents, and prompts to improve accuracy, performance, and reliability in real-world GTM use cases.
+System Reliability & Observability: Implement data validation, error handling, monitoring, and logging so AI-powered workflows are stable, observable, and trustworthy at scale.
+Documentation & GTM Enablement: Document workflows, integrations, and patterns, and enable GTM teams to move faster by reducing manual work and providing scalable, reusable tools.
+
+What You'll Bring
+
+Experience: 8+ years of senior level experience in GTM Engineering, Marketing Ops Engineering, RevOps Engineering, or similar AI/automation-focused roles.
+Technical Foundations: Proven experience working with APIs, webhooks, and SaaS integrations, along with scripting or programming (JavaScript/TypeScript or Python) for custom logic and transformations.
+GTM Systems Expertise: Hands-on experience owning and evolving GTM platforms such as Salesforce and Marketo at a system or integration level, not just as an end user.
+Automation & Orchestration Tools: Experience building workflows using tools like Clay, Zapier/Make, or similar enrichment and automation platforms.
+AI & LLM Experience: Practical experience implementing AI or LLM-powered solutions (e.g., ChatGPT API or similar) within GTM workflows.
+Experimentation & Data Fluency: Ability to design and run GTM experiments and measure impact using data, including comfort with SQL (or similar) for validation and analysis.
+B2B SaaS & Cross-Functional Mindset: Experience operating in a B2B SaaS environment and partnering closely with Sales, Marketing, RevOps, Product, and Data teams.
+
+Base Pay Range: $156,000—$234,000 USD
+Remote-first
+
+---
+<!-- Imported: 2026-02-26T00:00:00Z via /add -->
+Glimpse / tryglimpse.com
+title: GTM Engineer
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-glimpse-4375618473
+salary: 140000 - 180000 currency: USD YEAR
+date added: 2026-02-20T02:07:27.812Z
+location: New York, NY
+
+About Glimpse
+
+Glimpse helps leading consumer brands unlock retail cashflow by building AI agents to automate critical finance workflows like revenue recovery, accounting reconciliation, and trade spend management. We work with 200+ food/beverage/health/beauty brands including IQ Bar, Sauz, Bero, and more.
+
+About The Role
+
+We're looking for a high-agency GTM Engineer to own and scale the systems that power Glimpse's outbound engine. You'll build the automation infrastructure, data pipelines, and AI-powered workflows that enable our team to move faster, experiment continuously, and convert pipeline efficiently as we scale to eight figures this year.
+
+This role sits at the intersection of revenue operations, growth engineering, and pipeline generation. You'll own the technical execution of our GTM motion - from programmatic outbound to revenue system optimization to experiment execution - and be responsible for designing and hardening a repeatable outbound engine.
+
+What You'll Do: Manage and optimize GTM tech stack (HubSpot, Apollo, Clay). Build data pipelines between CRM, sales tools, analytics. Design lead workflows. Ensure data quality and observability. Design AI-powered outbound sequences at scale. Own email deliverability infrastructure. Build automated research and trigger workflows using Clay. Ship high-velocity experiments. Build internal tools. Instrument conversion funnels. Build LLM-powered workflows for prospect research, personalization, content generation, lead qualification. Automate manual processes.
+
+Required: 2+ years in GTM, RevOps, or Growth engineering at B2B SaaS. Hands-on HubSpot and Apollo. APIs, webhooks, light scripting (Python/JavaScript), SQL. Comfortable vibe coding. Rapid experimentation track record. High agency.
+
+Bonus: Automated outbound systems and email deliverability. HubSpot, Clay, Apollo. CPG, Retail, or vertical SaaS background.
+
+Compensation Range: $140K - $180K
+
+---
+<!-- Imported: 2026-02-26T00:00:00Z via /add -->
+Hearth / gethearth.com
+title: GTM Engineer
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-hearth-4376738107
+salary: 130000 - 170000 currency: USD YEAR
+date added: 2026-02-25T10:42:03.590Z
+location: New York, NY
+
+About Hearth
+
+Hearth is the AI growth system for local home improvement small businesses. We built revenue-critical software for home improvement contractors — the roofers, HVAC techs, and builders who keep America running. Our platform helps real business owners win more jobs, protect profit margins, and manage homeowner relationships professionally. Now building the next layer: a personal AI employee for every small business in the trades. 15,000+ paying customers, default profitability, backed by Founder's Fund, 8VC, Human Capital.
+
+The Opportunity
+
+Founding GTM Engineer hire. Transforming revenue operations from reactive, ticket-driven support into an AI-first GTM engineering organization. Founding member of Automation & AI GTM pod. Mandate: make every GTM team member (Marketing, CS, Sales) more productive through intelligent automation.
+
+What You'll Do: Retention revenue systems — partner with product. Marketing operations — HubSpot, Salesforce, Redshift. Outbound engine — audit and rebuild end-to-end for 2-5x ARR/Rep/Day increase. AI Go Team — seed internal AI team with AI PM. Data quality — Clay, Salesforce, HubSpot deduplication and automations.
+
+What We're Looking For: Product mindset, end-to-end shipper, first principles thinker, AI/LLM fluency (Claude, GPT, prompt engineering, API integration, agentic solutions), GTM Ops automation depth (Clay, n8n, Zapier advanced), Salesforce depth (flows, automation rules, SFDC data model), HubSpot and marketing automation, startup velocity.
+
+Ideal: Python/SQL, B2B SaaS or home services experience, GTM engineering content creation track record.
+
+Compensation: $130K - $170K. NYC hybrid (3+ days/week).
