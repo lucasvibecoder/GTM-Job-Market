@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required: 7
 archetype: ai-strategist
 archetype_secondary: gtm-systems-architect
+topics: []
 tools:
   - Clay
   - Make

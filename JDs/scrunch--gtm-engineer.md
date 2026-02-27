@@ -15,6 +15,7 @@ implicit_stack: []
 yoe_required: null
 archetype: outbound-builder
 archetype_secondary: null
+topics: []
 tools:
   - Clay
   - Common Room

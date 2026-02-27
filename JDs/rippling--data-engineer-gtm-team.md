@@ -17,6 +17,7 @@ implicit_stack:
 yoe_required: 3
 archetype: growth-engineer
 archetype_secondary:
+topics: []
 tools:
   - Python
   - SQL

@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required: 3
 archetype: gtm-systems-architect
 archetype_secondary:
+topics: [agentic-engineering]
 tools:
   - Workato
   - Retool
@@ -66,4 +67,5 @@ Gong (5,000+ customers, Revenue AI Operating System) is hiring a GTM Engineer to
 ## Links
 - **Archetype**: [[gtm-systems-architect]]
 - **Company Type**: [[sales-tech]]
+- **Topics**: [[agentic-engineering]]
 - **Tools**: [[Workato]] | [[Retool]] | [[n8n]] | [[Gong]]

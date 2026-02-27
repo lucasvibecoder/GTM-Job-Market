@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required: 3
 archetype: gtm-systems-architect
 archetype_secondary: growth-engineer
+topics: [agentic-engineering]
 tools:
   - Salesforce
   - Clay
@@ -70,4 +71,5 @@ Decagon is a leading conversational AI platform (backed by a16z, Accel, Bain Cap
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[growth-engineer]]
 - **Company Type**: [[ai-infrastructure]]
+- **Topics**: [[agentic-engineering]]
 - **Tools**: [[Salesforce]] | [[Clay]] | [[Gong]] | [[Claude Code]] | [[Unify]] | [[n8n]] | [[Zapier]] | [[Parallel]] | [[Gumloop]]

@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required: 1
 archetype: outbound-builder
 archetype_secondary:
+topics: []
 tools:
   - Clay
   - SalesLoft

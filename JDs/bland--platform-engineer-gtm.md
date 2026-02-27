@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required:
 archetype: gtm-systems-architect
 archetype_secondary:
+topics: []
 tools:
   - HubSpot
   - Clay

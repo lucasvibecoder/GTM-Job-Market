@@ -2576,3 +2576,393 @@ Sumble / sumble.com — GTM Engineer — United States (Remote) — No salary li
 ---
 <!-- Imported: 2026-02-25T00:00:00Z via /add -->
 Clay / clay.com — GTM Engineer Manager (Sales) — NYC Metro — No salary listed — LinkedIn 4320122892. THE GTM tool company ($100M revenue, $5B valuation, Series C, Sequoia/CapitalG/First Round). Lead and scale team of GTMEs. Build playbooks, coach technical selling, bridge Sales/Product/CS. 4+ years leading technical GTM teams. Mid-Market/Enterprise B2B.
+
+---
+<!-- Imported: 2026-02-26T00:00:00Z via /add -->
+Vanta / vanta.com — GTM Engineer, AI — United States — No salary listed — LinkedIn 4354851144. Trust Management Platform (SOC 2, HIPAA, ISO 27001). GTM Engineer at intersection of business systems, data, and AI. Own AI-driven automations across GTM stack: Salesforce, HubSpot, Gong, Clay, Workato, n8n, dbt/Snowflake. Build internal tools with Claude Code and Netlify. 5+ years business systems/GTM eng/data eng in B2B SaaS.
+
+---
+<!-- Imported: 2026-02-26T00:00:00Z via /add -->
+Lighthouse / mylighthouse.com — GTM Engineer — Denver Metropolitan Area — $102,000-$144,000 base — LinkedIn 4372997761. Hospitality commercial strategy platform ($370M Series C, $100M+ ARR, 850+ employees). Founding GTM Engineering role. Full-funnel automation with Clay and Salesforce. Design AI agents, CRM enrichment, scalable workflows. 3-5 years GTM/Growth/RevOps in B2B SaaS. Reports to Sr Manager Commercial Systems.
+
+---
+<!-- Imported: 2026-02-26T00:00:00Z via /add -->
+Rula / rula.com — GTM Engineer (Remote) — United States — $137,700-$153,900 base — LinkedIn 4331966688. Mental healthcare platform (remote-first). Building first GTM Engineering function. Agentic coding tools (Claude Code, Cursor), Clay, n8n, trigger.dev, pipedream. AI agents with RAG/context engineering. 5+ years GTM-adjacent roles.
+
+---
+<!-- Imported: 2026-02-26T00:00:00Z via /add -->
+XBOW / xbow.com
+title: Senior GTM Engineer
+job url: https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-xbow-4363458204
+salary:  -  currency:  
+date added: 2026-02-14T08:49:02.836Z
+location: United States
+LinkedIn job id: 4363458204
+Description: About XBOW
+
+At XBOW, we're redefining the future of cybersecurity by building the world's first autonomous pentester, powered by AI. Today, the gold standard for securing software systems is human pentesters, but with the rise of artificial intelligence, we're stepping up to scale offensive security to meet the ever-growing demand.
+
+AI is transforming the landscape of both cybersecurity and cyberattacks. While millions of people without security expertise are creating software, bad actors are using AI to launch more effective attacks. XBOW fights back with AI-driven superpowers, enabling security teams to stay one step ahead.
+
+Backed by Sequoia Capital and Altimeter, and a team that includes the creators of GitHub Copilot and GitHub Advanced Security, XBOW is not just keeping up with the times—we're shaping the future of cybersecurity. Our mission is simple: to defeat the bad actors before they strike, using AI to revolutionize how we approach offensive security.
+
+We're building something that must be built, and we're the team to do it. Join us in shaping the next frontier of autonomous security.
+
+What You'll Do
+
+As a Senior GTM Engineer, you will be the technical architect behind our hyper-scale AI Go-To-Market engine. This role is designed for a builder who views "Operations" through the lens of engineering. You will be responsible for the scalable plumbing that connects our Product, Marketing, Sales, and Success functions.
+
+A primary focus of this role is driving our Product-Led Growth (PLG) engine. You will build and maintain the integrations that turn product usage data into actionable sales signals. Operating within GitHub, you will ensure our GTM stack is treated with the same rigor, version control, and documentation standards as our core product.
+
+Your Role
+
+PLG Engineering: Architect the "Product-to-Sales" data pipeline, ensuring high-volume product signals are cleaned, routed, and surfaced to GTM teams in real-time.
+Data Orchestration & Enrichment: Manage a multi-layered data strategy: ZoomInfo for foundational Account/Contact firmographics, HG Insights for deep Account technographic data and IT spend intelligence, MadKudu to orchestrate these data points for predictive scoring and prioritization.
+Workflow Automation: Design multi-step automations using Zapier, while evaluating and implementing enterprise-grade middleware like Clay, Tray.io, or Make.
+Systems Architecture: Perform advanced Salesforce engineering and maintain a sophisticated "Source of Truth" within Notion for all technical schemas and GTM logic.
+Cross-Functional Partnership: Act as the technical bridge between GTM Ops (Sales, Marketing, CS) and Product Leadership.
+
+Who You Are
+
+Salesforce & Notion Expertise: (Required) Deep experience with SFDC architecture/APIs and advanced Notion database management.
+Integration Stack: Expert-level knowledge of Zapier. Experience with Clay, Tray.io, or Make is highly preferred.
+Developer Workflow: Must be comfortable operating in GitHub for version control and documentation. Experience with Salesforce DevOps Center is an advantage.
+Enrichment Stack: Proven track record of managing ZoomInfo alongside HG Insights.
+
+Bonus if you have
+
+SQL Proficiency: Ability to write complex queries to extract and transform product usage data from data warehouses (Snowflake, BigQuery, or Redshift).
+Python/Scripting: Experience writing Python for data manipulation, custom API scripts, or Lambda functions.
+Reverse ETL: Experience with Composable CDP tools like Census or Hightouch.
+API & Webhook Mastery: Strong understanding of REST APIs, JSON, and Webhook listeners.
+Data Architecture: Experience with data modeling and schema design.
+Security & Privacy: Familiarity with GDPR/CCPA compliance and SOC2 requirements.
+
+Our Tech Stack
+CRM: Salesforce, Sweep.io
+Engineering/VC: GitHub
+Documentation: Notion
+Enrichment: ZoomInfo, HG Insights, RingLead
+Scoring: MadKudu
+Automation: Zapier
+Additional AI: Gemini Pro, ChatGPT Business, Anthropic
+GTM Systems: Customer.io, Gong.io, SalesNavigator, Persona, Sugar.io
+
+What We Offer
+Compensation & Equity: Competitive salary, equity package.
+Career Growth: Significant opportunities to progress within the sales organization.
+Meaningful Work: Directly impact XBOW's mission to revolutionize cybersecurity.
+
+Location: Remote US
+Contract: Full-time
+
+---
+<!-- Imported: 2026-02-26T00:00:00Z via /add -->
+Redis / redis.io
+title: GTM Engineer
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-redis-4367167274
+salary: 90000 - 125000 currency: USD YEAR
+date added: 2026-02-20T09:48:51.000Z
+location: Canada, NC
+LinkedIn job id: 4367167274
+
+Who We Are
+We're Redis. We built the product that runs the fast apps our world runs on. (If you checked the weather, used your credit card, or looked at your flight status online today, you're welcome.) At Redis, you'll work with the fastest, simplest technology in the business—whether you're building it, telling its story, or selling it to our 10,000+ worldwide customers. We're creating a faster world with simpler experiences. You in?
+
+About The Team
+We're a small and fast-moving team with a simple mandate: remove friction from how Redis goes to market. We build systems, workflows, and AI-powered tools that help Marketing and SDR teams move faster, work smarter, and generate more pipeline with less manual effort.
+
+About The Role
+As a GTM Engineer focused on Marketing and SDR teams, you'll sit at the intersection of engineering, automation, and go-to-market strategy. Your mission is to identify high-leverage problems in how we generate demand and engage prospects, and then build solutions that materially improve outcomes.
+
+You'll Own The Full Lifecycle: Uncovering pain points or inefficiencies with Marketing and SDR teams. Defining what "better" looks like. Designing the solution. Building, shipping, and iterating.
+
+This role is ideal for someone who enjoys both thinking like a product manager and building like an engineer—and who wants their work to directly influence pipeline, velocity, and customer engagement.
+
+What you'll do
+- Partner with Marketing and SDR teams to identify, scope, and prioritize high-impact opportunities for automation and AI.
+- Design and build workflows, automations, and data pipelines.
+- Explore APIs, SDKs, and emerging AI tools to test new ways of accelerating GTM execution.
+- Be equal parts product manager and engineer building solutions.
+- Balance speed with durability by partnering with operations and systems teams.
+- Operate with autonomy — owning projects from problem discovery through solution delivery and iteration.
+
+Must have
+- 2–5 years of experience building or supporting GTM systems.
+- Hands-on experience applying AI, automation, or APIs to problems.
+- Familiarity with modern AI and automation tools (e.g., OpenAI, Cursor, n8n, v0/Vercel, Glean, or similar).
+- Strong problem-solving skills and comfort working through ambiguity.
+- A bias for action.
+- Clear communicator.
+- Thrives in a small, high-growth environment.
+
+Nice to have
+- Ability to write prototype- or production-level code in Python, JavaScript/TypeScript.
+- Experience with GTM platforms such as Salesforce, Marketo, Pocus, Asana.
+- Exposure to experimentation, analytics, or performance measurement in a GTM context.
+
+Salary: $96,000 – $144,000 per year (NY, CA, WA, CO, RI)
+#REMOTE
+
+---
+<!-- Imported: 2026-02-26T00:00:00Z via /add -->
+Wiz / wiz.io
+title: Lead GTM Systems Engineer
+job url: https://www.linkedin.com/jobs/view/lead-gtm-systems-engineer-at-wiz-4373151562
+
+Come join the company that is reinventing cloud security and empowering businesses to thrive in the cloud. As the fastest-growing startup ever, Wiz is on a mission to help organizations secure cloud environments that will accelerate their businesses. Trusted by security teams all over the world, we have a proven track record of success and a culture that values world-class talent.
+
+Our Wizards from over 20 countries work together to protect the infrastructure of our hundreds of customers, including over 50% of the Fortune 100, who trust us to scan and secure over 230 billion files daily.
+
+Summary
+The Business Systems Team is central to Wiz's operational excellence and growth. As the Lead GTM Systems Engineer, you will serve as the technical architect and primary escalation point for Post-Sales and Marketplace ecosystems. Your mission is to drive operational excellence and scalability by owning the technical health, development, and support of the post-sales stack, currently centered on Planhat, Kantata, and Tackle.io. You will ensure these platforms are seamlessly integrated into Salesforce core, maintaining a unified data thread from contract signature through to service delivery.
+
+What You'll Do
+- Integration Ownership: Primary technical owner for Salesforce to Planhat integration.
+- Team Mentorship & Operational Maturity: Technical mentor to junior admins, drive SOPs and deployment workflows.
+- Stakeholder Management: Translate business requirements into technical roadmaps via Agile delivery.
+- System Development and Automation: Design configurations within Kantata and Tackle.io; automation standards bridging Sales and Post-Sales.
+- End User Support: Expert support to Global Customer Success and RevOps teams.
+- GTM Systems SME: Technical advisor for new GTM tooling evaluations.
+- Platform Performance & Security: Proactive monitoring, security, compliance.
+
+What You'll Bring
+- 8+ years as GTM Systems Engineer/Business Systems Administrator, 2+ years in lead/manager role.
+- PSA and CS Tooling Expertise (Planhat, Kantata highly preferred).
+- Salesforce Architecture Proficiency including CPQ/Revenue Cloud.
+- API skills (REST, SOAP).
+- Automation Mindset.
+- Strong Analytical Skills for complex data sync issues.
+
+US Base Pay Range: $166,000—$229,000 USD
+
+---
+<!-- Imported: 2026-02-26T00:00:00Z via /add -->
+Confluent / confluent.io
+title: GTM Systems & AI Engineer
+job url: https://www.linkedin.com/jobs/view/gtm-systems-ai-engineer-at-confluent-4372755792
+salary: 133600 - 157000 currency: USD YEAR
+date added: 2026-02-13T18:57:38.000Z
+location: United States
+LinkedIn job id: 4372755792
+
+We're not just building better tech. We're rewriting how data moves and what the world can do with it. With Confluent, data doesn't sit still. Our platform puts information in motion, streaming in near real-time so companies can react faster, build smarter, and deliver experiences as dynamic as the world around them.
+
+About The Role
+You'll drive our shift to an AI-first GTM operating model across Sales and Customer Success. This role focuses on improving GTM execution by removing friction from the customer journey, from pipeline generation and deal execution through onboarding, adoption, expansion, and renewal. You will take real workflow pain from the field and translate it into practical, measurable improvements using AI agents, automation, and better data flow across systems.
+
+You'll design and ship solutions using tools like Relevance AI, Momentum, Clay, and LLM tooling. You'll influence GTM AI strategy by shipping what works, setting a high bar for quality and operational rigor, and creating reusable patterns that scale. You'll own outcomes end-to-end.
+
+What You Will Do
+- Own AI intake and delivery across Sales and CSG
+- Build and ship AI workflows end-to-end
+- Partner cross-functionally to unblock delivery
+- Build with guardrails: permissioning, auditability, compliance
+- Launch what you build with enablement
+- Own quality and operational rigor
+- Measure impact and iterate
+
+What You Will Bring
+- 3 to 7+ years in Revenue Operations, GTM Systems, Sales Ops, CS Ops, Business Systems
+- APIs/webhooks, JSON payloads, SQL (BigQuery preferred)
+- Salesforce fluency
+
+What Gives You An Edge
+- Hands-on experience with Relevance AI, Momentum, Clay, Gemini, or Claude
+- Familiarity with Salesloft, Zoominfo, Clari, D&B, DemandTools
+- Experience building AI workflows with governance patterns
+
+Compensation Range: $133.6K - $157K
+
+---
+<!-- Imported: 2026-02-26T00:00:00Z via /add -->
+Wrapbook / wrapbook.com
+title: GTM Engineer (Pre-Sale)
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-pre-sale-at-wrapbook-4365140304
+salary: 110400 - 174400 currency: USD YEAR
+date added: 2026-02-12T11:26:33.080Z
+location: United States
+
+About Us
+Wrapbook is a smart, intuitive platform that makes production payroll and accounting easier, faster, and more secure. Unified payroll platform connecting production, accounting, cast, and crew. Trusted by top production companies including SMUGGLER, Tuff, and GhostRobot. 250+ people across USA and Canada. Backed by WndrCo, Andreessen Horowitz, and A* Capital. Raised $130M.
+
+The Opportunity - GTM Engineer (Pre-Sale) - Remote (USA / Canada)
+Designs and builds the systems that power how Wrapbook generates and converts demand. Reduces repetitive manual work for GTM teams, embeds automation and AI. Turns real GTM motions into durable, production-ready Salesforce workflows. Partners with Marketing/Sales Ops and GTM Systems Architecture.
+
+What You'll Do
+- Design and maintain pre-sale GTM workflows in Salesforce (routing, scoring, qualification, handoffs, deal support)
+- Implement lead management and enrichment workflows in Salesforce
+- Configure Salesforce using Flows, custom objects, validation rules, reports, dashboards
+- Partner with GTM Systems Architect on system designs
+- Implement automation and AI-assisted workflows with guardrails
+- Establish monitoring and validation for high-impact workflows
+- Partner with GTM Engineer (Post-Sale) for clean handoffs
+
+What You'll Have
+- 4-6+ years in Salesforce administration, business systems, RevOps, or GTM operations engineering
+- Strong Salesforce configuration (Flows, custom objects, reports, dashboards)
+- Salesforce Administrator certification strongly preferred
+- Working familiarity with Apex, APIs, and integrations
+- Experience supporting Marketing and Sales in B2B SaaS
+- Strong understanding of demand gen, pipeline creation, pre-sale GTM workflows
+
+Technologies: Salesforce, Marketo, Outreach, Gong, Omni
+Compensation Range: $110.4K - $174.4K
+
+---
+<!-- Imported: 2026-02-26T00:00:00Z via /add -->
+Tapcheck / tapcheck.com
+title: GTM Engineer (LinkedIn) / GTM AI Engineer (JD body)
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-tapcheck-4370891715
+salary: 160000 - 190000 currency: USD YEAR
+date added: 2026-02-10T01:20:32.000Z
+location: Plano, TX
+
+About Tapcheck
+Tapcheck is a digital platform offering easy and convenient access to on-demand earnings early. Available at no cost to employers, app-based on-demand pay solution helps relieve financial stress.
+
+About The Job
+Tapcheck is scaling rapidly, and revenue teams need intelligent automation. As GTM AI Engineer, you'll architect and deploy AI-powered solutions across BDRs, Marketing, Sales, Channel, and Customer Success. You'll build intelligent systems that transform manual processes into automated workflows, surface actionable insights, and give every rep a productivity multiplier. Reporting to VP of Revenue Operations, you own the AI and automation roadmap.
+
+Remote and hybrid option. Within 30 miles of Plano TX: in-office Tue-Thu. Beyond: fully remote.
+
+What You'll Do
+- AI-Powered Revenue Automation: auto-enrich leads, generate personalized outreach, predict deal outcomes, flag accounts
+- BDR & Sales Productivity Tools: AI agents for account research, competitive intelligence, talking points, deal risk surfacing
+- Marketing & Channel Intelligence: AI-driven attribution, campaign optimization, lead scoring, partner routing
+- Customer Success Automation: churn prediction, expansion identification, automated QBR decks
+- Integration & Systems Architecture: integrate AI into Salesforce, Gong, HubSpot
+
+What You'll Bring
+- 3-5 years building AI/ML solutions or intelligent automation in B2B SaaS, fintech, or RevOps
+- Strong Python, SQL, modern AI/ML frameworks
+- LLMs (OpenAI, Claude), prompt engineering, building AI agents
+- Workflow automation tools (Clay, n8n, Zapier) and data pipelines
+- Salesforce and modern revenue tech stack (Gong, HubSpot, Outreach, ZoomInfo)
+- Revenue acumen, APIs/webhooks, data-driven measurement
+
+Compensation: $160-190K + Bonus/Equity
+
+---
+<!-- Imported: 2026-02-26T00:00:00Z via /add -->
+Root Layer AI / root-layer.ai
+title: GTM Engineer
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-root-layer-ai-4371310736
+salary: 1500 - 12000 currency: USD MONTH (1099 contract)
+date added: 2026-02-11T23:06:52.701Z
+location: St Paul, MN
+
+About the Company
+Root Layer is Sales Enablement powered by lived experience, enhanced by AI; helping you refine your message, understand your market, and scale your outreach machine.
+
+About the Role
+This is a 1099 Role. Expected Comp ranges between $1,500 and $12,000 monthly, depending on client load.
+
+GTM Engineers help identify total market opportunity and build the outbound machine for each client — segmenting and ranking addressable portions of the market, backing with buyer intent signals, developing targeted buyer lists, managing outbound campaigns.
+
+Scrappy builder mindset, balance custom builds vs off-the-shelf tools, iterate based on feedback. Quality is primary watchword. Work directly with Sales Specialists and AI tools. Understand difference between reach and relevance.
+
+Expertise and Tools (Must demo live):
+- Clay, Cursor, and Claude Code
+- Understanding APIs and thinking in Data Flows
+- Working with CRMs like HubSpot or Salesforce
+- Mass outbound management, Domain Management
+
+Nice to have: Prior inside sales experience
+
+---
+<!-- Imported: 2026-02-26T00:00:00Z via /add -->
+Finout / finout.io
+title: GTM Engineer
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-finout-4362472658
+salary: 130000 - 160000 currency: USD YEAR
+date added: 2026-02-22T13:55:57.000Z
+location: New York, NY
+
+Cloud is now one of the biggest business expenses—and one of the hardest to manage. At Finout, we're giving companies the power to make smarter, faster, and more strategic decisions about the cloud. Trusted by The New York Times, Wiz, Elastic, SiriusXM, and Lyft. Backed by top-tier investors with over $85M raised. 4 years, 100+ people across Tel Aviv and New York.
+
+About The Role
+GTM Engineer obsessed with treating Revenue Operations as a product. Not just "manage HubSpot" — architect the unified decision engine powering next phase of growth. Building complex integrations, designing AI agents for personalized outreach, solving data problems between Growth and Ops.
+
+What you'll do:
+- Architect the Growth Engine: complex data pipelines across Clay, HubSpot, Salesforce
+- Build & Deploy AI Agents: autonomous AI agents (Python/LLMs) for lead research, outbound personalization, signal processing (requires 2+ years AI implementation)
+- Orchestrate Inbound & Outbound: decisioning layer logic
+- Bridge Ops and Growth: API connectors and scripts
+- Data Enrichment & Integrity: enrichment waterfalls in Clay
+
+What We're Looking For:
+- 2+ years AI implementation (building agents/LLM workflows)
+- Python, API connectors/scripts
+- Clay, HubSpot, Salesforce, Zapier expertise
+- Builder mentality
+- Balance experimentation with data hygiene/governance
+
+Hybrid: 3 days/week Midtown Manhattan office
+Compensation: $130,000 - $160,000 annually
+
+---
+<!-- Imported: 2026-02-26T00:00:00Z via /add -->
+Sapien / sapien.ai
+title: GTM Engineer
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-sapien-4370903969
+salary: none
+date added: 2026-02-10T02:11:10.000Z
+location: New York, NY
+
+Who We Are
+Sapien is rethinking how finance teams operate in the age of AI. Building toward an autonomous CFO — systems that run company financials end-to-end. Platform analyzes complex financial data in real time. Partners with traditional businesses (manufacturing, healthcare, restaurants, enterprises). HQ'd by Madison Square Park in NYC. Backed by General Catalyst, Neo, and operators from Google, OpenAI, Microsoft, Ramp, Stripe ($9M raised).
+
+The Role
+Engineering owner of customer success. Build internal tools for sales team, set up customer modules and data pipelines, be DRI for prospect conversion and customer expansion. Customer-facing engineering role — split time between internal GTM tooling and hands-on customer work. Full-stack skills in service of customer outcomes.
+
+What You'll Do
+- Build internal tools that accelerate sales motion (demo generation, onboarding automation, sales team interfaces)
+- Own customer module setup from technical sale through production
+- Build and maintain integrations with customer systems (ERPs, CRMs, accounting software)
+- Be DRI for customer performance (accuracy, reliability, value delivery)
+- Design product features that turn pilots into successful deployments
+- Identify patterns across customers that become platform capabilities
+- Make customer operations scalable
+
+What We're Looking For
+- Full-stack engineering: React, TypeScript, Python, SQL
+- Customer-facing experience
+- Pragmatic solutions over perfect architecture
+- Ownership mentality for customer outcomes
+- Operate with ambiguity
+
+---
+<!-- Imported: 2026-02-26T00:00:00Z via /add -->
+Axial / axial.com
+title: GTM Engineer
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-axial-4371200255
+salary: 125000 - 175000 currency: USD YEAR
+date added: 2026-02-10T20:02:03.000Z
+location: New York, NY
+
+About Axial
+Axial is the trusted online M&A platform connecting buyers and sellers of $5M-$100M American privately held companies. 4,500+ professional acquirers, 3,000 M&A advisors. Founder-led, profitable since 2020, category leader. 60 employees, NYC. 12,500+ private companies pursued exit via platform in 2025, $1B+ annual transaction volume.
+
+Overview
+GTM Engineer to design, build, and operate systems powering GTM function. Sits at intersection of BizOps, GTM, and Product. Own and evolve AI-powered systems across member lifecycle. Deploy intelligent workflows for member qualification/verification, automated support resolution, agentic SDR systems, AI-driven chat.
+
+Responsibilities
+- AI and Agentic Systems Development
+- Workflow Orchestration and Automation (n8n, Clay, Zapier, Google Apps Script, custom code)
+- Internal Tools (Superblocks)
+- Data Infrastructure for AI and Automation
+- GTM Systems (Salesforce, HubSpot, Outreach, Gong)
+- Strategic Projects and Experimentation
+- Cross-Functional Partnership
+
+Qualifications
+- 3-5 years in BizOps, Engineering, RevOps, SalesOps, GTM Engineering
+- Automation: n8n, Clay, Zapier, Google Apps Script
+- GTM Systems: Salesforce, HubSpot, Outreach, Gong
+- Code: JavaScript, SQL, Python, Apps Script
+- APIs, webhooks, structured data
+- Familiarity with AI-assisted development tools
+
+Hybrid: 3 days/week (Tue/Wed/Thu) in Manhattan
+Pay: $125,000 - $175,000 USD

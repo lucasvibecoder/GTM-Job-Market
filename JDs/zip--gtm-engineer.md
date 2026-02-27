@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required: 4
 archetype: gtm-systems-architect
 archetype_secondary: growth-engineer
+topics: []
 tools:
   - Salesforce
   - Clay

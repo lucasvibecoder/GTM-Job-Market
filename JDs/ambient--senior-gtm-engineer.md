@@ -17,6 +17,7 @@ implicit_stack:
 yoe_required: 6
 archetype: gtm-systems-architect
 archetype_secondary: outbound-builder
+topics: [agentic-engineering]
 tools:
   - Clay
   - AirOps
@@ -77,4 +78,5 @@ Ambient.ai is a Series B AI-powered physical security platform (a16z, Y Combinat
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[outbound-builder]]
 - **Company Type**: [[security]] | [[ai-infrastructure]]
+- **Topics**: [[agentic-engineering]]
 - **Tools**: [[Clay]] | [[AirOps]] | [[n8n]] | [[Salesforce]] | [[HubSpot]] | [[Snowflake (data)]] | [[Cursor]]

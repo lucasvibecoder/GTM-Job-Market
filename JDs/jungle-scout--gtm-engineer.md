@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required:
 archetype: growth-engineer
 archetype_secondary: revops-ops
+topics: []
 tools:
   - SQL
   - Salesforce

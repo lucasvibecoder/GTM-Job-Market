@@ -16,6 +16,7 @@ implicit_stack:
 yoe_required: null
 archetype: outbound-builder
 archetype_secondary: revops-ops
+topics: []
 tools:
   - HubSpot
   - Equals

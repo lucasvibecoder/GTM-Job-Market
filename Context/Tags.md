@@ -11,6 +11,7 @@ Auto-assign 1-3 per JD based on relevance:
 - `ai-strategy` — AI consulting, strategy audits, change management
 - `data-engineering` — SQL, warehouses, ETL, dashboards
 - `sales-enablement` — Playbooks, tooling for sales teams, rep productivity
+- `agentic-engineering` — Role requires daily use of AI coding agents (Claude Code, Cursor, etc.) to build, not just familiarity. AI/LLM building skills (RAG, agents, context engineering) are core requirements, not nice-to-haves.
 
 ## Known Tools — Canonical Names
 Normalize all tool mentions to these exact strings:
@@ -126,6 +127,33 @@ Normalize all tool mentions to these exact strings:
 | Knode.ai | knode.ai |
 | Amigo AI | amigo AI agent |
 | Tray | tray.io, Tray.io |
+| Netlify | netlify.com |
+| Heap | heap.io, Heap Analytics |
+| Groove | Groove by Clari |
+| Clari Copilot | Clari, clari.com |
+| Trigger.dev | trigger.dev |
+| Pipedream | pipedream.com |
+| MadKudu | madkudu |
+| Sweep | sweep.io |
+| RingLead | ringlead |
+| Customer.io | customer.io |
+| Persona | persona.com, Persona (identity) |
+| Census | census (reverse ETL) |
+| Hightouch | hightouch (reverse ETL) |
+| GitHub | github.com, git |
+| Glean | glean (AI search) |
+| Vercel | vercel.com |
+| v0 | v0.dev (Vercel AI) |
+| Pocus | pocus (product-led sales) |
+| Asana | asana.com |
+| Kantata | kantata (PSA platform) |
+| Tackle | tackle.io (marketplace management) |
+| Relevance AI | relevanceai, Relevance |
+| D&B | Dun & Bradstreet, DnB |
+| DemandTools | demandtools (Salesforce data quality) |
+| Omni | omni (analytics/BI) |
+| Superblocks | superblocks (internal tool builder) |
+| Google Apps Script | Apps Script, GAS |
 
 ## Company Type Tags
 Classify based on what the company's *product* does. Most companies get 1 tag; use 2+ only when the company genuinely straddles categories.

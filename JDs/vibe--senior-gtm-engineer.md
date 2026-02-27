@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required: 3
 archetype: growth-engineer
 archetype_secondary: outbound-builder
+topics: []
 tools:
   - n8n
   - Zapier

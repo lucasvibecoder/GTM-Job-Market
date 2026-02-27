@@ -17,6 +17,7 @@ implicit_stack:
 yoe_required: 4
 archetype: "gtm-systems-architect"
 archetype_secondary: "outbound-builder"
+topics: []
 tools:
   - Amplemarket
   - Knode.ai

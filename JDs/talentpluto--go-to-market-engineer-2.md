@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required:
 archetype: growth-engineer
 archetype_secondary:
+topics: []
 tools: []
 skills_required:
   - Execute independently — ownership from idea to completion

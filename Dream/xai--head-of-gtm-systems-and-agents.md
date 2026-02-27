@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required: null
 archetype: gtm-systems-architect
 archetype_secondary: null
+topics: [agentic-engineering]
 tools:
   - HubSpot
   - Clay
@@ -83,4 +84,5 @@ xAI (Elon Musk's AI company) is hiring a Head of GTM Systems & Agents — a hand
 ## Links
 - **Archetype**: [[gtm-systems-architect]]
 - **Company Type**: [[ai-infrastructure]]
+- **Topics**: [[agentic-engineering]]
 - **Tools**: [[HubSpot]] | [[Clay]] | [[Gong]]

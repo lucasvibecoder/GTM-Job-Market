@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required: 1
 archetype: outbound-builder
 archetype_secondary: growth-engineer
+topics: []
 tools:
   - Dust
   - Common Room

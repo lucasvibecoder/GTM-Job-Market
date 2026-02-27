@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required: 2
 archetype: outbound-builder
 archetype_secondary: revops-ops
+topics: []
 tools:
   - Salesforce
   - HubSpot

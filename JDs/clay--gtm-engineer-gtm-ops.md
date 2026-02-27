@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required: 4
 archetype: revops-ops
 archetype_secondary: gtm-systems-architect
+topics: []
 tools:
   - SQL
 skills_required:

@@ -15,6 +15,7 @@ implicit_stack: []
 yoe_required:
 archetype: growth-engineer
 archetype_secondary: gtm-systems-architect
+topics: []
 tools:
   - Python
   - JavaScript

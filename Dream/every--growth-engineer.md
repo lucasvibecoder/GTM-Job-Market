@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required: 2
 archetype: growth-engineer
 archetype_secondary: null
+topics: []
 tools: []
 skills_required:
   - 2+ years shipping user-facing features that moved meaningful metrics

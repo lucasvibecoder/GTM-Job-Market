@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required: 2
 archetype: growth-engineer
 archetype_secondary: null
+topics: []
 tools:
   - Salesforce
   - Apollo

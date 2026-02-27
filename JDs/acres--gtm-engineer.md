@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required:
 archetype: outbound-builder
 archetype_secondary: revops-ops
+topics: []
 tools:
   - Clay
   - HubSpot

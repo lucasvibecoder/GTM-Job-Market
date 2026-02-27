@@ -15,6 +15,7 @@ implicit_stack: []
 yoe_required: 2
 archetype: outbound-builder
 archetype_secondary: null
+topics: []
 tools:
   - Clay
   - Smartlead

@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required: 3
 archetype: ai-strategist
 archetype_secondary:
+topics: []
 tools: []
 skills_required:
   - 3-7+ years in GTM, Sales Engineering, Partnerships, or Solutions Engineering

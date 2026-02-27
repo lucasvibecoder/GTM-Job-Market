@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required: null
 archetype: ai-strategist
 archetype_secondary: null
+topics: []
 tools: []
 skills_required:
   - Communication skills of a top strategic seller

@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required: 4
 archetype: ai-strategist
 archetype_secondary: outbound-builder
+topics: []
 tools:
   - Apollo
 skills_required:

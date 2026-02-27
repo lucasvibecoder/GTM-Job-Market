@@ -15,6 +15,7 @@ implicit_stack: []
 yoe_required:
 archetype: outbound-builder
 archetype_secondary:
+topics: []
 tools:
   - n8n
 skills_required:

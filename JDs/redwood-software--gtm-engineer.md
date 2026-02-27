@@ -16,6 +16,7 @@ implicit_stack:
 yoe_required: 5
 archetype: "ai-strategist"
 archetype_secondary: "growth-engineer"
+topics: []
 tools:
   - Make
   - Workato

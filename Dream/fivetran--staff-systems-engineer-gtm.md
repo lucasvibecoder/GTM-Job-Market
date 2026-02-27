@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required: 5
 archetype: revops-ops
 archetype_secondary: gtm-systems-architect
+topics: []
 tools:
   - Salesforce
   - Python

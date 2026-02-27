@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required: 2
 archetype: gtm-systems-architect
 archetype_secondary: outbound-builder
+topics: []
 tools:
   - HubSpot
   - Planhat

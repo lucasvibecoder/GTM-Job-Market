@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required: null
 archetype: growth-engineer
 archetype_secondary: outbound-builder
+topics: []
 tools:
   - HubSpot
   - Zapier

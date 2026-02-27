@@ -14,6 +14,7 @@ implicit_stack: []
 yoe_required: 5
 archetype: outbound-builder
 archetype_secondary: gtm-systems-architect
+topics: []
 tools:
   - SQL
 skills_required:
