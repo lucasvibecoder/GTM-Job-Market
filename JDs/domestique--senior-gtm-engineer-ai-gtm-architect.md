@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 7
 archetype: ai-strategist
 archetype_secondary: gtm-systems-architect
-topics: []
+topics:
+  - ai-strategy
+  - gtm-systems
 tools:
   - Clay
   - Make
@@ -90,4 +92,5 @@ Domestique is a hands-on Revenue Operations consultancy partnering with high-gro
 - **Archetype**: [[ai-strategist]]
 - **Secondary**: [[gtm-systems-architect]]
 - **Company Type**: [[consulting]]
+- **Topics**: [[ai-strategy]] | [[gtm-systems]]
 - **Tools**: [[Clay]] | [[Make]] | [[n8n]] | [[Zapier]] | [[Claude]] | [[ChatGPT]] | [[Gemini]] | [[HubSpot]] | [[Salesforce]] | [[Snowflake (data)]] | [[BigQuery]]

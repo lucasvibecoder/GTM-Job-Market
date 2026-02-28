@@ -14,7 +14,8 @@ implicit_stack: []
 yoe_required: 2
 archetype: outbound-builder
 archetype_secondary:
-topics: []
+topics:
+  - sales-enablement
 tools:
   - Nooks
   - HubSpot
@@ -73,4 +74,5 @@ Nooks ($70M+ raised, Kleiner Perkins-backed) builds the AI Sales Assistant Platf
 ## Links
 - **Archetype**: [[outbound-builder]]
 - **Company Type**: [[sales-tech]]
+- **Topics**: [[sales-enablement]]
 - **Tools**: [[Nooks]] | [[HubSpot]] | [[ZoomInfo]] | [[LinkedIn Sales Navigator]]

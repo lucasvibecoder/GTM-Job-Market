@@ -13,7 +13,9 @@ implicit_stack: []
 yoe_required:
 archetype: "growth-engineer"
 archetype_secondary:
-topics: []
+topics:
+  - growth-engineering
+  - sales-enablement
 tools: [Python, SQL, JavaScript]
 skills_required:
   - "Full-stack engineering experience with React, TypeScript, Python, and SQL"
@@ -63,4 +65,5 @@ Sapien is building toward an "autonomous CFO" — an AI platform that runs compa
 ## Links
 - **Archetype**: [[growth-engineer]]
 - **Company Type**: [[ai-infrastructure]] | [[fintech]]
+- **Topics**: [[growth-engineering]] | [[sales-enablement]]
 - **Tools**: [[Python]] | [[SQL]] | [[JavaScript]]

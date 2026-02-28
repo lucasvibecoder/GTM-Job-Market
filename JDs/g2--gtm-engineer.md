@@ -16,7 +16,9 @@ implicit_stack:
 yoe_required: 3
 archetype: "ai-strategist"
 archetype_secondary: "growth-engineer"
-topics: []
+topics:
+  - ai-strategy
+  - gtm-systems
 tools:
   - OpenAI API
   - Claude
@@ -90,4 +92,5 @@ G2 is the world's largest software marketplace (now merged with Capterra, Softwa
 - **Archetype**: [[ai-strategist]]
 - **Secondary**: [[growth-engineer]]
 - **Company Type**: [[sales-tech]] | [[data-platform]]
+- **Topics**: [[ai-strategy]] | [[gtm-systems]]
 - **Tools**: [[OpenAI API]] | [[Claude]] | [[Zapier]] | [[Clay]] | [[Hex]] | [[Notion]] | [[Salesforce]] | [[SalesLoft]] | [[Gong]] | [[Slack]] | [[Snowflake (data)]] | [[Looker]] | [[Airtable]] | [[Piper]] | [[G2 Intent]]

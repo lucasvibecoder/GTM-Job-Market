@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 2
 archetype: growth-engineer
 archetype_secondary:
-topics: []
+topics:
+  - growth-engineering
+  - data-engineering
 tools:
   - Python
   - SQL
@@ -78,4 +80,5 @@ Harper (YC W25) is an AI-powered commercial insurance platform that's grown 100x
 ## Links
 - **Archetype**: [[growth-engineer]]
 - **Company Type**: [[vertical-saas]]
+- **Topics**: [[growth-engineering]] | [[data-engineering]]
 - **Tools**: [[Python]] | [[SQL]] | [[PostHog]] | [[Google Ads]] | [[Amplitude]]

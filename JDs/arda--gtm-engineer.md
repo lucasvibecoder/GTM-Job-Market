@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required:
 archetype: gtm-systems-architect
 archetype_secondary: growth-engineer
-topics: []
+topics:
+  - gtm-systems
+  - outbound-infrastructure
 tools:
   - Clay
   - Unify
@@ -87,4 +89,5 @@ Arda modernizes inventory and order management for manufacturers with scannable 
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[growth-engineer]]
 - **Company Type**: [[vertical-saas]]
+- **Topics**: [[gtm-systems]] | [[outbound-infrastructure]]
 - **Tools**: [[Clay]] | [[Unify]] | [[HubSpot]] | [[SQL]] | [[Python]] | [[JavaScript]]

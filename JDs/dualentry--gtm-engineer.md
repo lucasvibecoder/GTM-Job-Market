@@ -14,7 +14,8 @@ implicit_stack: []
 yoe_required: 2
 archetype: outbound-builder
 archetype_secondary:
-topics: []
+topics:
+  - outbound-infrastructure
 tools:
   - HubSpot
   - Smartlead
@@ -78,4 +79,5 @@ DualEntry (founded 2024, $100M+ raised from Lightspeed/Khosla/Google Ventures) b
 ## Links
 - **Archetype**: [[outbound-builder]]
 - **Company Type**: [[fintech]]
+- **Topics**: [[outbound-infrastructure]]
 - **Tools**: [[HubSpot]] | [[Smartlead]] | [[HeyReach]] | [[Clay]] | [[Apollo]] | [[Nooks]] | [[FullEnrich]] | [[RB2B]] | [[Demandbase]]

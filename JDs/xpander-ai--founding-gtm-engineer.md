@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required:
 archetype: growth-engineer
 archetype_secondary: gtm-systems-architect
-topics: []
+topics:
+  - sales-enablement
+  - agentic-engineering
 tools: []
 skills_required:
   - Strong engineer first — can ship and debug real systems
@@ -68,3 +70,4 @@ xpander.ai builds the runtime and control plane for production AI agents — dep
 - **Archetype**: [[growth-engineer]]
 - **Secondary**: [[gtm-systems-architect]]
 - **Company Type**: [[ai-infrastructure]]
+- **Topics**: [[sales-enablement]] | [[agentic-engineering]]

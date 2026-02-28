@@ -14,7 +14,8 @@ implicit_stack: []
 yoe_required: null
 archetype: ai-strategist
 archetype_secondary: null
-topics: []
+topics:
+  - ai-strategy
 tools: []
 skills_required:
   - Communication skills of a top strategic seller
@@ -80,3 +81,4 @@ Tenex positions itself as "Chief AI Officer for mid-market and enterprise compan
 ## Links
 - **Archetype**: [[ai-strategist]]
 - **Company Type**: [[consulting]]
+- **Topics**: [[ai-strategy]]

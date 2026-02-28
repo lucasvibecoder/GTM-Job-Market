@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 3
 archetype: growth-engineer
 archetype_secondary: outbound-builder
-topics: []
+topics:
+  - gtm-systems
+  - growth-engineering
 tools:
   - n8n
   - Zapier
@@ -75,4 +77,5 @@ Vibe.co is a CTV advertising platform aiming to 2.5x revenue in 2026. The Senior
 - **Archetype**: [[growth-engineer]]
 - **Secondary**: [[outbound-builder]]
 - **Company Type**: [[adtech]]
+- **Topics**: [[gtm-systems]] | [[growth-engineering]]
 - **Tools**: [[n8n]] | [[Zapier]] | [[Make]] | [[Cursor]] | [[Claude Code]] | [[ChatGPT]]

@@ -15,7 +15,9 @@ implicit_stack: []
 yoe_required: null
 archetype: outbound-builder
 archetype_secondary: gtm-systems-architect
-topics: []
+topics:
+  - outbound-infrastructure
+  - gtm-systems
 tools:
   - Clay
   - Unify
@@ -65,4 +67,5 @@ Lightfield is an AI-native CRM (backed by Greylock, Lightspeed, Coatue) that ass
 - **Archetype**: [[outbound-builder]]
 - **Secondary**: [[gtm-systems-architect]]
 - **Company Type**: [[sales-tech]] | [[ai-infrastructure]]
+- **Topics**: [[outbound-infrastructure]] | [[gtm-systems]]
 - **Tools**: [[Clay]] | [[Unify]] | [[Zapier]] | [[n8n]]

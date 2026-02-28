@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 5
 archetype: gtm-systems-architect
 archetype_secondary: growth-engineer
-topics: []
+topics:
+  - gtm-systems
+  - agentic-engineering
 tools:
   - Salesforce
   - HubSpot
@@ -78,4 +80,5 @@ Traversal is an AI SRE platform for the enterprise — trusted by large companie
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[growth-engineer]]
 - **Company Type**: [[ai-infrastructure]]
+- **Topics**: [[gtm-systems]] | [[agentic-engineering]]
 - **Tools**: [[Salesforce]] | [[HubSpot]] | [[Clay]] | [[Outreach]]

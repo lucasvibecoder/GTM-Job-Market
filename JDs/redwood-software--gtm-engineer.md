@@ -16,7 +16,9 @@ implicit_stack:
 yoe_required: 5
 archetype: "ai-strategist"
 archetype_secondary: "growth-engineer"
-topics: []
+topics:
+  - marketing-ops
+  - ai-strategy
 tools:
   - Make
   - Workato
@@ -109,4 +111,5 @@ Redwood Software builds the first SaaS-based composable automation platform spec
 - **Archetype**: [[ai-strategist]]
 - **Secondary**: [[growth-engineer]]
 - **Company Type**: [[dev-tools]]
+- **Topics**: [[marketing-ops]] | [[ai-strategy]]
 - **Tools**: [[Make]] | [[Workato]] | [[n8n]] | [[Tofu]] | [[Regie.ai]] | [[RevSure]] | [[Salesforce]] | [[Marketo]] | [[Outreach]] | [[Mutiny]] | [[OpenAI API]] | [[Claude]] | [[Gemini]] | [[Zapier]] | [[Python]] | [[JavaScript]] | [[SQL]] | [[Airflow]]

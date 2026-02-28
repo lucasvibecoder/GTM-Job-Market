@@ -17,7 +17,9 @@ implicit_stack:
 yoe_required: 3
 archetype: growth-engineer
 archetype_secondary:
-topics: []
+topics:
+  - data-engineering
+  - agentic-engineering
 tools:
   - Python
   - SQL
@@ -81,4 +83,5 @@ Rippling ($1.4B+ raised, Kleiner Perkins/Founders Fund/Sequoia-backed) gives bus
 ## Links
 - **Archetype**: [[growth-engineer]]
 - **Company Type**: [[vertical-saas]]
+- **Topics**: [[data-engineering]] | [[agentic-engineering]]
 - **Tools**: [[Python]] | [[SQL]] | [[Snowflake (data)]] | [[Databricks]] | [[Kafka]] | [[OpenAI API]] | [[LangChain]]

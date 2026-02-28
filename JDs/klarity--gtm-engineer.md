@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 4
 archetype: gtm-systems-architect
 archetype_secondary: revops-ops
-topics: []
+topics:
+  - gtm-systems
+  - revops
 tools:
   - Salesforce
   - Zapier
@@ -75,4 +77,5 @@ Klarity is an AI-native company operationalizing AI internally and delivering it
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[revops-ops]]
 - **Company Type**: [[ai-infrastructure]]
+- **Topics**: [[gtm-systems]] | [[revops]]
 - **Tools**: [[Salesforce]] | [[Zapier]] | [[Make]] | [[n8n]] | [[Clay]] | [[dbt]] | [[Airflow]] | [[Fivetran]]

@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 3
 archetype: outbound-builder
 archetype_secondary: growth-engineer
-topics: []
+topics:
+  - outbound-infrastructure
+  - growth-engineering
 tools:
   - Clay
   - LinkedIn Sales Navigator
@@ -68,4 +70,5 @@ Paraform is a recruiting platform for elite recruiters (mid 8-figures ARR, backe
 - **Archetype**: [[outbound-builder]]
 - **Secondary**: [[growth-engineer]]
 - **Company Type**: [[recruiting]]
+- **Topics**: [[outbound-infrastructure]] | [[growth-engineering]]
 - **Tools**: [[Clay]] | [[LinkedIn Sales Navigator]] | [[n8n]] | [[Zapier]]

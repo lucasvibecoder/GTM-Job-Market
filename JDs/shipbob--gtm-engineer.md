@@ -14,7 +14,10 @@ implicit_stack: []
 yoe_required: 4
 archetype: "gtm-systems-architect"
 archetype_secondary: "revops-ops"
-topics: []
+topics:
+  - gtm-systems
+  - outbound-infrastructure
+  - revops
 tools:
   - Clay
   - Salesforce
@@ -92,4 +95,5 @@ ShipBob is the nation's leading e-commerce fulfillment and logistics platform, h
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[revops-ops]]
 - **Company Type**: [[vertical-saas]]
+- **Topics**: [[gtm-systems]] | [[outbound-infrastructure]] | [[revops]]
 - **Tools**: [[Clay]] | [[Salesforce]] | [[Gong]] | [[Vector]] | [[6sense]]

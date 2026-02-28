@@ -14,7 +14,8 @@ implicit_stack: []
 yoe_required: 4
 archetype: revops-ops
 archetype_secondary: gtm-systems-architect
-topics: []
+topics:
+  - revops
 tools:
   - SQL
 skills_required:
@@ -68,4 +69,5 @@ Clay ($5B valuation, $100M+ revenue, Sequoia/CapitalG/First Round-backed) is the
 - **Archetype**: [[revops-ops]]
 - **Secondary**: [[gtm-systems-architect]]
 - **Company Type**: [[sales-tech]]
+- **Topics**: [[revops]]
 - **Tools**: [[SQL]]

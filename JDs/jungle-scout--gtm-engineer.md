@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required:
 archetype: growth-engineer
 archetype_secondary: revops-ops
-topics: []
+topics:
+  - data-engineering
+  - revops
 tools:
   - SQL
   - Salesforce
@@ -95,4 +97,5 @@ Jungle Scout is the leading all-in-one platform for selling on Amazon, supportin
 - **Archetype**: [[growth-engineer]]
 - **Secondary**: [[revops-ops]]
 - **Company Type**: [[vertical-saas]]
+- **Topics**: [[data-engineering]] | [[revops]]
 - **Tools**: [[SQL]] | [[Salesforce]] | [[HubSpot]] | [[Marketo]] | [[Looker]] | [[Tableau]] | [[Sigma]] | [[Python]]

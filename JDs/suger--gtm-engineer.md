@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 2
 archetype: growth-engineer
 archetype_secondary: null
-topics: []
+topics:
+  - outbound-infrastructure
+  - growth-engineering
 tools:
   - Salesforce
   - Apollo
@@ -73,4 +75,5 @@ Suger is a Series A revenue platform ($Y Combinator, Craft Ventures, Intel Capit
 ## Links
 - **Archetype**: [[growth-engineer]]
 - **Company Type**: [[sales-tech]]
+- **Topics**: [[outbound-infrastructure]] | [[growth-engineering]]
 - **Tools**: [[Salesforce]] | [[Apollo]] | [[Segment]] | [[Clearbit]] | [[OpenAI API]] | [[Puppeteer]] | [[Playwright]]

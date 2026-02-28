@@ -14,7 +14,8 @@ implicit_stack: []
 yoe_required:
 archetype: "growth-engineer"
 archetype_secondary:
-topics: []
+topics:
+  - growth-engineering
 tools: []
 skills_required:
   - Growth experimentation
@@ -64,3 +65,4 @@ SparrowBid is a live travel marketplace connected to 2.4M hotels worldwide, usin
 ## Links
 - **Archetype**: [[growth-engineer]]
 - **Company Type**: [[vertical-saas]]
+- **Topics**: [[growth-engineering]]

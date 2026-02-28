@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 4
 archetype: gtm-systems-architect
 archetype_secondary: growth-engineer
-topics: []
+topics:
+  - gtm-systems
+  - outbound-infrastructure
 tools:
   - Salesforce
   - Clay
@@ -77,4 +79,5 @@ Zip is a $2.2B procurement platform (Y Combinator, Tiger Global, BOND) used by O
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[growth-engineer]]
 - **Company Type**: [[procurement]]
+- **Topics**: [[gtm-systems]] | [[outbound-infrastructure]]
 - **Tools**: [[Salesforce]] | [[Clay]] | [[n8n]] | [[Gong]] | [[ZoomInfo]] | [[6sense]] | [[Workato]] | [[Zapier]]

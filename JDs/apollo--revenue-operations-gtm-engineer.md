@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 5
 archetype: outbound-builder
 archetype_secondary: revops-ops
-topics: []
+topics:
+  - outbound-infrastructure
+  - sales-enablement
 tools:
   - Apollo
   - Clay
@@ -68,4 +70,5 @@ Apollo.io is a $1.6B GTM platform (500K+ companies, Sequoia/Bain Capital-backed)
 - **Archetype**: [[outbound-builder]]
 - **Secondary**: [[revops-ops]]
 - **Company Type**: [[sales-tech]]
+- **Topics**: [[outbound-infrastructure]] | [[sales-enablement]]
 - **Tools**: [[Apollo]] | [[Clay]]

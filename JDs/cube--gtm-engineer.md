@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 3
 archetype: outbound-builder
 archetype_secondary: gtm-systems-architect
-topics: []
+topics:
+  - outbound-infrastructure
+  - revops
 tools:
   - Salesforce
   - SQL
@@ -73,4 +75,5 @@ Cube is a cloud-based FP&A platform backed by Battery Ventures and Mayfield, hel
 - **Archetype**: [[outbound-builder]]
 - **Secondary**: [[gtm-systems-architect]]
 - **Company Type**: [[fintech]]
+- **Topics**: [[outbound-infrastructure]] | [[revops]]
 - **Tools**: [[Salesforce]] | [[SQL]] | [[Python]] | [[JavaScript]]

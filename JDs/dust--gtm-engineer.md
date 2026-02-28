@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 1
 archetype: outbound-builder
 archetype_secondary: growth-engineer
-topics: []
+topics:
+  - outbound-infrastructure
+  - sales-enablement
 tools:
   - Dust
   - Common Room
@@ -71,4 +73,5 @@ Dust is a Sequoia-backed AI operating system for companies (customers include Cu
 - **Archetype**: [[outbound-builder]]
 - **Secondary**: [[growth-engineer]]
 - **Company Type**: [[ai-infrastructure]]
+- **Topics**: [[outbound-infrastructure]] | [[sales-enablement]]
 - **Tools**: [[Dust]] | [[Common Room]] | [[Clay]] | [[Lemlist]] | [[HubSpot]] | [[Default]]

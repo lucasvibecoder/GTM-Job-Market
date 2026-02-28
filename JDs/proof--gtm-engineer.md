@@ -16,7 +16,8 @@ implicit_stack:
 yoe_required: 2
 archetype: "outbound-builder"
 archetype_secondary:
-topics: []
+topics:
+  - outbound-infrastructure
 tools:
   - Clay
   - Zapier
@@ -81,4 +82,5 @@ Proof is the world's first identity-assured transaction management platform, dev
 ## Links
 - **Archetype**: [[outbound-builder]]
 - **Company Type**: [[fintech]]
+- **Topics**: [[outbound-infrastructure]]
 - **Tools**: [[Clay]] | [[Zapier]] | [[Make]] | [[SQL]]

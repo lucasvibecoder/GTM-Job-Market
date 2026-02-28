@@ -14,7 +14,8 @@ implicit_stack: []
 yoe_required: 1
 archetype: outbound-builder
 archetype_secondary:
-topics: []
+topics:
+  - outbound-infrastructure
 tools:
   - Clay
   - SalesLoft
@@ -83,4 +84,5 @@ NetRise is a cybersecurity platform helping security teams reduce software suppl
 ## Links
 - **Archetype**: [[outbound-builder]]
 - **Company Type**: [[security]]
+- **Topics**: [[outbound-infrastructure]]
 - **Tools**: [[Clay]] | [[SalesLoft]] | [[Gong]] | [[LinkedIn Sales Navigator]] | [[Zapier]] | [[Make]] | [[HG Insights]]

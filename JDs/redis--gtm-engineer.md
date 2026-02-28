@@ -13,7 +13,8 @@ implicit_stack: []
 yoe_required: 2
 archetype: "growth-engineer"
 archetype_secondary: "gtm-systems-architect"
-topics: []
+topics:
+  - gtm-systems
 tools: [OpenAI API, Cursor, n8n, v0, Vercel, Glean, Python, JavaScript, Salesforce, Marketo, Pocus, Asana]
 skills_required:
   - "2-5 years building or supporting GTM systems (GTM Engineering, Business Technology, Solutions Engineering)"
@@ -71,4 +72,5 @@ Redis is the in-memory data store powering fast applications for 10,000+ custome
 - **Archetype**: [[growth-engineer]]
 - **Secondary**: [[gtm-systems-architect]]
 - **Company Type**: [[data-platform]]
+- **Topics**: [[gtm-systems]]
 - **Tools**: [[OpenAI API]] | [[Cursor]] | [[n8n]] | [[v0]] | [[Vercel]] | [[Glean]] | [[Python]] | [[JavaScript]] | [[Salesforce]] | [[Marketo]] | [[Pocus]] | [[Asana]]

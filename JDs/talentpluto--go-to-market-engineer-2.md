@@ -14,7 +14,8 @@ implicit_stack: []
 yoe_required:
 archetype: growth-engineer
 archetype_secondary:
-topics: []
+topics:
+  - growth-engineering
 tools: []
 skills_required:
   - Execute independently — ownership from idea to completion
@@ -65,3 +66,4 @@ TalentPluto is recruiting for an undisclosed venture-backed fintech startup buil
 ## Links
 - **Archetype**: [[growth-engineer]]
 - **Company Type**: [[recruiting]]
+- **Topics**: [[growth-engineering]]

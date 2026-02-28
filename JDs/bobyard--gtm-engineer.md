@@ -16,7 +16,9 @@ implicit_stack:
 yoe_required: null
 archetype: outbound-builder
 archetype_secondary: revops-ops
-topics: []
+topics:
+  - outbound-infrastructure
+  - revops
 tools:
   - HubSpot
   - Equals
@@ -64,4 +66,5 @@ Bobyard is a construction tech startup building AI for takeoff estimation. The G
 - **Archetype**: [[outbound-builder]]
 - **Secondary**: [[revops-ops]]
 - **Company Type**: [[vertical-saas]] | [[ai-infrastructure]]
+- **Topics**: [[outbound-infrastructure]] | [[revops]]
 - **Tools**: [[HubSpot]] | [[Equals]] | [[Clay]] | [[Lemlist]]

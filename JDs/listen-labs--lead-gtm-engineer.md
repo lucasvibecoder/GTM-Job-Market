@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 5
 archetype: outbound-builder
 archetype_secondary: gtm-systems-architect
-topics: []
+topics:
+  - outbound-infrastructure
+  - sales-enablement
 tools:
   - SQL
 skills_required:
@@ -73,4 +75,5 @@ Listen Labs (Sequoia-backed) is an AI-powered research platform that helps teams
 - **Archetype**: [[outbound-builder]]
 - **Secondary**: [[gtm-systems-architect]]
 - **Company Type**: [[ai-infrastructure]]
+- **Topics**: [[outbound-infrastructure]] | [[sales-enablement]]
 - **Tools**: [[SQL]]

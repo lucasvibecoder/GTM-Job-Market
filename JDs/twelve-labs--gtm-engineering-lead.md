@@ -15,7 +15,9 @@ implicit_stack:
 yoe_required: 3
 archetype: gtm-systems-architect
 archetype_secondary: outbound-builder
-topics: []
+topics:
+  - gtm-systems
+  - revops
 tools:
   - HubSpot
   - Clay
@@ -80,4 +82,5 @@ Twelve Labs is a multimodal AI company ($107M raised from NVentures/NVIDIA, NEA,
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[outbound-builder]]
 - **Company Type**: [[ai-infrastructure]]
+- **Topics**: [[gtm-systems]] | [[revops]]
 - **Tools**: [[HubSpot]] | [[Clay]] | [[SalesLoft]] | [[Avoma]] | [[Crossbeam]] | [[Metabase]] | [[Mixpanel]] | [[Outreach]] | [[6sense]] | [[Looker]] | [[Google Sheets]]

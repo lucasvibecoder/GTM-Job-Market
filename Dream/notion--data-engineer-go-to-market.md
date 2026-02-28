@@ -14,7 +14,8 @@ implicit_stack: []
 yoe_required: 3
 archetype: growth-engineer
 archetype_secondary: revops-ops
-topics: []
+topics:
+  - data-engineering
 tools:
   - Salesforce
   - Marketo
@@ -80,4 +81,5 @@ Notion is a productivity platform (docs, projects, calendar, email with AI built
 - **Archetype**: [[growth-engineer]]
 - **Secondary**: [[revops-ops]]
 - **Company Type**: [[dev-tools]]
+- **Topics**: [[data-engineering]]
 - **Tools**: [[Salesforce]] | [[Marketo]] | [[Snowflake (data)]] | [[BigQuery]] | [[dbt]] | [[Netsuite]] | [[Zendesk]] | [[Airflow]] | [[Spark]] | [[Redshift]] | [[Hive]]

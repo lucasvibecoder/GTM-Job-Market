@@ -17,7 +17,8 @@ implicit_stack:
 yoe_required: 4
 archetype: "gtm-systems-architect"
 archetype_secondary: "ai-strategist"
-topics: []
+topics:
+  - sales-enablement
 tools:
   - Clay
 skills_required:
@@ -70,4 +71,5 @@ Clay is the GTM platform powering how companies like Anthropic, Notion, Google, 
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[ai-strategist]]
 - **Company Type**: [[sales-tech]]
+- **Topics**: [[sales-enablement]]
 - **Tools**: [[Clay]]

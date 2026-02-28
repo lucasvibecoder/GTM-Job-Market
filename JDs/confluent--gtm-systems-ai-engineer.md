@@ -13,7 +13,9 @@ implicit_stack: []
 yoe_required: 3
 archetype: "gtm-systems-architect"
 archetype_secondary: "ai-strategist"
-topics: []
+topics:
+  - gtm-systems
+  - agentic-engineering
 tools: [Relevance AI, Momentum, Clay, SQL, BigQuery, Salesforce, Gemini, Claude, SalesLoft, ZoomInfo, "Clari Copilot", "D&B", DemandTools]
 skills_required:
   - "3-7+ years in Revenue Operations, GTM Systems, Sales Ops, CS Ops, or Business Systems"
@@ -69,4 +71,5 @@ Confluent is a public data streaming platform (real-time data infrastructure, bu
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[ai-strategist]]
 - **Company Type**: [[data-platform]]
+- **Topics**: [[gtm-systems]] | [[agentic-engineering]]
 - **Tools**: [[Relevance AI]] | [[Momentum]] | [[Clay]] | [[SQL]] | [[BigQuery]] | [[Salesforce]] | [[Gemini]] | [[Claude]] | [[SalesLoft]] | [[ZoomInfo]] | [[Clari Copilot]] | [[D&B]] | [[DemandTools]]

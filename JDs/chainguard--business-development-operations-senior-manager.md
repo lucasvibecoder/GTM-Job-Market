@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 5
 archetype: revops-ops
 archetype_secondary: outbound-builder
-topics: []
+topics:
+  - revops
+  - outbound-infrastructure
 gtm_adjacent: true
 tools:
   - Salesforce
@@ -79,4 +81,5 @@ Chainguard provides secure open source software (backed by major investors, cust
 - **Archetype**: [[revops-ops]]
 - **Secondary**: [[outbound-builder]]
 - **Company Type**: [[security]]
+- **Topics**: [[revops]] | [[outbound-infrastructure]]
 - **Tools**: [[Salesforce]] | [[LinkedIn Sales Navigator]] | [[ZoomInfo]] | [[Clay]] | [[Outreach]] | [[Sigma]] | [[Nooks]] | [[Cognism]]

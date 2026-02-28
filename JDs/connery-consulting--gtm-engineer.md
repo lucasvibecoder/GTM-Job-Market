@@ -14,7 +14,8 @@ implicit_stack: []
 yoe_required: 3
 archetype: revops-ops
 archetype_secondary:
-topics: []
+topics:
+  - revops
 tools:
   - Salesforce
   - Gong
@@ -69,4 +70,5 @@ Connery Consulting is recruiting for an undisclosed AI-powered SaaS company help
 ## Links
 - **Archetype**: [[revops-ops]]
 - **Company Type**: [[ai-infrastructure]]
+- **Topics**: [[revops]]
 - **Tools**: [[Salesforce]] | [[Gong]] | [[Clay]] | [[Momentum]]

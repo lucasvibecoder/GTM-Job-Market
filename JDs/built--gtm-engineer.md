@@ -17,7 +17,10 @@ implicit_stack:
 yoe_required: 5
 archetype: "gtm-systems-architect"
 archetype_secondary: "outbound-builder"
-topics: []
+topics:
+  - gtm-systems
+  - outbound-infrastructure
+  - marketing-ops
 tools:
   - HubSpot
   - Clay
@@ -106,4 +109,5 @@ Built is the AI-powered platform transforming how real estate is financed, devel
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[outbound-builder]]
 - **Company Type**: [[vertical-saas]] | [[fintech]]
+- **Topics**: [[gtm-systems]] | [[outbound-infrastructure]] | [[marketing-ops]]
 - **Tools**: [[HubSpot]] | [[Clay]] | [[AirOps]] | [[Lemlist]] | [[n8n]] | [[Salesforce]] | [[Google Sheets]] | [[Looker]] | [[SQL]] | [[6sense]] | [[Demandbase]] | [[Python]] | [[JavaScript]]

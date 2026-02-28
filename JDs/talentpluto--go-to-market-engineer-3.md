@@ -14,7 +14,8 @@ implicit_stack: []
 yoe_required:
 archetype: outbound-builder
 archetype_secondary:
-topics: []
+topics:
+  - outbound-infrastructure
 tools:
   - n8n
 skills_required:
@@ -70,4 +71,5 @@ TalentPluto is recruiting for an undisclosed Series A healthcare technology comp
 ## Links
 - **Archetype**: [[outbound-builder]]
 - **Company Type**: [[recruiting]]
+- **Topics**: [[outbound-infrastructure]]
 - **Tools**: [[n8n]]

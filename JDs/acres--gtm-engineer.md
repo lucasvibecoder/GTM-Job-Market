@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required:
 archetype: outbound-builder
 archetype_secondary: revops-ops
-topics: []
+topics:
+  - outbound-infrastructure
+  - sales-enablement
 tools:
   - Clay
   - HubSpot
@@ -83,4 +85,5 @@ Acres is a land intelligence platform analyzing 150M+ U.S. parcels for real esta
 - **Archetype**: [[outbound-builder]]
 - **Secondary**: [[revops-ops]]
 - **Company Type**: [[vertical-saas]]
+- **Topics**: [[outbound-infrastructure]] | [[sales-enablement]]
 - **Tools**: [[Clay]] | [[HubSpot]] | [[Salesforce]] | [[ZoomInfo]] | [[Apollo]] | [[Zapier]] | [[Make]] | [[Gong]] | [[Titan]]

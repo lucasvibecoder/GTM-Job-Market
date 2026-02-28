@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 3
 archetype: gtm-systems-architect
 archetype_secondary: revops-ops
-topics: []
+topics:
+  - gtm-systems
+  - revops
 tools:
   - Salesforce
   - HubSpot
@@ -95,4 +97,5 @@ DoorLoop is property management software (offices in Miami, NYC, Tel Aviv) movin
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[revops-ops]]
 - **Company Type**: [[vertical-saas]]
+- **Topics**: [[gtm-systems]] | [[revops]]
 - **Tools**: [[Salesforce]] | [[HubSpot]] | [[Snowflake (data)]] | [[Tableau]] | [[n8n]] | [[ZoomInfo]] | [[Clearbit]] | [[Clay]] | [[PostHog]]

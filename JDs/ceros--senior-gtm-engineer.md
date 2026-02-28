@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 3
 archetype: revops-ops
 archetype_secondary: gtm-systems-architect
-topics: []
+topics:
+  - revops
+  - agentic-engineering
 tools:
   - HubSpot
   - Workato
@@ -79,4 +81,5 @@ Ceros is a no-code platform for interactive digital experiences (customers inclu
 - **Archetype**: [[revops-ops]]
 - **Secondary**: [[gtm-systems-architect]]
 - **Company Type**: [[martech]]
+- **Topics**: [[revops]] | [[agentic-engineering]]
 - **Tools**: [[HubSpot]] | [[Workato]] | [[Zapier]] | [[Make]] | [[n8n]]

@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 4
 archetype: ai-strategist
 archetype_secondary: outbound-builder
-topics: []
+topics:
+  - ai-strategy
+  - outbound-infrastructure
 tools:
   - Apollo
 skills_required:
@@ -63,4 +65,5 @@ Apollo.io is the leading GTM platform for revenue teams ($250M raised, $1.6B val
 - **Archetype**: [[ai-strategist]]
 - **Secondary**: [[outbound-builder]]
 - **Company Type**: [[sales-tech]]
+- **Topics**: [[ai-strategy]] | [[outbound-infrastructure]]
 - **Tools**: [[Apollo]]

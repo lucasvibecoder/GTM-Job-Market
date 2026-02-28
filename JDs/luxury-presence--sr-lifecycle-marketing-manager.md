@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 4
 archetype: revops-ops
 archetype_secondary: outbound-builder
-topics: []
+topics:
+  - marketing-ops
+  - outbound-infrastructure
 gtm_adjacent: true
 tools:
   - HubSpot
@@ -71,4 +73,5 @@ Luxury Presence is a leading digital platform for real estate agents ($52.6M rai
 - **Archetype**: [[revops-ops]]
 - **Secondary**: [[outbound-builder]]
 - **Company Type**: [[vertical-saas]]
+- **Topics**: [[marketing-ops]] | [[outbound-infrastructure]]
 - **Tools**: [[HubSpot]] | [[Clay]] | [[Apollo]] | [[Instantly]]

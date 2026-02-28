@@ -13,7 +13,9 @@ implicit_stack: []
 yoe_required:
 archetype: "gtm-systems-architect"
 archetype_secondary: "growth-engineer"
-topics: []
+topics:
+  - gtm-systems
+  - data-engineering
 tools: [Salesforce, Notion, Zapier, Clay, Tray, Make, ZoomInfo, HG Insights, MadKudu, GitHub, SQL, Python, "Snowflake (data)", BigQuery, Redshift, Census, Hightouch, Sweep, RingLead, Gemini, ChatGPT, Claude, Customer.io, Gong, LinkedIn Sales Navigator, Persona]
 skills_required:
   - "Deep Salesforce architecture and API experience"
@@ -76,4 +78,5 @@ XBOW builds the world's first autonomous pentester, powered by AI. Backed by Seq
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[growth-engineer]]
 - **Company Type**: [[security]] | [[ai-infrastructure]]
+- **Topics**: [[gtm-systems]] | [[data-engineering]]
 - **Tools**: [[Salesforce]] | [[Notion]] | [[Zapier]] | [[Clay]] | [[Tray]] | [[Make]] | [[ZoomInfo]] | [[HG Insights]] | [[MadKudu]] | [[GitHub]] | [[SQL]] | [[Python]] | [[Snowflake (data)]] | [[BigQuery]] | [[Redshift]] | [[Census]] | [[Hightouch]] | [[Sweep]] | [[RingLead]] | [[Gemini]] | [[ChatGPT]] | [[Claude]] | [[Customer.io]] | [[Gong]] | [[LinkedIn Sales Navigator]] | [[Persona]]

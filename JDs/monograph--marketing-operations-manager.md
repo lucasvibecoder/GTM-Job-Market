@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 5
 archetype: revops-ops
 archetype_secondary: null
-topics: []
+topics:
+  - marketing-ops
+  - revops
 gtm_adjacent: true
 tools:
   - Salesforce
@@ -73,4 +75,5 @@ Monograph is a firm performance management platform for architecture and enginee
 ## Links
 - **Archetype**: [[revops-ops]]
 - **Company Type**: [[vertical-saas]]
+- **Topics**: [[marketing-ops]] | [[revops]]
 - **Tools**: [[Salesforce]] | [[HubSpot]] | [[Gong]] | [[Clay]] | [[Dreamdata]] | [[Webflow]]

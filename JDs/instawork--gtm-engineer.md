@@ -15,7 +15,9 @@ implicit_stack:
 yoe_required: 5
 archetype: "gtm-systems-architect"
 archetype_secondary: "growth-engineer"
-topics: []
+topics:
+  - gtm-systems
+  - outbound-infrastructure
 tools:
   - Python
   - SQL
@@ -77,4 +79,5 @@ Instawork is the nation's leading AI-powered labor marketplace connecting 7M+ sk
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[growth-engineer]]
 - **Company Type**: [[vertical-saas]]
+- **Topics**: [[gtm-systems]] | [[outbound-infrastructure]]
 - **Tools**: [[Python]] | [[SQL]] | [[Salesforce]] | [[Outreach]] | [[Clay]] | [[Claude Code]] | [[Cursor]] | [[n8n]]

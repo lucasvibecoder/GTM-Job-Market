@@ -13,7 +13,8 @@ implicit_stack: []
 yoe_required: 4
 archetype: "revops-ops"
 archetype_secondary: "gtm-systems-architect"
-topics: []
+topics:
+  - revops
 tools: [Salesforce, Marketo, Outreach, Gong, Omni]
 skills_required:
   - "4-6+ years in Salesforce administration, business systems, RevOps, or GTM operations engineering"
@@ -74,4 +75,5 @@ Wrapbook is a production payroll and accounting platform for the entertainment i
 - **Archetype**: [[revops-ops]]
 - **Secondary**: [[gtm-systems-architect]]
 - **Company Type**: [[vertical-saas]] | [[fintech]]
+- **Topics**: [[revops]]
 - **Tools**: [[Salesforce]] | [[Marketo]] | [[Outreach]] | [[Gong]] | [[Omni]]

@@ -13,7 +13,9 @@ implicit_stack: []
 yoe_required: 8
 archetype: "gtm-systems-architect"
 archetype_secondary: "revops-ops"
-topics: []
+topics:
+  - gtm-systems
+  - revops
 tools: [Salesforce, Planhat, Kantata, Tackle]
 skills_required:
   - "8+ years as GTM Systems Engineer or Business Systems Administrator in high-growth SaaS, 2+ years in lead/manager role"
@@ -70,4 +72,5 @@ Wiz is the fastest-growing cloud security startup, protecting 50%+ of the Fortun
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[revops-ops]]
 - **Company Type**: [[security]]
+- **Topics**: [[gtm-systems]] | [[revops]]
 - **Tools**: [[Salesforce]] | [[Planhat]] | [[Kantata]] | [[Tackle]]

@@ -15,7 +15,8 @@ implicit_stack: []
 yoe_required: 2
 archetype: outbound-builder
 archetype_secondary: null
-topics: []
+topics:
+  - outbound-infrastructure
 tools:
   - Clay
   - Smartlead
@@ -83,4 +84,5 @@ AirOps is the first end-to-end content engineering platform for AI-era marketing
 ## Links
 - **Archetype**: [[outbound-builder]]
 - **Company Type**: [[martech]] | [[ai-infrastructure]]
+- **Topics**: [[outbound-infrastructure]]
 - **Tools**: [[Clay]] | [[Smartlead]] | [[Instantly]] | [[Leadfeeder]] | [[Unify]] | [[Warmly]] | [[Amplemarket]] | [[Apollo]] | [[Trigify]] | [[Fibbler]] | [[Dripify]] | [[LinkedIn Sales Navigator]]

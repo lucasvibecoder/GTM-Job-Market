@@ -17,7 +17,10 @@ implicit_stack:
 yoe_required: 4
 archetype: "gtm-systems-architect"
 archetype_secondary: "outbound-builder"
-topics: []
+topics:
+  - gtm-systems
+  - outbound-infrastructure
+  - revops
 tools:
   - Amplemarket
   - Knode.ai
@@ -118,4 +121,5 @@ Payabli is a next-generation payments infrastructure and monetization platform p
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[outbound-builder]]
 - **Company Type**: [[fintech]]
+- **Topics**: [[gtm-systems]] | [[outbound-infrastructure]] | [[revops]]
 - **Tools**: [[Amplemarket]] | [[Knode.ai]] | [[Claude]] | [[Amigo AI]] | [[Salesforce]] | [[HubSpot]] | [[Outreach]] | [[Apollo]] | [[Python]] | [[JavaScript]] | [[SQL]] | [[ZoomInfo]] | [[Clearbit]] | [[Clay]] | [[Segment]] | [[Fivetran]] | [[dbt]]

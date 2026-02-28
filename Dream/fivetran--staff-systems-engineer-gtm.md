@@ -14,7 +14,8 @@ implicit_stack: []
 yoe_required: 5
 archetype: revops-ops
 archetype_secondary: gtm-systems-architect
-topics: []
+topics:
+  - revops
 tools:
   - Salesforce
   - Python
@@ -89,4 +90,5 @@ Fivetran ($5.6B valuation) makes data access as simple as electricity — automa
 - **Archetype**: [[revops-ops]]
 - **Secondary**: [[gtm-systems-architect]]
 - **Company Type**: [[data-platform]]
+- **Topics**: [[revops]]
 - **Tools**: [[Salesforce]] | [[Python]] | [[JavaScript]]

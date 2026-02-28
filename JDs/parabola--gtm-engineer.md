@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required:
 archetype: revops-ops
 archetype_secondary: outbound-builder
-topics: []
+topics:
+  - revops
+  - outbound-infrastructure
 tools:
   - Salesforce
   - HubSpot
@@ -78,4 +80,5 @@ Parabola is an AI workflow builder for operations and finance teams — automate
 - **Archetype**: [[revops-ops]]
 - **Secondary**: [[outbound-builder]]
 - **Company Type**: [[data-platform]]
+- **Topics**: [[revops]] | [[outbound-infrastructure]]
 - **Tools**: [[Salesforce]] | [[HubSpot]] | [[Outreach]] | [[Apollo]] | [[Instantly]] | [[Cargo]] | [[HeyReach]] | [[Attention]]

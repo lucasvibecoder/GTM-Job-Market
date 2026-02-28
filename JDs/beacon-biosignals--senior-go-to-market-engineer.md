@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 5
 archetype: gtm-systems-architect
 archetype_secondary: revops-ops
-topics: []
+topics:
+  - gtm-systems
+  - revops
 tools:
   - HubSpot
   - Salesforce
@@ -72,4 +74,5 @@ Beacon Biosignals is a precision medicine platform for the brain — FDA-cleared
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[revops-ops]]
 - **Company Type**: [[vertical-saas]]
+- **Topics**: [[gtm-systems]] | [[revops]]
 - **Tools**: [[HubSpot]] | [[Salesforce]]

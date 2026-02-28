@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 3
 archetype: gtm-systems-architect
 archetype_secondary: outbound-builder
-topics: []
+topics:
+  - gtm-systems
+  - outbound-infrastructure
 tools:
   - HubSpot
 skills_required:
@@ -77,4 +79,5 @@ Super.AI builds an Intelligent Document Processing (IDP) platform combining LLMs
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[outbound-builder]]
 - **Company Type**: [[ai-infrastructure]]
+- **Topics**: [[gtm-systems]] | [[outbound-infrastructure]]
 - **Tools**: [[HubSpot]]

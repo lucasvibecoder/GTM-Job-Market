@@ -16,7 +16,10 @@ implicit_stack:
 yoe_required: 4
 archetype: "gtm-systems-architect"
 archetype_secondary: "growth-engineer"
-topics: []
+topics:
+  - gtm-systems
+  - agentic-engineering
+  - outbound-infrastructure
 tools:
   - n8n
   - Clay
@@ -125,4 +128,5 @@ Tempo Software is the #1 time management add-on for Jira with 30,000+ customers 
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[growth-engineer]]
 - **Company Type**: [[dev-tools]]
+- **Topics**: [[gtm-systems]] | [[agentic-engineering]] | [[outbound-infrastructure]]
 - **Tools**: [[n8n]] | [[Clay]] | [[Supabase]] | [[Pinecone]] | [[JavaScript]] | [[Python]] | [[SQL]] | [[Salesforce]] | [[Braze]] | [[Iterable]] | [[HubSpot]] | [[Segment]] | [[Jira]] | [[dbt]] | [[Fivetran]] | [[Airbyte]] | [[Looker]] | [[Tableau]] | [[Domo]]

@@ -15,7 +15,8 @@ implicit_stack: []
 yoe_required: null
 archetype: outbound-builder
 archetype_secondary: null
-topics: []
+topics:
+  - outbound-infrastructure
 tools:
   - Clay
   - Common Room
@@ -61,4 +62,5 @@ Scrunch is an AI-first marketing platform ($26M raised, Mayfield/Decibel, 500+ p
 ## Links
 - **Archetype**: [[outbound-builder]]
 - **Company Type**: [[martech]] | [[ai-infrastructure]]
+- **Topics**: [[outbound-infrastructure]]
 - **Tools**: [[Clay]] | [[Common Room]] | [[Smartlead]]

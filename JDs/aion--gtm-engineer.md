@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 3
 archetype: ai-strategist
 archetype_secondary:
-topics: []
+topics:
+  - ai-strategy
+  - sales-enablement
 tools: []
 skills_required:
   - 3-7+ years in GTM, Sales Engineering, Partnerships, or Solutions Engineering
@@ -63,3 +65,4 @@ Aion is an AI infrastructure research lab building a full-stack platform for bui
 ## Links
 - **Archetype**: [[ai-strategist]]
 - **Company Type**: [[ai-infrastructure]]
+- **Topics**: [[ai-strategy]] | [[sales-enablement]]

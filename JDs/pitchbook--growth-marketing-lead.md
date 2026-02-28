@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 8
 archetype: outbound-builder
 archetype_secondary: growth-engineer
-topics: []
+topics:
+  - outbound-infrastructure
+  - growth-engineering
 tools:
   - Clay
   - Apollo
@@ -81,4 +83,5 @@ PitchBook (Morningstar company) is hiring for its subsidiary **Lumonic**, a priv
 - **Archetype**: [[outbound-builder]]
 - **Secondary**: [[growth-engineer]]
 - **Company Type**: [[fintech]]
+- **Topics**: [[outbound-infrastructure]] | [[growth-engineering]]
 - **Tools**: [[Clay]] | [[Apollo]] | [[Smartlead]] | [[SQL]] | [[Python]] | [[Octave]]

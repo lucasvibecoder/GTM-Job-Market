@@ -16,7 +16,9 @@ implicit_stack:
 yoe_required:
 archetype: "growth-engineer"
 archetype_secondary: "gtm-systems-architect"
-topics: []
+topics:
+  - outbound-infrastructure
+  - gtm-systems
 tools:
   - Python
   - Salesforce
@@ -79,4 +81,5 @@ Sumble is an account intelligence and signals platform that maps every account, 
 - **Archetype**: [[growth-engineer]]
 - **Secondary**: [[gtm-systems-architect]]
 - **Company Type**: [[sales-tech]]
+- **Topics**: [[outbound-infrastructure]] | [[gtm-systems]]
 - **Tools**: [[Python]] | [[Salesforce]] | [[HubSpot]] | [[Clay]] | [[Apollo]] | [[Zapier]] | [[Make]] | [[n8n]] | [[Tray]] | [[Slack]]

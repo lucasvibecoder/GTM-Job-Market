@@ -14,7 +14,8 @@ implicit_stack: []
 yoe_required: 2
 archetype: growth-engineer
 archetype_secondary: null
-topics: []
+topics:
+  - growth-engineering
 tools: []
 skills_required:
   - 2+ years shipping user-facing features that moved meaningful metrics
@@ -73,3 +74,4 @@ Describe an experiment you'd design and ship in your first two weeks: hypothesis
 ## Links
 - **Archetype**: [[growth-engineer]]
 - **Company Type**: [[media]]
+- **Topics**: [[growth-engineering]]

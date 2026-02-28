@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required:
 archetype: gtm-systems-architect
 archetype_secondary:
-topics: []
+topics:
+  - gtm-systems
+  - outbound-infrastructure
 tools:
   - HubSpot
   - Clay
@@ -74,4 +76,5 @@ Bland AI (Series B, $65M raised) builds AI phone agents for customer communicati
 ## Links
 - **Archetype**: [[gtm-systems-architect]]
 - **Company Type**: [[ai-infrastructure]]
+- **Topics**: [[gtm-systems]] | [[outbound-infrastructure]]
 - **Tools**: [[HubSpot]] | [[Clay]]

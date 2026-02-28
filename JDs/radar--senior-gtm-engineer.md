@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: 2
 archetype: outbound-builder
 archetype_secondary: revops-ops
-topics: []
+topics:
+  - outbound-infrastructure
+  - revops
 tools:
   - Salesforce
   - HubSpot
@@ -72,4 +74,5 @@ Radar is the global leader in geolocation ($85.5M raised from Accel, Insight Par
 - **Archetype**: [[outbound-builder]]
 - **Secondary**: [[revops-ops]]
 - **Company Type**: [[dev-tools]]
+- **Topics**: [[outbound-infrastructure]] | [[revops]]
 - **Tools**: [[Salesforce]] | [[HubSpot]] | [[Clay]] | [[ChatGPT]] | [[Outreach]] | [[ZoomInfo]] | [[Gong]]

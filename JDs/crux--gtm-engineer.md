@@ -14,7 +14,9 @@ implicit_stack: []
 yoe_required: null
 archetype: growth-engineer
 archetype_secondary: outbound-builder
-topics: []
+topics:
+  - growth-engineering
+  - gtm-systems
 tools:
   - HubSpot
   - Zapier
@@ -65,4 +67,5 @@ Crux is a capital markets platform for clean energy financing ($77M raised from 
 - **Archetype**: [[growth-engineer]]
 - **Secondary**: [[outbound-builder]]
 - **Company Type**: [[fintech]]
+- **Topics**: [[growth-engineering]] | [[gtm-systems]]
 - **Tools**: [[HubSpot]] | [[Zapier]] | [[n8n]] | [[Make]]
