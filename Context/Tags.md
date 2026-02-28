@@ -11,7 +11,7 @@ Auto-assign 1-3 per JD based on relevance:
 - `ai-strategy` — AI consulting, strategy audits, change management
 - `data-engineering` — SQL, warehouses, ETL, dashboards
 - `sales-enablement` — Playbooks, tooling for sales teams, rep productivity
-- `agentic-engineering` — Role requires daily use of AI coding agents (Claude Code, Cursor, etc.) to build, not just familiarity. AI/LLM building skills (RAG, agents, context engineering) are core requirements, not nice-to-haves.
+- `agentic-engineering` — Role explicitly mentions building, deploying, or owning AI agents/LLM workflows in Responsibilities or Must-Have skills. One bullet is enough. Not assigned when AI is merely a "plus" or "nice-to-have."
 
 ## Known Tools — Canonical Names
 Normalize all tool mentions to these exact strings:
