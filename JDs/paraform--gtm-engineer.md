@@ -4,7 +4,7 @@ title: GTM Engineer
 salary_low: 150000
 salary_high: 200000
 salary_type: base
-url: "https://jobs.ashbyhq.com/paraform/ac04f1fd-2632-4658-9334-df36b0eeb906"
+url: "https://www.linkedin.com/jobs/view/gtm-engineer-at-paraform-4365744437/"
 location: San Francisco
 work_style: in-office
 company_stage: series-b

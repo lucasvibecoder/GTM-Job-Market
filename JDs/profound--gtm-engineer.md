@@ -4,7 +4,7 @@ title: "GTM Engineer"
 salary_low: 140000
 salary_high: 200000
 salary_type: base
-url: "https://www.linkedin.com/jobs/view/gtm-engineer-at-profound-4374596733"
+url: "https://www.tryprofound.com/careers"
 location: "New York, NY"
 work_style: in-office
 company_stage: "unknown"
@@ -40,6 +40,8 @@ skills_preferred:
 lucas_annotations: []
 fit_score:
 date_parsed: "2026-02-27"
+revision_notes:
+  - "2026-02-28: LinkedIn listing removed (job not found via Clay enrichment). Role confirmed live on tryprofound.com/careers. URL updated."
 ---
 
 ## Summary
