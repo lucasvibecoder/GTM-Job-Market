@@ -9,7 +9,7 @@ location: "San Francisco, CA"
 work_style: hybrid
 company_stage: seed
 company_type:
-  - ai-infrastructure
+  - recruiting
 implicit_stack: []
 yoe_required:
 archetype: outbound-builder
@@ -74,5 +74,5 @@ TalentPluto (recruiting firm) is hiring on behalf of an early-stage AI startup b
 
 ## Links
 - **Archetype**: [[outbound-builder]]
-- **Company Type**: [[ai-infrastructure]]
+- **Company Type**: [[recruiting]]
 - **Tools**: [[n8n]]

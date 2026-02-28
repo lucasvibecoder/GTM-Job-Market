@@ -155,6 +155,8 @@ Normalize all tool mentions to these exact strings:
 | Superblocks | superblocks (internal tool builder) |
 | Google Apps Script | Apps Script, GAS |
 | nReach | nreach |
+| PhantomBuster | phantombuster, Phantom Buster |
+| Apify | apify.com |
 
 ## Company Type Tags
 Classify based on what the company's *product* does. Most companies get 1 tag; use 2+ only when the company genuinely straddles categories.

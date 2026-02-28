@@ -9,7 +9,7 @@ location: "New York, NY"
 work_style: in-office
 company_stage: seed
 company_type:
-  - fintech
+  - recruiting
 implicit_stack: []
 yoe_required:
 archetype: growth-engineer
@@ -64,4 +64,4 @@ TalentPluto is recruiting for an undisclosed venture-backed fintech startup buil
 
 ## Links
 - **Archetype**: [[growth-engineer]]
-- **Company Type**: [[fintech]]
+- **Company Type**: [[recruiting]]

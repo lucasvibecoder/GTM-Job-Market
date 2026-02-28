@@ -9,8 +9,7 @@ location: "New York, NY"
 work_style: remote
 company_stage: series-a
 company_type:
-  - vertical-saas
-  - ai-infrastructure
+  - recruiting
 implicit_stack: []
 yoe_required:
 archetype: outbound-builder
@@ -70,5 +69,5 @@ TalentPluto is recruiting for an undisclosed Series A healthcare technology comp
 
 ## Links
 - **Archetype**: [[outbound-builder]]
-- **Company Type**: [[vertical-saas]] | [[ai-infrastructure]]
+- **Company Type**: [[recruiting]]
 - **Tools**: [[n8n]]

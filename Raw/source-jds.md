@@ -3094,3 +3094,46 @@ What We're Looking For: Product mindset, end-to-end shipper, first principles th
 Ideal: Python/SQL, B2B SaaS or home services experience, GTM engineering content creation track record.
 
 Compensation: $130K - $170K. NYC hybrid (3+ days/week).
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+Profound / tryprofound.com
+title: GTM Engineer
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-profound-4374596733
+salary: 140000 - 200000 currency: USD YEAR
+date added: 2026-02-24T13:27:19.880Z
+location: New York, NY
+
+Profound is on a mission to help companies understand and control their AI presence. We believe most organizations will choose their long-term AI technology partners in the next nine months, and we want Profound to be the most preferred partner.
+
+As a GTM Engineer, you will build the infrastructure that powers our entire go-to-market motion. Part systems architect and part problem detective, you will identify bottlenecks across the business, design automated solutions, and manufacture tools that give every team leverage. Your work will directly shape how Sales, Customer Success, Marketing, and Operations scale.
+
+What You'll Do
+
+Scope high-impact problems autonomously by shadowing Sales, Customer Success, Marketing, and Operations teams to identify efficiency gaps and prioritize projects with unbounded upside. Build scalable automation systems by designing and deploying agentic workflows using tools such as n8n, Claude API, MCP servers, and other AI-native platforms. Manufacture tools rather than operate them, creating systems others can run independently. Own the full technical stack across data pipelines, API integrations, schema design, and automation platforms to connect disparate systems. Ship tools that people actually use, focusing not just on deployment but on enablement and adoption. Think architecturally about data, understanding how information flows through the organization and structuring schemas that power intelligent automation. Experiment relentlessly with new platforms, APIs, and AI-native tools, staying ahead of rapid changes in the ecosystem.
+
+Who You Are
+
+High-agency builder who can scope problems, design solutions, and ship working tools without hand-holding. Technically fluent and comfortable writing code in Python or JavaScript, building in n8n, integrating APIs, and understanding data architecture. AI-native thinker who defaults to asking how work can be automated and regularly experiments with agents, MCP, and workflow frameworks. Fast learner with slope over position, able to quickly pick up new tools and systems. Systems thinker who sees how components connect and can architect solutions that create compounding value. Pragmatic about build versus buy decisions, knowing when to leverage existing tools rather than reinvent them. Empathetic collaborator who understands that automating work requires communication and trust. Strong problem selector who can identify high-leverage initiatives and push back on low-impact requests. Experience with GTM workflows such as sales, customer success, or marketing operations. Familiarity with tools like Clay, PhantomBuster, Apify, Dust, or similar automation platforms. Experience building with LLM APIs, vector databases, or agentic workflows. Comfortable operating in ambiguity and structuring your own roadmap.
+
+Location: This is an on-site role based in our Union Square, NYC office.
+Salary: $140,000 to $200,000 base salary range.
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+TalentPluto / talentpluto.com
+title: GTM Engineer
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-talentpluto-4376515279
+salary: 120000 - 300000 currency: USD YEAR
+date added: 2026-02-23T00:11:22.991Z
+location: New York, NY
+
+Location: New York, NY. Work Model: Onsite (5 days per week). Industry: B2B SaaS / Cloud Infrastructure. Compensation: Base salary $120,000-$160,000 + variable compensation targeting ~2x base (OTE up to ~$300,000) + equity.
+
+About the Company: Our partner is a fast-growing, venture-backed B2B SaaS company building a new category of infrastructure software for modern engineering teams. Following strong early traction and recent senior engineering hires, the company has significantly increased its capacity to serve customers and is now accelerating its go-to-market expansion. The product is highly technical and sold directly to engineers and technical leaders. As demand grows, the team is transitioning from founder-led sales to a scalable, repeatable revenue motion.
+
+The Opportunity: Our partner is hiring a GTM Engineer to help build the next phase of their sales organization. This is a tactical, early-stage AE role focused on selling a technical product into technical buyers, while also helping define process, messaging, and outbound strategy. You will be one of the first dedicated AEs on the team, working alongside engineering and deployment resources to run full-cycle deals.
+
+Responsibilities: Own the full sales cycle from prospecting through close for mid-market and enterprise customers. Proactively source and develop pipeline in addition to working inbound opportunities. Conduct technical discovery conversations with engineers, technical leaders, and executive stakeholders. Collaborate with deployment engineers and product teams during evaluations and onboarding. Help refine messaging, positioning, and early-stage sales processes. Operate effectively in a startup environment with evolving structure and responsibilities.
+
+Requirements: 1-3 years of Account Executive experience in B2B SaaS. Demonstrated hunter mentality with the ability to self-source deals. Experience selling technical products to engineering or infrastructure-focused buyers. Strong foundational understanding of modern software stacks, cloud infrastructure, or developer tools. Ability to communicate technical concepts clearly and credibly. Comfort operating in an early-stage startup environment and wearing multiple hats. Excellent communication skills and strong professional presence.
