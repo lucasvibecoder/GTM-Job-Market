@@ -3409,3 +3409,183 @@ GTM Enablement Infrastructure: Real-time account intelligence, competitive posit
 Requirements: 3-6 years GTM, sales ops, revenue ops, or marketing engineering at B2B SaaS. Hands-on experience architecting AI-powered GTM systems with Claude. Claude Code-comfortable. AI-native (Claude, GPT, Perplexity, agentic frameworks). CRM-literate (Salesforce or HubSpot at data model level). GTM-fluent. High-agency.
 
 Hybrid — 1-2 days/week in SF office preferred.
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+OpenAI / openai.com
+title: Salesforce Engineer (GTM Systems)
+job url: https://www.linkedin.com/jobs/view/salesforce-engineer-gtm-systems-at-openai-4355413078
+salary: 206000 - 228000 currency: USD YEAR
+date added: 2026-02-14T13:41:24.000Z
+location: San Francisco, CA
+
+About The Team
+
+OpenAI's mission is to build safe artificial general intelligence (AGI) which benefits all of humanity. This long-term undertaking brings the world's best scientists, engineers, and business professionals into one lab together to accomplish this.
+
+In pursuit of this mission, our Enterprise Platform team is responsible for equipping and enabling the Go To Market (GTM) as they seek to help customers learn how to leverage and deploy our highly capable AI products across their business. The team is made of Sales, Solutions, Customer Success, Support, Marketing, and Partnership professionals that work together to create valuable solutions that will help bring AI to as many users as possible.
+
+About The Role
+
+Our GTM team exists to help customers understand the transformational potential of OpenAI's models, and we believe our own systems should reflect that same intelligence. We're looking for a talented Salesforce Engineer to partner with our Financial Engineering, Finance Platform Technology, and Order-Management teams. This is an execution-heavy, builder role: you'll take scoped technical outcomes, like new order-capture objects, fulfillment triggers, tax & billing integrations, SKU and entitlement governance—and turn them into well-tested, production-ready Salesforce configurations and custom code.
+
+While you'll still touch with OpenAI's CPQ deployment when needed, the primary charter of this role is order-management logic, platform health, and compliance-ready automations that keep deals flowing cleanly from Opportunity close through invoicing and revenue recognition
+
+In This Role, You'll
+
+Build order-to-cash solutions in Salesforce: Develop order-capture objects, fulfillment triggers, financial approval workflows, and entitlement logic that move deals cleanly from opportunity close through invoicing and revenue recognition. Engineer integrations with finance and billing systems: Connect Salesforce to ERP, tax engines, billing platforms, CLM, and e-signature tools to keep data accurate and auditable across the entire revenue lifecycle. Implement scoped technical outcomes: Take detailed requirements from the opportunity to order pod's Lead Technologist and translate them into production-ready flows, validation rules, Platform Events, and Apex code where needed for scale or performance. Test, troubleshoot, and document: Own QA for new builds, resolve production issues quickly, and maintain clear documentation aligned with Copado-driven change-management, SOX/SOC2 controls, and deployment best practices. Partner cross-functionally: Collaborate daily with FinEng, Fin Systems, Order Management, Sales Ops, Billing, and Legal Ops to ensure SKUs, pricebooks, and workflows stay accurate, compliant, and resilient as our product catalog and policies evolve.
+
+You Might Thrive In This Role If You Have
+
+Advanced Salesforce development (Apex, async patterns, APIs) and data model expertise across opportunity, quote, order, and billing domains. Proven experience designing and implementing robust integrations using REST, Platform Events, and data sync patterns between Salesforce and external systems. QTC & finance-system experience: Familiarity with CPQ and order-management objects, product catalog governance, consumption- vs subscription-based pricing, tax & billing integrations, and data reconciliation with downstream ERPs. Execution and quality focus: Proven ability to build, test, and deploy scoped solutions in a regulated, change-controlled environment—keeping integrations intact and documentation audit-ready. Collaborative problem-solver: Strong cross-functional communication skills and a track record of partnering with finance and operations teams to design resilient revenue workflows at scale. (Nice-to-have) Salesforce certifications (Platform Developer I/II, Application Architect) or prior experience in AI-driven or high-growth SaaS businesses.
+
+Compensation Range: $206K - $228K
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+PandaDoc / pandadoc.com
+title: GTM Engineer
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-pandadoc-4369211319
+salary: up to 135k OTE
+date added: 2026-02-26T13:46:24.872Z
+location: United States
+
+About Us
+PandaDoc helps teams close deals faster by transforming how they create, manage, and sign documents. In a world of fragmented tools and manual workflows, PandaDoc brings proposals, contracts, quotes, payments, and eSignatures into one powerful platform—deeply integrated with the systems revenue teams rely on every day.
+
+About The Team
+The RevTech team at PandaDoc owns Salesforce (and the entire GTM Tech Stack) as the central nervous system for our revenue engine. We design, build, and operate the systems that power how PandaDoc sells, markets, and supports customers—using Salesforce as the source of truth and orchestration layer across our entire GTM stack.
+
+About The Role
+This is a Salesforce-first/GTM Systems role. You will own and evolve Salesforce as the backbone of PandaDoc's go-to-market operations, designing scalable data models, automation, and integrations that support our entire revenue lifecycle. You will build AI-powered workflows and deeply connected systems across Salesforce, PandaDoc, and the broader GTM ecosystem.
+
+What You'll Achieve
+Own Salesforce as the primary GTM platform, including data architecture, automation, permissions, workflows. Design and maintain complex Salesforce automations using Flows, validation rules, and programmatic solutions where appropriate. Build AI-powered workflows for lead and account routing, scoring, enrichment, personalization, and prioritization—anchored in Salesforce. Integrate Salesforce with PandaDoc and the broader GTM stack, including Clay, ZoomInfo, LeanData, Chili Piper, Actively AI, SalesLoft, Outreach, and related tools. Turn ambiguous business problems into clear Salesforce system designs, experiments, and implementation plans.
+
+Skills You'll Need to Bring
+Salesforce-first GTM systems experience (5+ years). Strong Salesforce administration and development skills. GTM systems and toolchain fluency. AI-aware systems thinking. Technical fluency with data and integrations. Bonus: Apex and SQL, REST APIs. Clear, empathetic communication and collaboration.
+
+Bonus Points
+Salesforce certifications. Experience building or maintaining complex routing and attribution logic at scale. Experience supporting high-growth B2B SaaS GTM teams.
+
+The annual OTE is up to 135k OTE
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+Quzara LLC / quzara.com
+title: GTM Engineer
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-quzara-llc-4375274933
+location: Remote (USA/Must Work East Coast Hours)
+
+Quzara is seeking a GTM Engineer to build, deploy, and optimize the technical infrastructure of our Go-To-Market engine. This engineering role is focused on execution and will be responsible for deploying React-based web assets, architecting data scraping pipelines, and engineering AI-driven workflows within our CRM.
+
+Essential Functions: Web Deployment & Optimization (React, SEO). Campaign Engineering (Lemlist sequences, domain reputation). Data Scraping & Gov-Spend Analytics. AI Implementation (OpenAI + Claude into HubSpot, Claude Code for prototyping). Full-Stack Automation (Zapier). SaaS Governance & Security Hygiene. Market Trend Analysis (Semrush).
+
+Required: React.js, Git, HubSpot, Lemlist, Zapier, Claude Code, OpenAI APIs, Semrush. 3+ years GTM/Growth/Full-Stack Marketing Ops. U.S. citizenship required.
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+Birdy / iqbirdy.com
+title: GTM Engineer
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-birdy-4377564620
+location: United States
+
+The Mission: Birdy designs, builds, and operates revenue systems for B2B startups from Seed to Series A. We are not a lead gen agency. We build full GTM infrastructure. We are hiring a GTM Engineer who can architect and implement outbound and RevOps systems from scratch to help founders find PMF and scale.
+
+What You'll Do: Architect Clay workflows (multi-source enrichment, intent signals). Build Outbound Infrastructure (SPF, DKIM, DMARC, domain clusters using Instantly). Engineer CRM Systems (HubSpot or Salesforce from scratch). Drive Signal Velocity (Zapier automation, funnel math).
+
+Looking For: Clay power user, technical deliverability expert, CRM architect, systems thinker, independent operator.
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+Gather AI / gather.ai
+title: GTM Engineer
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-gather-ai-4375262554
+location: United States
+
+About Us: Gather AI — vision-powered platform using autonomous drones and existing equipment to capture real-time warehouse data. Supply chain/intralogistics.
+
+Hiring first Growth Engineer on Marketing team. AI-native engineer and product-minded builder for GTM challenges. Own GTM data stack, build AI-powered tools, create interactive demos/experiences.
+
+What You'll Do: Build AI-Powered GTM Tools (lead scoring, sales summaries, churn prediction). Build High-Impact Customer Journey Experiences (interactive demos, ROI calculators). Own and Instrument GTM Data Stack (Salesforce, HubSpot, product, website). Run Experiments (A/B tests on website, email, other platforms).
+
+Who You Are: AI-native builder (LLMs, AI APIs like OpenAI's). Full-stack engineer (Python, SQL, JavaScript/React). Product sense. Data-driven. Scrappy self-starter.
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+Retell AI / retellai.com
+title: Senior GTM Engineer
+job url: https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-retell-ai-4375286010
+salary: $190,000 - $230,000 base
+location: Redwood City, CA
+
+About Retell AI: Voice AI for call centers. $36M ARR, 20 people, YC-backed. Building modern CX platform where contact centers are powered by AI.
+
+Key Responsibilities: Design and implement end-to-end GTM workflows (lead capture, enrichment, routing, outreach). Build integrations using Python, SQL, JavaScript. Own GTM stack (Clay, Salesforce, Apollo, Clearbit, n8n, Gumloop, Zapier). Ensure data quality across funnel. Create internal tools, scripts, dashboards. Test, iterate, ship improvements.
+
+You Might Thrive If: 3+ years GTM Engineer, Sales Engineer, or Technical RevOps. Code comfortably (Python, SQL, JavaScript). Understand modern GTM stack. Shipped workflows/tools that changed how sales teams operate.
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+Jump - Advisor AI / jump.ai
+title: Technical GTM Engineer
+job url: https://www.linkedin.com/jobs/view/technical-gtm-engineer-at-jump-advisor-ai-4378627612
+salary: $125,000 - $200,000 base
+location: United States (distributed, HQ Utah)
+
+Jump is transforming how wealth management and financial professionals operate. AI platform for RIAs, BDs, FinServ teams. Series A backed by Battery, Sorenson, Pelion, Citi.
+
+What you'll do: Build internal tooling for Marketing/Sales velocity. Own end-to-end GTM systems stack. Integrate product events into HubSpot/Salesforce. Manage BigQuery ↔ CRM data sync. Implement lifecycle automation. Build event/webhook-driven automations. Develop reporting connecting product usage to revenue.
+
+Tech stack: Elixir (backend), React (frontend), HubSpot, Salesforce, BigQuery, Google Tag Manager.
+
+Looking for: Internal tooling experience, product event instrumentation, CRM integration, data pipeline fluency, lifecycle automation, APIs/webhooks.
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+Stealth Startup (via LinkedIn, harmonic.ai in Clay data — not the company)
+title: Sr GTM Engineer
+job url: https://www.linkedin.com/jobs/view/sr-gtm-engineer-at-stealth-startup-4377281529
+location: United States
+
+Venture-backed AI engineering company for GTM teams, stealth mode. Client-facing role assigned to multiple engagements. Build, integrate, manage customer tech stacks.
+
+Key Activities: Workflow automation (lead routing, follow-ups). Clay expert. Tool integration. Data management (CRM cleanse, pipelines, dashboards). AI implementation (predictive scoring, hyper-personalization, intent signals). Performance optimization.
+
+Required: 3-7 years GTM/revenue systems. 1-2 years modern GTM tooling (SFDC, HubSpot, Attio, Clay, Prospeo, Apollo, RB2B, Smartlead, Instantly, SalesForge, Heyreach, Nooks, Zapier, n8n, ChatGPT, Claude, Apify, LinkedIn Sales Nav, Slack agents). Deep AI passion. Proven ability to build multi-agent workflows.
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+Redis / redis.io
+title: Experienced GTM Engineer
+job url: https://www.linkedin.com/jobs/view/experienced-gtm-engineer-at-redis-4378686304
+salary: $114,000 - $170,000 base
+location: United States
+
+Same team and responsibilities as Redis "GTM Engineer" (job ID 4367167274) but senior-level band. 5+ years required (vs 2-5). Salary $114K-$170K (vs $96K-$144K). Same tools: OpenAI, Cursor, n8n, v0/Vercel, Glean, Python, JavaScript, Salesforce, Marketo, Pocus, Asana. #REMOTE.
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+Divisions Maintenance Group / divisionsmg.com
+title: GTM Engineer (LinkedIn URL slug: "revenue-analytics-engineer")
+job url: https://www.linkedin.com/jobs/view/revenue-analytics-engineer-at-divisions-maintenance-group-4357589148
+location: Cincinnati, OH
+
+DMG provides facility maintenance services to retail chains and distribution/fulfillment centers. GTM Engineer joins BI team within Revenue Strategy & Planning.
+
+What You'll Do: Build data pipelines, transformations, analytical models for Sales/Marketing/RevOps. Dashboards, KPIs, self-service analytics. Data quality. Pipeline health, forecasting, funnel analysis. Deal/pricing data analysis. GTM workflow enablement using AI tools (ChatGPT, Claude) and low-code (Zapier).
+
+Requirements: CS/Data Engineering/Analytics degree. Strong SQL. Python. Data modeling, ETL/ELT. Power BI. Salesforce exposure. AI tools comfort.
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+Eagle Search (recruiter) for Stealth enterprise AI firm
+title: Founding GTM Engineer - GTM Systems & Clay Architecture
+job url: https://www.linkedin.com/jobs/view/founding-gtm-engineer-gtm-systems-clay-architecture-at-eagle-search-4378377563
+location: Remote USA
+
+Confidential enterprise AI firm helping complex enterprises move from fragmented AI pilots to production-grade GTM systems. Clay is central to the stack.
+
+What you'll do: Architect Clay-based workflows and GTM infrastructure. Integrate Salesforce, HubSpot, Apollo, ZoomInfo, Outreach, Smartlead, enrichment layers, and AI orchestration. Deploy production-ready revenue systems for enterprise clients. Partner with CEO in early client engagements. Billable technical leader.
+
+Looking for: Deep Clay experience. Modern sales-tech familiarity. Full revenue stack integration. AI in GTM (LLMs, orchestration logic). Early-stage + client-facing comfort.

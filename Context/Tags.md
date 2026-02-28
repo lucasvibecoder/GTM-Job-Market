@@ -174,6 +174,14 @@ Normalize all tool mentions to these exact strings:
 | Granola | granola.ai (AI meeting notes) |
 | Perplexity | perplexity.ai |
 | Google Drive | Drive, GDrive |
+| Copado | copado (Salesforce DevOps) |
+| LeanData | leandata (lead routing) |
+| Chili Piper | chilipiper (scheduling/routing) |
+| Actively AI | actively.ai (deal intelligence) |
+| Semrush | SEMrush, semrush (SEO/SEM analytics) |
+| Attio | attio.com (CRM) |
+| Prospeo | prospeo.io (email finder) |
+| SalesForge | salesforge.ai (AI outbound) |
 
 ## Company Type Tags
 Classify based on what the company's *product* does. Most companies get 1 tag; use 2+ only when the company genuinely straddles categories.
