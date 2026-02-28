@@ -17,6 +17,7 @@ archetype_secondary: outbound-builder
 topics:
   - gtm-systems
   - revops
+  - agentic-engineering
 tools:
   - HubSpot
   - Planhat
@@ -88,5 +89,5 @@ Posh is an IRL community platform enabling anyone to build and monetize real-lif
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[outbound-builder]]
 - **Company Type**: [[martech]]
-- **Topics**: [[gtm-systems]] | [[revops]]
+- **Topics**: [[gtm-systems]] | [[revops]] | [[agentic-engineering]]
 - **Tools**: [[HubSpot]] | [[Planhat]] | [[Clay]] | [[Zapier]] | [[Gong]] | [[Default]] | [[SQL]] | [[Python]] | [[JavaScript]]

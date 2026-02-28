@@ -16,6 +16,7 @@ archetype_secondary: "outbound-builder"
 topics:
   - gtm-systems
   - outbound-infrastructure
+  - agentic-engineering
 tools: [Clay, Salesforce, HubSpot, Zapier, n8n, Groove, Clari Copilot]
 skills_required:
   - "3-5 years in GTM Engineer, Growth Engineer, or technical RevOps role in B2B SaaS"
@@ -76,5 +77,5 @@ Lighthouse builds a commercial strategy platform for the hospitality industry â€
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[outbound-builder]]
 - **Company Type**: [[vertical-saas]]
-- **Topics**: [[gtm-systems]] | [[outbound-infrastructure]]
+- **Topics**: [[gtm-systems]] | [[outbound-infrastructure]] | [[agentic-engineering]]
 - **Tools**: [[Clay]] | [[Salesforce]] | [[HubSpot]] | [[Zapier]] | [[n8n]] | [[Groove]] | [[Clari Copilot]]

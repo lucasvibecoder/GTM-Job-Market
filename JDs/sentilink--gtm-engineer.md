@@ -19,6 +19,7 @@ archetype_secondary: growth-engineer
 topics:
   - gtm-systems
   - outbound-infrastructure
+  - agentic-engineering
 tools:
   - Salesforce
   - Clay
@@ -78,5 +79,5 @@ SentiLink builds identity verification and fraud prevention APIs for financial i
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[growth-engineer]]
 - **Company Type**: [[fintech]] | [[security]]
-- **Topics**: [[gtm-systems]] | [[outbound-infrastructure]]
+- **Topics**: [[gtm-systems]] | [[outbound-infrastructure]] | [[agentic-engineering]]
 - **Tools**: [[Salesforce]] | [[Clay]]
