@@ -3137,3 +3137,137 @@ The Opportunity: Our partner is hiring a GTM Engineer to help build the next pha
 Responsibilities: Own the full sales cycle from prospecting through close for mid-market and enterprise customers. Proactively source and develop pipeline in addition to working inbound opportunities. Conduct technical discovery conversations with engineers, technical leaders, and executive stakeholders. Collaborate with deployment engineers and product teams during evaluations and onboarding. Help refine messaging, positioning, and early-stage sales processes. Operate effectively in a startup environment with evolving structure and responsibilities.
 
 Requirements: 1-3 years of Account Executive experience in B2B SaaS. Demonstrated hunter mentality with the ability to self-source deals. Experience selling technical products to engineering or infrastructure-focused buyers. Strong foundational understanding of modern software stacks, cloud infrastructure, or developer tools. Ability to communicate technical concepts clearly and credibly. Comfort operating in an early-stage startup environment and wearing multiple hats. Excellent communication skills and strong professional presence.
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+Tandem / withtandem.com
+title: GTM Engineer
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-tandem-4374611221
+salary: 150000 - 200000 currency: USD YEAR
+date added: 2026-02-20T14:24:49.037Z
+location: New York, NY
+
+Why you should join us: Tandem is a generational opportunity to rethink how we bring new therapies to market. Exponential organic growth with product-market fit, supporting thousands of new patients every day. AI-first business model enabled by AI that gets stronger as foundation models improve, building durability through two-sided network effects. Raised significant funding from Thrive Capital, General Catalyst, and Accel.
+
+About the role: As a GTM Engineer at Tandem, you will build the data infrastructure, integrations, and automation that power Tandem's sales, marketing, and account operations. You will write production code, build internal tools, ship lightweight integrations, embed AI into how we operate, and collaborate across functions to drive impact.
+
+If you join, you will: Build the infrastructure that powers network growth - from core GTM systems (e.g., HubSpot, Monday) and AI agents to data integrations and lightweight workflows. Develop technical solutions that remove friction across our go-to-market motion. Work closely with product and operations to identify bottlenecks. Embed AI tooling into GTM workflows. Design and run experiments on onboarding and activation flows. Lay the foundation for a go-to-market engineering function over time.
+
+We'll be most excited if you have: Strong programming skills and general CS knowledge. Familiarity with GTM automation tooling (e.g., Clay, HubSpot, n8n). Experience driving GTM engineering projects end-to-end. Strong product instincts. Comfort working with go-to-market and ops teams. Track record of moving quickly.
+
+Location: In person in New York, SoHo office. Salary: $150,000 - $200,000 base + equity.
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+LiveFlow / liveflow.com
+title: GTM Engineer
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-liveflow-4373889776
+date added: 2026-02-16T20:04:43.859Z
+location: New York, NY
+
+About LiveFlow: We are building the next-generation accounting and finance platform to enable lean finance teams to run massive enterprises. Raised over $21M from YC, YC Continuity, Valar, Seedcamp, WndrCo, Moonfire, Bradley Horowitz (VP Product, Google). Helping thousands of companies streamline financial workflows. Founding team previously at Revolut.
+
+About the Role: As a GTM Engineer, you'll have direct ownership of new AI initiatives driving LiveFlow's Go-To-Market strategy for CFOs. Strengthen demand from finance professionals across various channels and automate processes with AI.
+
+What You Will Do: Develop thorough understanding of LiveFlow's ICP. Create reports to extract actionable metrics. Identify key 0-to-1 initiatives by forming hypotheses, conducting analysis, and delivering executive-level proposals. Drive efforts across Sales, CS, BD, RevOps, Product. Stay adaptable under CEO and COO.
+
+What We're Looking For: At least 2 years in fast-paced environment (IB, PE, consulting, startups). Excellent communication. Familiarity with sales and marketing. Comfort with ambiguity. Strong interest in AI and search technologies. Prior experience using Clay, Claude, ChatGPT for automating workflows. Hands-on experience moving data via APIs and webhooks.
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+Mumba Technologies, Inc. / mumbatech.com
+title: GTM Marketing Engineer
+job url: https://www.linkedin.com/jobs/view/gtm-marketing-engineer-at-mumba-technologies-inc-4371014387
+date added: 2026-02-10T15:38:47.000Z
+location: Sacramento, CA
+
+About the Role: Looking for a results-driven Marketing Leader who can take clear business goals and turn them into measurable marketing execution. Owns planning, execution, and performance across campaigns, events, and digital channels. Hands-on role building from the ground up.
+
+Core Responsibilities: Translate business objectives into marketing plans. Own campaign execution across digital, outbound, inbound, event channels. Define KPIs tied to pipeline, revenue, growth. Track performance across channels. Plan and execute integrated campaigns (email, LinkedIn, ads, content). Partner with sales for pipeline creation and ABM. Manage CRM and marketing automation workflows (HubSpot, Salesforce). Own webinar execution. Plan conference participation. Develop messaging aligned to customer pain points. Oversee campaign asset creation.
+
+Required: 3-10+ years B2B marketing. Strong execution. Data-driven. Campaign/webinar/event experience. Strong communication. Independent operator.
+
+Preferred: SaaS/tech services/B2B software. Clay, HubSpot, or similar CRM/automation tools. Sales and pipeline-driven growth support. Conference/webinar management. ABM exposure.
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+Jampack AI / jampack.ai
+title: Founding Engineer - GTM
+job url: https://www.linkedin.com/jobs/view/founding-engineer-gtm-at-jampack-ai-4377193480
+date added: 2026-02-24T14:10:23.000Z
+location: New York, NY
+
+About Jampack: AI-native platform that automates the entire wholesale order-to-cash lifecycle for CPG brands. Processes over $500M in annualized wholesale volume for brands like Fishwife, Immi, Ghia, Sanzo. Building the agentic operating system that replaces spreadsheets, email chains, and manual data entry. Raised $3.2M seed round led by Maveron.
+
+The Role: Founding GTM engineer to architect and build internal systems powering outbound strategy. Sits at the intersection of engineering and revenue. Build automated pipelines that identify, enrich, score, and engage high-value CPG prospects.
+
+What You'll Do: Build data foundation — automated pipelines for lead enrichment, CRM hygiene, account research. Architect outbound systems — programmatic prospecting workflows. Automate sales enablement — auto-generating prospect research, scoring inbound leads, drafting outreach. Experiment and iterate on channels, messaging, targeting. Own the GTM tech stack — evaluate, integrate, orchestrate tools; build custom connectors.
+
+What We're Looking For: 2+ years in GTM/growth/RevOps/sales engineering at B2B startup. Hands-on with Clay, Apollo, Zapier. SQL, Python, APIs, no-code/low-code. Commercial mindset. CPG/wholesale curiosity. Scrappy and experimental.
+
+Apply: https://jobs.ashbyhq.com/jampack-ai/19549910-e435-4cb2-818a-cb4b55aeb5e2
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+August / august.law
+title: Full-Stack GTM Engineer
+job url: https://www.linkedin.com/jobs/view/full-stack-gtm-engineer-at-august-4376364453
+date added: 2026-02-22T00:53:32.442Z
+location: New York, NY
+
+About: August builds AI for midsized law firms to draft, review, and analyze documents at scale. Backed by NEA, Pear VC, Stanford Law. >4x revenue growth in four months.
+
+Role: Build technical infrastructure for customer acquisition — outbound pipelines, LinkedIn automation, SEO, analytics, referral platforms, Google Ads automation.
+
+Outbound: Clay, Amplemarket, Apollo APIs. A/B testing for email sequences. Lead enrichment/scoring. SPF/DKIM/DMARC and domain warmup.
+
+LinkedIn Automation: Prospecting automation with rate-limiting and anti-detection. Targeting optimization and analytics.
+
+SEO: Technical SEO automation, content optimization pipelines, Google Search Console API.
+
+Analytics: PostHog event tracking, data warehouse ETL, Statsig A/B testing, dashboards, attribution.
+
+Additional: Referral platform, Google Ads API, HubSpot integrations.
+
+Requirements: 2-4+ years SDE2/SDE3. Python, JavaScript/Node.js, SQL. API integration. Tier-one tech company experience. Data engineering fundamentals. Bachelor's from top engineering institution (IIT, BITS Pilani, NIT, IISc).
+
+Preferred: GTM automation platforms, LinkedIn APIs, SEO tools, analytics platforms, Google Ads API, referral systems, pre-Series B startup experience.
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+Grafana Labs / grafana.com
+title: Staff GTM Engineer (AI & Automation)
+job url: https://www.linkedin.com/jobs/view/staff-gtm-engineer-ai-automation-us-remote-at-grafana-labs-4374453125
+salary: 174986 - 209983 currency: USD YEAR
+date added: 2026-02-18T01:08:11.559Z
+location: United States (Remote)
+
+About: Grafana Labs is a remote-first, open-source powerhouse. 20M+ users of Grafana. 3,000+ companies including Bloomberg, JPMorgan Chase, eBay manage observability with Grafana LGTM Stack.
+
+The Opportunity: Staff GTM Engineer (AI & Automation) to build next-generation AI agent and workflow systems. 60-70% coding and systems development, 30-40% operational enablement. Build multi-agent architectures, integrate LLM APIs, build data pipelines, ship automation across Marketing, RevOps, and SDR teams.
+
+What You'll Do: Build & operate GTM automation systems with n8n/Workato/Make. Implement multi-agent AI systems integrating with Customer.io, Marketo, Salesforce, BigQuery. Own technical direction — data models, API contracts, shared libraries, reference architectures. Partner with RevOps, Demand Gen, Regional Marketing, Events Marketing, SDRs. Key Strategic Project: AI Chatbot Routing & Human-in-the-Loop Orchestration. Implement company-wide AI standards for prompt engineering, version control, testing, observability.
+
+Requirements: 7+ years production systems. 2+ years LLMs/AI in production. Python, JavaScript/Node.js, Git. GCP, BigQuery, Cloud Functions. LLM frameworks (RAG, function calling, agent orchestration). AI-assisted dev tools (GitHub Copilot, Cursor, Claude Code). Multi-agent systems. LLM evaluation. Conversational AI and routing logic. Salesforce + marketing automation integration.
+
+Bonus: B2B SaaS or GTM ops background. Open-source communities. Workflow orchestration (n8n, Temporal, Prefect, Airflow).
+
+Salary: $174,986 - $209,983 base + RSUs.
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+Rutter / rutter.com
+title: Lead GTM/Growth Engineer
+job url: https://www.linkedin.com/jobs/view/lead-gtm-growth-engineer-at-rutter-4377473623
+date added: 2026-02-24T20:03:59.000Z
+location: New York, NY
+
+About Rutter: Unified API helping fintech and commerce companies (PayPal, Capital One, Mercury, Airwallex, Payoneer, Parafin) build integrations across 75+ accounting, commerce, and payments platforms. Founded 2020, backed by a16z, YC, investors from Plaid/Alloy/Ramp/Modern Treasury. Empowers 1M+ small business owners.
+
+The Role: Lead GTM/Growth Engineer to own growth roadmap and build future Growth team. Inherit proven system generating 80% of pipeline. Lead small team including growth associate. Design systems to scale revenue engine like 20+ person org using AI and automation.
+
+What You'll Do: Own growth roadmap. Lead small team. Systematize and automate GTM motion with AI-driven workflows. Run growth experiments. Leverage Clay, UnifyGTM, Outreach, Orum, SFDC. Build data-driven feedback loops. Collaborate across teams.
+
+Who You Are: 5+ years in growth, marketing ops, or revenue systems. Built systems and teams from scratch. Systems thinker. Data-driven. Hands-on automation. Cross-functional collaborator.
+
+Compensation: $150,000-$185,000 base + equity. Full-time in-person, Flatiron NYC.

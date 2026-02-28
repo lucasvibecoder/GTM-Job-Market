@@ -1,11 +1,11 @@
 ---
 company: Fivetran
 title: Staff Systems Engineer, GTM
-salary_low: 154250
-salary_high: 192813
+salary_low: 176430
+salary_high: 220538
 salary_type: base
-url: "https://www.linkedin.com/jobs/view/staff-systems-engineer-gtm-at-fivetran-4300969719"
-location: "Denver, CO"
+url: "https://www.linkedin.com/jobs/view/staff-systems-engineer-gtm-at-fivetran-4300971751"
+location: "Oakland, CA"
 work_style: hybrid
 company_stage: growth
 company_type:
@@ -37,7 +37,9 @@ skills_preferred:
   - Copado experience
 lucas_annotations: []
 fit_score:
-date_parsed: "2026-02-25"
+date_parsed: "2026-02-27"
+revision_notes:
+  - "2026-02-27: Updated from Denver posting (ID 4300969719, $154,250-$192,813) to Oakland posting (ID 4300971751, $176,430-$220,538). Same JD content, location-adjusted salary ~14% higher."
 gtm_adjacent: true
 ---
 

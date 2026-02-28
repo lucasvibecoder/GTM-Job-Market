@@ -1,11 +1,11 @@
 ---
 company: Engine
-title: Founding GTM Engineer (Remote)
+title: Lead GTM Engineer (Remote)
 salary_low: 148200
 salary_high: 205000
 salary_type: base
-url: "https://www.linkedin.com/jobs/view/founding-gtm-engineer-remote-at-engine-4371258987"
-location: "Denver, CO"
+url: "https://www.linkedin.com/jobs/view/lead-gtm-engineer-remote-at-engine-4376128851"
+location: "Austin, TX"
 work_style: remote
 company_stage: growth
 company_type:
@@ -31,12 +31,14 @@ skills_required:
 skills_preferred: []
 lucas_annotations: []
 fit_score:
-date_parsed: "2026-02-25"
+date_parsed: "2026-02-27"
+revision_notes:
+  - "2026-02-27: Title changed from 'Founding GTM Engineer (Remote)' to 'Lead GTM Engineer (Remote)'. Location changed from Denver, CO to Austin, TX. LinkedIn ID changed from 4371258987 to 4376128851. JD content and salary identical — same role repositioned."
 ---
 
 ## Summary
 
-Engine transforms business travel with a platform combining corporate travel, charge card, and spend management — 20K+ companies, 1M+ travelers, billions in annual bookings. Cash flow positive, backed by Telescope Partners, Blackstone, and Permira. This Founding GTM Engineer builds the Growth Engineering function from the ground up — creating systems, signals, and automations for outbound and net-new customer acquisition. Includes hiring and mentoring as the team grows. Remote.
+Engine transforms business travel with a platform combining corporate travel, charge card, and spend management — 20K+ companies, 1M+ travelers, billions in annual bookings. Cash flow positive, backed by Telescope Partners, Blackstone, and Permira. This **Lead GTM Engineer** (originally posted as "Founding GTM Engineer") builds the Growth Engineering function from the ground up — creating systems, signals, and automations for outbound and net-new customer acquisition. Includes hiring and mentoring as the team grows. Remote.
 
 ## Responsibilities
 

@@ -4,8 +4,8 @@ title: Lead GTM Engineer
 salary_low:
 salary_high:
 salary_type: base
-url: "https://www.linkedin.com/jobs/view/lead-gtm-engineer-at-listen-labs-4371257764"
-location: "San Francisco, CA"
+url: "https://www.linkedin.com/jobs/view/lead-gtm-engineer-at-listen-labs-4371270368"
+location: "New York, NY"
 work_style:
 company_stage: series-a
 company_type:
@@ -30,7 +30,9 @@ skills_preferred:
   - Prior experience in technical sales, data engineering, or growth/marketing operations
 lucas_annotations: []
 fit_score:
-date_parsed: "2026-02-25"
+date_parsed: "2026-02-27"
+revision_notes:
+  - "2026-02-27: Updated from SF posting (ID 4371257764) to NYC posting (ID 4371270368). Identical JD content. ARR figure differs ($14M in original summary vs $12M in new scrape) — likely different scrape dates."
 ---
 
 ## Summary

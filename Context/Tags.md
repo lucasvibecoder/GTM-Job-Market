@@ -155,6 +155,13 @@ Normalize all tool mentions to these exact strings:
 | Superblocks | superblocks (internal tool builder) |
 | Google Apps Script | Apps Script, GAS |
 | nReach | nreach |
+| Monday | Monday.com, monday.com |
+| Statsig | statsig.com |
+| Google Search Console | GSC, Search Console |
+| GitHub Copilot | Copilot (GitHub) |
+| Temporal | temporal.io |
+| Prefect | prefect.io |
+| Orum | orum.com (sales dialer) |
 | PhantomBuster | phantombuster, Phantom Buster |
 | Apify | apify.com |
 
