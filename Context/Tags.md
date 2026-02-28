@@ -182,6 +182,10 @@ Normalize all tool mentions to these exact strings:
 | Attio | attio.com (CRM) |
 | Prospeo | prospeo.io (email finder) |
 | SalesForge | salesforge.ai (AI outbound) |
+| React | React.js, ReactJS |
+| Next.js | NextJS, next.js |
+| Sanity CMS | Sanity, sanity.io |
+| Tailwind CSS | Tailwind, tailwindcss |
 
 ## Company Type Tags
 Classify based on what the company's *product* does. Most companies get 1 tag; use 2+ only when the company genuinely straddles categories.

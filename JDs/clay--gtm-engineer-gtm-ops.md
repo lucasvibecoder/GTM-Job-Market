@@ -71,3 +71,4 @@ Clay ($5B valuation, $100M+ revenue, Sequoia/CapitalG/First Round-backed) is the
 - **Company Type**: [[sales-tech]]
 - **Topics**: [[revops]]
 - **Tools**: [[SQL]]
+- **See Also**: [[clay--gtm-engineer-manager-sales|Clay — GTM Engineer Manager (Sales)]]

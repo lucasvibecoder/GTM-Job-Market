@@ -73,3 +73,4 @@ Clay is the GTM platform powering how companies like Anthropic, Notion, Google, 
 - **Company Type**: [[sales-tech]]
 - **Topics**: [[sales-enablement]]
 - **Tools**: [[Clay]]
+- **See Also**: [[clay--gtm-engineer-gtm-ops|Clay — GTM Engineer (GTM Ops)]]

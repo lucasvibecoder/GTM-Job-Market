@@ -74,3 +74,4 @@ Redis is the in-memory data store powering fast applications for 10,000+ custome
 - **Company Type**: [[data-platform]]
 - **Topics**: [[gtm-systems]]
 - **Tools**: [[OpenAI API]] | [[Cursor]] | [[n8n]] | [[v0]] | [[Vercel]] | [[Glean]] | [[Python]] | [[JavaScript]] | [[Salesforce]] | [[Marketo]] | [[Pocus]] | [[Asana]]
+- **See Also**: [[redis--experienced-gtm-engineer|Redis — Experienced GTM Engineer]]

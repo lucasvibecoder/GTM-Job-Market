@@ -3589,3 +3589,107 @@ Confidential enterprise AI firm helping complex enterprises move from fragmented
 What you'll do: Architect Clay-based workflows and GTM infrastructure. Integrate Salesforce, HubSpot, Apollo, ZoomInfo, Outreach, Smartlead, enrichment layers, and AI orchestration. Deploy production-ready revenue systems for enterprise clients. Partner with CEO in early client engagements. Billable technical leader.
 
 Looking for: Deep Clay experience. Modern sales-tech familiarity. Full revenue stack integration. AI in GTM (LLMs, orchestration logic). Early-stage + client-facing comfort.
+
+---
+<!-- Imported: 2026-02-26T20:08:38.167Z via /add -->
+Flagler Health / flaglerhealth.io
+title: GTM Engineer
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-flagler-health-4378627592
+location: New York, NY
+
+Flagler Health is a fast-growing healthtech company transforming how healthcare organizations deliver care through AI-powered workflow automation, remote patient engagement, and chronic care programs. Our platform has already served over 1.5 million patients and is trusted by providers and payers to improve efficiency, lower costs, and drive better outcomes. With a unique freemium model and minimal direct competition, we are poised to capture a large share of the $4.5T U.S. healthcare industry.
+
+What You'll Do
+
+Build internal tools and systems to scale sales and marketing through AI and automations
+Partner with stakeholders to run high-impact growth experiments (e.g. SEO/AEO hacking with LLMs, web scraping, AI-powered content automation)
+Take projects from 0→1 across a variety of surface areas and tech stacks
+Develop integrations between Flagler's products, business systems, and third-party platforms
+
+What You Need
+
+2–3+ years of software engineering experience with full-stack product development
+AI/LLM experience in production environments
+Comfort working across a range of technologies and problem domains, modeling data flows for maximum system efficiency
+
+Nice to Haves
+
+Experience in early-stage or growth-focused technical roles
+Familiarity with the modern data stack (React, Python, Next.js, Sanity CMS, dbt, etc.)
+Understanding of sales/marketing automation tools and B2B sales processes
+
+---
+<!-- Imported: 2026-02-27T18:21:44.887Z via /add -->
+Tempo Software / tempo.io
+title: Principal GTM Data Engineer & Architect
+job url: https://www.linkedin.com/jobs/view/principal-gtm-data-engineer-architect-at-tempo-software-4379053059
+location: United States
+
+With over 30,000 customers, including a third of Fortune 500 companies, Tempo is trusted by organizations across the globe to make their workflows work better.
+
+We create a suite of integrated solutions for time management, resource planning, budget management, roadmapping, program management, reporting and more. We create the tech that enables the modern team to deliver – for every step from first vision to value.
+
+Since our beginning in 2007 as a project to make a time-tracking tool to help a client – Tempo has expanded to become the #1 time management add-on for Jira, and we have developed and acquired a multitude of tools to become one of the most trusted names in the Atlassian ecosystem.
+
+About The Role
+
+We're building the revenue engine on clean, structured, AI-ready data, and we're looking for a senior data leader to architect and launch our GTM data practice.
+
+You'll design and implement the unified GTM data spine that powers segmentation, targeting, ABM, ecosystem intelligence, forecasting inputs, and AI-driven revenue workflows.
+
+This role differs from general BI and Data roles. It is focused specifically on GTM systems, revenue modeling, signal activation, and predictive intelligence. You'll be our primary GTM data leader building the system hands-on while managing external partners as we scale.
+
+What You'll Do
+
+Build the GTM Data Foundation
+- Architect and implement the unified GTM data spine across CRM, marketing automation, product telemetry, billing, enrichment providers, partner data, and the warehouse.
+- Establish identity resolution, deduplication, and source-of-truth logic across systems.
+- Define canonical schemas that we'll use to operate the business, enable AI across teams and drive results.
+- Build scalable ELT/ETL pipelines and orchestration workflows tailored to revenue activation.
+- Implement governance, lineage, access control, and quality monitoring for GTM data assets.
+- Partner closely with the BI / enterprise data team to align on shared infrastructure while owning GTM-specific models and activation layers.
+
+Drive Revenue Intelligence & Modeling
+- Develop and productionize segmentation and scoring models (ICP scoring, ABM prioritization, expansion propensity, trial health, pipeline likelihood).
+- Apply statistical and machine learning techniques to improve scoring, targeting, routing, and revenue predictability.
+- Design experimentation and measurement frameworks for GTM programs.
+- Operationalize predictive outputs directly into GTM systems via agents, reverse ETL, or custom integration (Salesforce workflows, outbound automation, lifecycle programs, ABM platforms, partner programs).
+
+Build Ecosystem & Prospect Intelligence
+- Architect customer and prospect intelligence systems integrating first-party, enrichment, and ecosystem signals.
+- Develop frameworks for ecosystem intelligence (partner influence, marketplace signals, derived demand).
+- Enable real-time or near-real-time signal activation to sales and marketing teams.
+- Design structured data systems that power future AI-driven revenue workflows.
+
+Lead the Practice
+- Manage and direct external agency/consulting partners executing against the GTM data roadmap.
+- Establish architectural standards and technical review processes.
+- Define the build vs. buy strategy for GTM data systems.
+- Develop the long-term roadmap for in-house data capability.
+
+Who You Are
+- 10+ years of experience in data engineering, analytics engineering, revenue data, or related leadership roles.
+- Demonstrated experience standing up a GTM or revenue data function from the ground up.
+- Deep hands-on expertise with modern data stack tools (cloud warehouse, transformation layer, orchestration, reverse ETL).
+- Advanced proficiency in SQL and Python.
+- Experience applying data science techniques in a GTM or revenue context.
+- Experience architecting data systems that power automation and AI workflows.
+- Strong understanding of CRM and marketing automation data models.
+
+---
+<!-- Imported: 2026-02-27T01:57:23.682Z via /add -->
+Ramp / ramp.com
+title: Senior Software Engineer | GTM Platform, Frontend
+job url: https://www.linkedin.com/jobs/view/senior-software-engineer-gtm-platform-frontend-at-ramp-4378696317
+salary: $200,000 - $310,000
+location: New York, NY
+
+Ramp is a financial operations platform designed to save companies time and money. Our all-in-one solution combines payments, corporate cards, vendor management, procurement, travel booking, and automated bookkeeping with built-in intelligence. More than 50,000 businesses have saved $10B and 27.5M hours with Ramp. Founded in 2019, Ramp powers the fastest-growing corporate card and bill payment platform in America, and enables over $100 billion in purchases each year.
+
+About The Role: The Ramp Web Engineering team is searching for a React-savvy frontend engineer to supercharge Ramp's customer acquisition and Go-To-Market efforts. Tech stack includes Next.js and Tailwind CSS.
+
+What you'll do: Build AI-powered frontend apps to assist marketer workflows (self-serve landing page prototyper, agent for paid ad experiments, LLM copilot for sales collateral). Collaborate with design, growth, and marketing on website projects to maximize qualified leads. Build design systems. Improve engineering processes and systems.
+
+What you need: Strong React proficiency. 3+ years frontend engineering. AI/LLM production experience. Fast-paced environment.
+
+Nice to Haves: Next.js, Tailwind CSS, engineering development lifecycle perspective.

@@ -130,3 +130,4 @@ Tempo Software is the #1 time management add-on for Jira with 30,000+ customers 
 - **Company Type**: [[dev-tools]]
 - **Topics**: [[gtm-systems]] | [[agentic-engineering]] | [[outbound-infrastructure]]
 - **Tools**: [[n8n]] | [[Clay]] | [[Supabase]] | [[Pinecone]] | [[JavaScript]] | [[Python]] | [[SQL]] | [[Salesforce]] | [[Braze]] | [[Iterable]] | [[HubSpot]] | [[Segment]] | [[Jira]] | [[dbt]] | [[Fivetran]] | [[Airbyte]] | [[Looker]] | [[Tableau]] | [[Domo]]
+- **See Also**: [[tempo-software--principal-gtm-data-engineer-and-architect|Tempo Software — Principal GTM Data Engineer & Architect]]
