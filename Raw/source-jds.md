@@ -3271,3 +3271,141 @@ What You'll Do: Own growth roadmap. Lead small team. Systematize and automate GT
 Who You Are: 5+ years in growth, marketing ops, or revenue systems. Built systems and teams from scratch. Systems thinker. Data-driven. Hands-on automation. Cross-functional collaborator.
 
 Compensation: $150,000-$185,000 base + equity. Full-time in-person, Flatiron NYC.
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+HackerRank / hackerrank.com
+title: GTM Engineer - Demand Generation
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-demand-generation-at-hackerrank-4351756736
+salary: 120000 - 150000 currency: USD YEAR
+date added: 2026-02-19T09:31:38.000Z
+location: Santa Clara, CA
+LinkedIn job id: 4351756736
+Description: HackerRank helps companies like NVIDIA, Amazon, and Microsoft hire and upskill the next generation of developers based on skills, not pedigree. Our platform is trusted by over 2,500 of the world's most innovative companies to build strong engineering teams ready for what's next.
+
+Software has entered an era where humans and AI build side by side. As this shift accelerates, the definition of strong technical talent is changing. We give companies better ways to identify and invest in next-generation skills.
+
+People at HackerRank care deeply about the impact of their work and sweat the small details so our customers can be wildly successful with products they genuinely love to use. We move with urgency and believe great outcomes come from high standards
+
+About The Role
+
+The Growth Marketing team is the engine behind pipeline acceleration at HackerRank. We operate at the intersection of creativity, analytics, and automation, managing paid channels, orchestrating ABM plays, and optimizing every touchpoint that turns interest into opportunity. As the team responsible for bringing in qualified leads and nurturing them across the funnel, we directly impact revenue and go-to-market success.
+
+As our Demand-focused GTM Engineer, you'll be the driving force that turns marketing strategy into pipeline. You will own the day-to-day execution of multi-channel demand programs including paid social, ABM plays, email nurture, and direct mail while managing budgets, creative assets, and stakeholders. You'll analyze campaign data, optimize performance, and scale efforts to maximize impact. If juggling timelines, audience lists, and bid strategies is your wheelhouse, this is your chance to help HackerRank hit the next level of growth.
+
+What You'll Do
+
+Execute and optimize full-funnel demand generation programs across paid media and owned channels. Lead the day-to-day management of paid media, audience targeting, creative rotation, pacing, and bid strategies. Drive ABM campaigns (1:Many, 1:Few, and 1:1), collaborating with SDRs, design, and content to engage key accounts. Run diagnostics across GTM funnel systems, report on campaign performance, and implement A/B and multivariate tests. Streamline campaign operations with documented playbooks and automation to reduce manual effort and increase speed.
+
+Who You Are
+
+Connects strategy with hands-on execution across channels and tools. Passionate about data, testing, and finding signal in the noise. Proven track record driving pipeline growth through high-performing ABM programs. You bring 5+ years in B2B demand generation or growth marketing (agency or SaaS). Hands-on with LinkedIn Ads and at least one more paid platform (Meta, Reddit, etc.). Experience running 1:Many, 1:Few, and 1:1 ABM campaigns with measurable results. Fluent with CRM and marketing automation (e.g., Salesforce, HubSpot). Strong in reporting, attribution modeling, and funnel diagnostics (pivot tables, UTM tracking, etc.). Skilled at conversion tracking and syncing audience segments (Tag Manager, Analytics events, etc.). Familiar with low-code and automation tools such as Clay, Make, N8N, or Zapier.
+
+Even better if you have
+
+Experience with APIs, webhooks, dashboarding, or ETL. You bring light creative skills with tools like Figma or Canva. Have copywriting chops to iterate messaging and improve campaign performance.
+
+Compensation
+
+Base salary range: $120,000 - $150,000.
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add (update) -->
+Snowflake / snowflake.com
+title: Senior Manager Marketing Operations GTM Engineer
+job url: https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-gtm-engineer-at-snowflake-4343019577
+salary: 158000 - 206800 currency: USD YEAR
+date added: 2026-02-12T11:41:28.000Z
+location: Menlo Park, CA
+LinkedIn job id: 4343019577
+Description: [Same JD content — update pass to add location, LinkedIn URL, missing tools, and topics]
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+Startup Resources / stpresources.com
+title: GTM Engineer - B2B SaaS - Austin TX
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-b2b-saas-austin-tx-at-startup-resources-4377175134
+salary: 130000 - 180000 currency: USD YEAR
+date added: 2026-02-24T12:18:56.682Z
+location: Austin, TX
+LinkedIn job id: 4377175134
+
+We're hiring a GTM Engineer for a fast-growing B2B SaaS startup in Austin — 20 people, $12M raised, founded 2024, already working with leading consumer goods brands.
+
+This isn't a traditional marketing or sales ops role. You'd own and build the entire growth engine from scratch — applying engineering principles to go-to-market, running high-tempo experiments, and making the sales team unstoppable.
+
+If you have a hacker mindset and want to see your work directly impact revenue, keep reading.
+
+What you'll be doing:
+Building account intelligence, lead lists and measuring the full sales funnel. Running rapid experiments across inbound, outbound and product-led channels. Owning GTM infrastructure — build vs buy decisions, AI & automation. Driving product adoption and turning it into a major lead generator. Working cross-functionally with sales, demoing the product and even closing deals.
+
+What we're looking for:
+3–6 years in a full-stack engineering role, ideally in growth or GTM at a B2B SaaS company. Hacker mindset — you build fast, test fast, double down on what works. Comfortable with AI and automation tools. Comfortable with SQL, Python (or other scripting languages). High agency — you don't wait to be told what to do. Based in or willing to relocate to Austin, TX.
+
+Compensation:
+$130,000 – $180,000 base salary. $20,000 – $30,000 cash equity. Right to work in the US required — visa sponsorship not available.
+
+Austin, TX — 5 days in-office | Full-time
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+RemoteHunter / remotehunter.com
+title: Go-To-Market (GTM) Engineer
+job url: https://www.linkedin.com/jobs/view/go-to-market-gtm-engineer-at-remotehunter-4377948815
+salary: 130000 - 160000 currency: USD YEAR
+date added: 2026-02-27T20:21:36.319Z
+location: United States
+LinkedIn job id: 4377948815
+
+About Our Client: The organization operates in the identity verification and risk management sector in the United States. It addresses the inefficiencies and high costs of traditional identity verification methods by providing faster, smarter, and more accurate solutions. Its real-time APIs have verified hundreds of millions of identities, initially focusing on financial services and expanding into additional markets. The organization has attracted notable investors and received recognition from major media outlets. It has contributed to industry milestones, including being the first to implement eCBSV technology and testifying before the United States House of Representatives on identity verification.
+
+About the Opportunity: The Go-To-Market (GTM) Engineer will own the technical infrastructure supporting the revenue teams, building systems, workflows, and AI-driven tools that enhance efficiency and customer experience. This role is crucial for enabling the GTM team to leverage data insights and deliver targeted outreach to banks, fintechs, and financial institutions. As a pioneering position with high visibility, it offers ownership over scalable solutions that directly impact organizational growth. This role is remote and based in the United States.
+
+Responsibilities: Design and maintain tools and processes that enhance the GTM function. Integrate and build a cohesive GTM technology stack. Identify and implement automation across the sales funnel. Develop tools to discover and present revenue opportunities. Collaborate with GTM teams including Sales, Partner Success, and Marketing. Translate business needs into scalable technical solutions. Analyze and improve GTM processes and analytics proactively.
+
+Qualifications: 4+ years of experience in GTM systems, revenue operations, or software/product engineering. Practical experience with CRMs, revenue forecasting, and internal tools for non-technical users. Background in fintech, fraud, identity, or regulated B2B preferred. Proficiency in SQL. Preferred experience with Salesforce. Preferred fluency in Python and/or JavaScript. Experience with Clay Sales Intelligence preferred. Skilled in AI tooling and large language models (LLM). Experience building AI agents. Ability to rapidly prototype and deploy solutions. Proven experience working with Sales, Partner Success, and Marketing teams. Strong ownership and adaptability in early-stage projects.
+
+Pay Range: $130,000 - $160,000/year plus equity and benefits.
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+Glean / glean-it.com
+title: GTM Engineer
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-glean-4354931594
+salary: 170000 - 200000 currency: USD YEAR
+date added: 2026-02-25T16:03:04.964Z
+location: San Francisco, CA
+LinkedIn job id: 4354931594
+
+Glean is the Work AI platform that helps everyone work smarter with AI. Enterprise search evolved into full-scale Work AI ecosystem — intelligent Search, AI Assistant, and scalable AI agents on one secure, open platform. 100+ enterprise SaaS connectors, flexible LLM choice, robust APIs. 1,000+ employees, 25+ countries, 50+ industries.
+
+GTM Engineer to be the technical backbone of the go-to-market engine. Sits at intersection of RevOps, marketing, sales, customer success, and data. Owns AI-first workflows, data pipelines, and automations that power entire customer journey. Reports to VP of Revenue Strategy & Operations.
+
+Responsibilities: Build AI-first automation across full customer journey. Systematize GTM workflows (enrichment, scoring, routing, outreach). Accelerate pipeline generation through scaled outreach. Run data-driven GTM experiments. Leverage Glean at Glean. Identify AI tooling opportunities. Partner across Sales, Marketing, Post-Sales, Product.
+
+Requirements: 5+ years GTM or Revenue Operations with strong technical orientation. Proven track record designing/shipping GTM workflows (scoring, routing, lifecycle, PLG/usage-based signals). Experience with AI-native and automation tools, particularly Clay. Deep understanding of B2B SaaS funnels and GTM motions. Systems thinker. Preferred: Computer Science degree.
+
+Compensation: $170,000 - $200,000 base. Hybrid (4 days/week in SF).
+
+---
+<!-- Imported: 2026-02-27T00:00:00Z via /add -->
+Solv / solvhealth.com
+title: GTM Engineer
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-solv-4376987900
+date added: 2026-02-26T08:41:32.612Z
+location: San Francisco, CA
+LinkedIn job id: 4376987900
+
+Healthcare tech company — mission to make healthcare accessible, transparent, effortless. Consumer-centered, partners with providers.
+
+First GTM & Revenue Engineer. Owns technical infrastructure powering how Solv closes and retains customers. Full-funnel revenue role from first touch through renewal and expansion. Reports to Senior Director of Marketing & Strategy. Measured by pipeline generated, revenue influenced, and operational leverage.
+
+GTM Infrastructure & Automation: Design and deploy agentic workflows for outbound prospecting, lead enrichment, account research, follow-up sequences. Design and scale GTM tech stack — runs on Claude, powered through Connectors into HubSpot, Drive, Glean, Granola, Slack. Replace manual processes with AI-native solutions. Build dashboards and reporting.
+
+Outbound Pipeline Engine: Account prioritization models (propensity scoring, ICP fit, intent signals). Multi-channel outbound sequences. Extract signal from proprietary industry data. Own the feedback loop.
+
+GTM Enablement Infrastructure: Real-time account intelligence, competitive positioning, ROI benchmarks for Sales reps. Templatized assets (pitch frameworks, ROI models, battlecards). Translate product releases into sales plays. Retention/expansion workflows with Customer Success. Ship internal web apps (deal calculators, account health dashboards, ROI snapshots).
+
+Requirements: 3-6 years GTM, sales ops, revenue ops, or marketing engineering at B2B SaaS. Hands-on experience architecting AI-powered GTM systems with Claude. Claude Code-comfortable. AI-native (Claude, GPT, Perplexity, agentic frameworks). CRM-literate (Salesforce or HubSpot at data model level). GTM-fluent. High-agency.
+
+Hybrid — 1-2 days/week in SF office preferred.

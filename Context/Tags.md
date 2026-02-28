@@ -164,6 +164,16 @@ Normalize all tool mentions to these exact strings:
 | Orum | orum.com (sales dialer) |
 | PhantomBuster | phantombuster, Phantom Buster |
 | Apify | apify.com |
+| LinkedIn Ads | LinkedIn Advertising |
+| Meta Ads | Facebook Ads, Meta Advertising |
+| Reddit Ads | Reddit Advertising |
+| Figma | figma.com |
+| Canva | canva.com |
+| Google Tag Manager | GTM (tag manager), Tag Manager |
+| Google Analytics | GA, GA4, Analytics events |
+| Granola | granola.ai (AI meeting notes) |
+| Perplexity | perplexity.ai |
+| Google Drive | Drive, GDrive |
 
 ## Company Type Tags
 Classify based on what the company's *product* does. Most companies get 1 tag; use 2+ only when the company genuinely straddles categories.

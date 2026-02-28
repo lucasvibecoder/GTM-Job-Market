@@ -4,8 +4,8 @@ title: Senior Manager Marketing Operations GTM Engineer
 salary_low: 158000
 salary_high: 206800
 salary_type: base
-url: "https://careers.snowflake.com"
-location: null
+url: "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-gtm-engineer-at-snowflake-4343019577"
+location: "Menlo Park, CA"
 work_style: null
 company_stage: public
 company_type:
@@ -14,12 +14,18 @@ implicit_stack: []
 yoe_required: 6
 archetype: gtm-systems-architect
 archetype_secondary: revops-ops
-topics: []
+topics:
+  - gtm-systems
+  - marketing-ops
+  - agentic-engineering
 tools:
   - Salesforce
   - Marketo
   - Clay
   - Workato
+  - Python
+  - JavaScript
+  - SQL
   - Tableau
   - Looker
   - Power BI
@@ -37,11 +43,13 @@ skills_preferred:
   - BI visualization tools
 lucas_annotations: []
 fit_score: 4.4
-date_parsed: "2026-02-25"
+date_parsed: "2026-02-27"
+revision_notes:
+  - "2026-02-27: Added location (Menlo Park, CA), LinkedIn URL, missing tools (Python, JavaScript, SQL), topics (gtm-systems, marketing-ops, agentic-engineering), title discrepancy note."
 ---
 
 ## Summary
-Snowflake (public company) is hiring a GTM Systems Engineer to revolutionize marketing operations using AI and automation. The role builds the scalable technical backbone that accelerates customer acquisition and expansion across the GTM org. Partners with Marketing, Sales, and Data teams to translate strategic vision into high-performing, measurable systems.
+Snowflake (public company) is hiring a GTM Systems Engineer to revolutionize marketing operations using AI and automation. The role builds the scalable technical backbone that accelerates customer acquisition and expansion across the GTM org. Partners with Marketing, Sales, and Data teams to translate strategic vision into high-performing, measurable systems. **Title note**: LinkedIn lists as "Senior Manager Marketing Operations GTM Engineer"; JD body refers to "GTM Systems Engineer" — both titles in play.
 
 ## Responsibilities
 - Streamline and optimize marketing processes including campaign creation and audience segmentation
@@ -74,4 +82,5 @@ Snowflake (public company) is hiring a GTM Systems Engineer to revolutionize mar
 - **Archetype**: [[gtm-systems-architect]]
 - **Secondary**: [[revops-ops]]
 - **Company Type**: [[data-platform]]
-- **Tools**: [[Salesforce]] | [[Marketo]] | [[Clay]] | [[Workato]] | [[Tableau]] | [[Looker]] | [[Power BI]]
+- **Topics**: [[gtm-systems]] | [[marketing-ops]] | [[agentic-engineering]]
+- **Tools**: [[Salesforce]] | [[Marketo]] | [[Clay]] | [[Workato]] | [[Python]] | [[JavaScript]] | [[SQL]] | [[Tableau]] | [[Looker]] | [[Power BI]]

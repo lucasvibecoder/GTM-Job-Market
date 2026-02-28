@@ -5,7 +5,7 @@ salary_low: 120000
 salary_high: 183000
 salary_type: base
 url: "https://www.linkedin.com/jobs/view/systems-engineer-cx-automation-at-gong-4375441863"
-location: "Chicago, IL"
+location: "Chicago, IL; San Francisco, CA"
 work_style: remote
 company_stage: growth
 company_type:
@@ -28,12 +28,14 @@ skills_required:
 skills_preferred: []
 lucas_annotations: []
 fit_score:
-date_parsed: "2026-02-25"
+date_parsed: "2026-02-27"
+revision_notes:
+  - "2026-02-27: Added SF location (job ID 4375449470). Same role posted in Chicago (4375441863) and San Francisco. Remote role, identical JD and salary band."
 ---
 
 ## Summary
 
-Gong (5,000+ customers, Revenue AI Operating System) is hiring a GTM Engineer to build customer-facing intelligent workflows that create an agentic customer journey. Uses Workato, Retool, LLMs, and Gong to design, test, and deploy scalable automations that elevate the customer experience. Partners across Outcomes, Customer Success, RevOps, and Product. Chicago-based, remote-friendly.
+Gong (5,000+ customers, Revenue AI Operating System) is hiring a GTM Engineer to build customer-facing intelligent workflows that create an agentic customer journey. Uses Workato, Retool, LLMs, and Gong to design, test, and deploy scalable automations that elevate the customer experience. Partners across Outcomes, Customer Success, RevOps, and Product. Remote role posted across multiple locations (Chicago, San Francisco).
 
 > **Title note:** Listed as "GTM Engineer" in the JD body, but LinkedIn URL slug reads "systems-engineer-cx-automation." Both titles capture the role — it's a systems/automation engineer focused on customer-facing GTM workflows.
 

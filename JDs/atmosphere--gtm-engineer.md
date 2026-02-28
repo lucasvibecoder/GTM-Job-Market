@@ -4,7 +4,7 @@ title: "GTM Engineer (Go-to-Market Systems & Automations)"
 salary_low:
 salary_high:
 salary_type: base
-url: "https://www.linkedin.com/jobs/view/gtm-engineer-go-to-market-systems-automations-at-atmosphere-tv-4365588303"
+url: "https://www.linkedin.com/jobs/view/gtm-engineer-go-to-market-systems-automations-at-atmosphere-tv-4378379799"
 location: "Austin, TX"
 work_style: hybrid
 company_stage: growth
@@ -15,8 +15,14 @@ implicit_stack: []
 yoe_required: 2
 archetype: growth-engineer
 archetype_secondary: outbound-builder
-topics: []
+topics:
+  - agentic-engineering
+  - growth-engineering
+  - outbound-infrastructure
 tools:
+  - Python
+  - SQL
+  - JavaScript
   - Salesforce
   - HubSpot
   - Segment
@@ -40,7 +46,9 @@ skills_preferred:
   - Machine learning or predictive analytics
 lucas_annotations: []
 fit_score:
-date_parsed: "2026-02-25"
+date_parsed: "2026-02-27"
+revision_notes:
+  - "2026-02-27: Repost detected (new LinkedIn job ID 4378379799, old 4365588303). Updated URL, added missing tools (Python, SQL, JavaScript), added topics (agentic-engineering, growth-engineering, outbound-infrastructure)."
 ---
 
 ## Summary
@@ -86,4 +94,5 @@ Atmosphere is a streaming TV platform for commercial venues (60,000+ bars, resta
 - **Archetype**: [[growth-engineer]]
 - **Secondary**: [[outbound-builder]]
 - **Company Type**: [[media]] | [[adtech]]
-- **Tools**: [[Salesforce]] | [[HubSpot]] | [[Segment]] | [[Instantly]] | [[Clay]]
+- **Topics**: [[agentic-engineering]] | [[growth-engineering]] | [[outbound-infrastructure]]
+- **Tools**: [[Python]] | [[SQL]] | [[JavaScript]] | [[Salesforce]] | [[HubSpot]] | [[Segment]] | [[Instantly]] | [[Clay]]

@@ -5,7 +5,7 @@ salary_low: 148200
 salary_high: 205000
 salary_type: base
 url: "https://www.linkedin.com/jobs/view/lead-gtm-engineer-remote-at-engine-4376128851"
-location: "Austin, TX"
+location: "Austin, TX; San Francisco, CA"
 work_style: remote
 company_stage: growth
 company_type:
@@ -15,7 +15,9 @@ implicit_stack: []
 yoe_required:
 archetype: growth-engineer
 archetype_secondary: gtm-systems-architect
-topics: []
+topics:
+  - outbound-infrastructure
+  - growth-engineering
 tools:
   - Python
   - JavaScript
@@ -34,6 +36,7 @@ fit_score:
 date_parsed: "2026-02-27"
 revision_notes:
   - "2026-02-27: Title changed from 'Founding GTM Engineer (Remote)' to 'Lead GTM Engineer (Remote)'. Location changed from Denver, CO to Austin, TX. LinkedIn ID changed from 4371258987 to 4376128851. JD content and salary identical — same role repositioned."
+  - "2026-02-27: Third posting detected — San Francisco, CA (job ID 4378680638). Added SF to location, added topics (outbound-infrastructure, growth-engineering). Remote role posted across Denver, Austin, SF."
 ---
 
 ## Summary
@@ -72,4 +75,5 @@ Engine transforms business travel with a platform combining corporate travel, ch
 - **Archetype**: [[growth-engineer]]
 - **Secondary**: [[gtm-systems-architect]]
 - **Company Type**: [[vertical-saas]] | [[fintech]]
+- **Topics**: [[outbound-infrastructure]] | [[growth-engineering]]
 - **Tools**: [[Python]] | [[JavaScript]] | [[Salesforce]] | [[Outreach]]
