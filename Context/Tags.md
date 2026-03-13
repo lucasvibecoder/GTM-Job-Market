@@ -186,6 +186,20 @@ Normalize all tool mentions to these exact strings:
 | Next.js | NextJS, next.js |
 | Sanity CMS | Sanity, sanity.io |
 | Tailwind CSS | Tailwind, tailwindcss |
+| Apache Beam | Beam |
+| Google Pub/Sub | Pub/Sub, Cloud Pub/Sub |
+| Go | Golang, go (programming language) |
+| Centralize | centralize (GTM intelligence) |
+| Coda | coda.io |
+| CrewAI | crewai (AI agent framework) |
+| Google Agentspace | Agentspace (Google enterprise agent platform) |
+| Syncari | syncari.com (MDM/data unification platform) |
+| Power Automate | Microsoft Power Automate |
+| SharePoint | Microsoft SharePoint |
+| Excel | Microsoft Excel |
+| Microsoft Teams | Teams (Microsoft) |
+| ChurnZero | churnzero.com (customer success) |
+| UserGems | usergems.com (pipeline generation) |
 
 ## Company Type Tags
 Classify based on what the company's *product* does. Most companies get 1 tag; use 2+ only when the company genuinely straddles categories.
