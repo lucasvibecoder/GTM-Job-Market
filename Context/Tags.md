@@ -205,6 +205,18 @@ Normalize all tool mentions to these exact strings:
 | Replit | replit.com (browser IDE/deployment) |
 | Contentful | contentful.com (headless CMS) |
 | Storyblok | storyblok.com (headless CMS) |
+| Outbound Sync | outbound sync (data sync for outbound) |
+| Google Meet | Google Meet (video conferencing) |
+| ClickUp | clickup.com (project management) |
+| Copy.ai | copy.ai (AI copywriting) |
+| Sendos | sendos (direct mail/sending platform) |
+| CrazyEgg | crazyegg.com (UX analytics/heatmaps) |
+| Bizible | Bizible, Adobe Marketo Measure (B2B attribution) |
+| PandaDoc | pandadoc.com (document/proposal automation) |
+| Calendly | calendly.com (scheduling) |
+| Fathom | fathom.video (AI meeting recorder) |
+| People.ai | people.ai (revenue intelligence) |
+| Traction Complete | tractioncomplete (Salesforce lead-to-account matching/routing) |
 
 ## Company Type Tags
 Classify based on what the company's *product* does. Most companies get 1 tag; use 2+ only when the company genuinely straddles categories.

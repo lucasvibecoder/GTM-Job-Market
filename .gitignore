@@ -4,3 +4,7 @@
 .obsidian/
 CLAUDE.md
 Context/Profile.md
+*.base
+*.canvas
+*.db
+load_jds.py

@@ -4387,3 +4387,416 @@ date added: 2026-03-10T00:24:13.104Z
 location: NAMER
 LinkedIn job id: 4383432312
 Description: Sardine is a leader in fraud prevention and AML compliance. Platform uses device intelligence, behavior biometrics, ML, and AI to stop fraud. 300+ banks, retailers, and fintechs worldwide. $145M raised from a16z, Activant, Visa, Experian, FIS, Google Ventures. Remote-first. Role: First GTM Engineer — lead architect of commercial infrastructure. Own technical roadmap for GTM tech stack (CRM, Marketing Automation, CPQ), workflow automation across lead-to-cash, data pipelines between GTM tools, lifecycle engineering from lead routing to renewal. Required: 4+ years technical RevOps/GTM Engineering/Sales Systems, APIs/webhooks/middleware (Zapier, Clay, Workato, Tray.io), deep Salesforce expertise, HubSpot/Unify/Clay/n8n, relational data models, cross-functional collaboration. Remote US/Canada.
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
+RevPartners / revpartners.io
+title: GTM Engineer (GTM Engineer if "GTM Engineer" not present)
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-revpartners-4382218617
+salary:  -  currency:  
+date added: 2026-03-10T01:12:39.948Z
+location: Atlanta, GA
+LinkedIn job id: 4382218617
+Description: About RevPartners
+
+Our Mission is to engineer revenue outcomes for GTM Leaders on Hubspot.
+
+Our Vision to to be the Global Services Provider for CRO's on Hubspot.
+
+Our purpose is to unlock latent potential for human flourishing.
+
+Our Origin Story
+
+RevPartners (RP) was founded by Brendan and Matt who had both been let go from separate companies at different times. They chose to get back up, hit the ignition switch, and start a new company that pursued excellence while loving people well. Our story is just getting started, but we're going to change the world through RevOps. Come join the movement!
+
+We'd love to add your AWESOME to our team!!
+
+If you are obsessed with solving technical puzzles, creating complex workflows and automations, and know Clay like the back of your hand – this role is for you!
+
+We're searching for a GTM Engineer to help power the Allbound Engine for our partners. You will work behind the scenes to build, optimize and maintain automation workflows, enabling our Strategists to drive revenue growth for our partners through intent-based campaigns.
+
+If this sounds like you - we would love to hear from you!
+
+What You'll Do - Some high impact opportunities you'll tackle include:
+
+Allbound Maturity Levels: Build and optimize Claybook processes based on RP's Allbound Maturity Model.Data Integration: Connect and orchestrate tools such as Clay, HubSpot, Smartlead, and Outbound Sync.Quality Control: Ensure data integrity and accuracy for campaign execution.Innovation & Execution: Design new and creative ways to unlock value through our data and tech stack.Cross-Team Collaboration: Partner with the Allbound and RevOps teams to support all aspects of GTM campaigns.Mentorship: Coach junior team members on automation best practices and platform fluency.
+
+Who You Are - This opportunity is for you if you have/can:
+
+Required Experience:
+
+Workflow & Automation Expertise2+ years building complex data enrichment and automation workflows1+ years advanced experience with ClayStrong understanding of Clay's integration capabilities and limitationsTechnical Fluency: 2+ years of experience:Hands-on experience with web scraping tools and techniquesProficient in manipulating data formats (CSV, etc)Skilled in data cleaning and validation processesCommunication: Proficiency in remote communication with internal teams using Google Meet, Slack, and email.Trust: You operate with honesty and integrity.
+
+Bonus Experience:
+
+Agency backgroundHubSpot: Marketing, Sales, CMS, Ops HubFamiliarity with REST APIs, webhooks, and custom integrationsTools like: ClickUp, Vector/RB2B, Copy.ai, SmartLead/Lemlist, Ads Platforms, Chili Pipe, Sendos and more!
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
+Plain / plain.com
+title: GTM Engineer (GTM Engineer if "GTM Engineer" not present)
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-plain-4383739642
+salary: 150000 - 180000 currency: USD YEAR
+date added: 2026-03-10T13:37:34.343Z
+location: San Francisco, CA
+LinkedIn job id: 4383739642
+Description: I'm Cole, Head of Demand Generation at Plain. We're redefining customer support for the next generation of B2B companies. We're building the fastest, most powerful platform to help companies move beyond reactive support and build true customer relationships.
+
+Some of the world's most forward-thinking companies, like Cursor, Ashby, and Sanity, trust Plain to unify all customer interactions, enable faster team collaboration, and supercharge their workflows with AI.
+
+We're a small, tight-knit crew with offices in SF and London. This role is hybrid with 3 days a week in our SF office.
+
+Why this role is special
+
+B2B customer support is undergoing a seismic shift. AI is transforming the way companies engage with customers, shifting support from a siloed function to a company-wide effort across Slack, Discord, and in-product experiences.
+
+Plain is leading the charge in building this new world, and the GTM Engineer owns how we turn that vision into pipeline across paid, outbound, and content. You'll have real budget, real autonomy, and a major finger on the scale of revenue.
+
+You'll be one of the first hires on a GTM team we're building from scratch. The vision is a small, technical, high-output team that treats marketing like a product: instrumented, iterative, and AI-native.
+
+What you'll do
+
+You'll spend 100% of your time generating pipeline with minimal guardrails and a lot of room to experiment.
+
+Day to day, you will:
+
+Build and scale repeatable signal-based outbound to generate net-new pipeline through experimentation and optimizations. Create LLM-powered content that ranks highly in SEO and AI search (we call this Generative Engine Optimization aka GEO). Report on successes and improvements with constant iteration. Write copy that converts — landing pages, ads, and emails that feel like they were written by someone who actually understands the product and buyer. Instrument everything so we know what's working (and what's not), and use that feedback loop to ship better, faster. 
+
+This is a great fit if you…
+
+You have strong sales acumen and write copy that converts (without AI) - landing pages, ads, and emails that feel like they were written by someone who understands the product and buyer. You've been testing and honing your skills with the latest AI and workflow automation tools (n8n, Unify, Claude Code, Clay, Instantly, etc.)Have a builder mentality and care more about what we can ship this week than a perfect Q4 plan. Are a little technical and very curious — comfortable with APIs, light coding, and connecting systems to unlock new GTM motions. Are an obsessive experimenter who is happiest when testing, iterating, and letting results guide your time and energy. 
+
+Compensation Range: $150K - $180K
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
+Campfire / campfire.ai
+title: GTM Engineer (GTM Engineer if "GTM Engineer" not present)
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-campfire-4383431350
+salary:  -  currency:  
+date added: 2026-03-10T00:23:58.035Z
+location: San Francisco, CA
+LinkedIn job id: 4383431350
+Description: About the Role
+As a Revenue Operations / GTM Engineer Associate at Campfire, you'll be a key driver in scaling our go-to-market engine and revenue infrastructure. You will bridge the gap between strategy and execution—designing, building, and operationalizing systems and processes that enable Sales, Marketing, and Customer Success to operate with speed and precision. In this role, you'll work closely with leadership to deliver scalable execution, reliable data insights, and cross-functional alignment.
+You will:
+Own technical and process initiatives in the revenue stack, from idea through execution and ongoing optimizationBe the "engineer" in RevOps: applying technical tools, automation, and integrations to support GTM motionPartner as a trusted operator with GTM teams, surfacing gaps, engineering scalable solutions, and driving adoptionThis is a hands-on, high-impact role ideal for someone who thrives in a startup environment and wants to build foundational revenue systems from the ground up.
+
+Key Responsibilities
+Design, build, and iterate core GTM workflows, automations, and systems (e.g. lead-to-opportunity, lead tracking & routing)Maintain and integrate across the revenue tech stack—ensuring data integrity, consistency, and automation across tools (e.g. CRM, marketing automation, billing, analytics)Translate business requirements from Sales, Marketing, and Customer Success into technical designs, build specifications, and roadmapsDevelop dashboards, metrics, and alerts to ensure GTM teams have self‑service visibility into performance and leversLead process improvement initiatives: identify inefficiencies, propose and pilot new workflows, and scale them broadly
+
+Requirements
+1–3 years experience in Revenue Operations, GTM Operations, Sales Ops, or a similar technical operations role at a scaling SaaS/tech companyStrong technical skills: familiarity with CRM systems (Salesforce or HubSpot), and automation toolsMeticulous attention to data quality, integrity, and consistency across systemsExcellent communication and stakeholder management skills—able to interface with both technical and non-technical partnersBias toward action and ability to execute autonomously in an evolving, often ambiguous environmentA builder mindset: enjoys solving problems, automating manual work, and iterating quickly
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /add -->
+About Oneleet
+
+Oneleet is one of the fastest-growing security and compliance platforms in history. We are on a mission to change the compliance and security industry by making cybersecurity and compliance effective, easy, and painless. We provide a platform that helps companies build, manage, and monitor their cybersecurity programs and achieve compliance standards such as SOC 2 and ISO 27001 efficiently, without cutting corners.
+
+Having just raised a $33 million Series A, we are rapidly growing in customers and employees. Our team has decades of experience in security and compliance. Join our team of opinionated rebels and help us build a category-defining company reshaping the broken and fragmented compliance and cybersecurity industry.
+
+The Role
+
+You will be the single owner of our entire go-to-market tech stack, data infrastructure, and attribution model. This is a founding role where you will architect how data flows between every system that touches our revenue motion from the first ad click to closed-won deal.
+
+You will build the connective tissue between Clay, HubSpot, DreamData, Google Tag Manager, Google Ads, Looker Studio, CrazyEgg, and whatever tools come next. This is not a tool administrator role. You are equal parts builder and strategist designing experiments, connecting platforms via APIs, setting up attribution models, and translating messy data into clear insights that help our sales team close deals and our executives understand where revenue comes from.
+
+Key Responsibilities: Tech Stack Ownership & Systems Architecture, Data/Attribution & Analytics Infrastructure, Experimentation & Growth Enablement, Stakeholder Support & Revenue Intelligence.
+
+Required: 3-5+ years, HubSpot, JavaScript, SQL, GTM, GA4, attribution platform, BI tools.
+Nice-to-Have: Clay, Python, CrazyEgg, server-side tagging, Google Ads, HubSpot certs, BigQuery/Snowflake, reverse ETL.
+
+URL: https://www.linkedin.com/jobs/view/gtm-engineer-at-oneleet-4383821469
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
+Netic / netic.ai
+title: GTM Engineer (GTM Engineer if "GTM Engineer" not present)
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-netic-4381714099
+salary:  -  currency:
+date added: 2026-03-09T08:40:50.701Z
+location: San Francisco, CA
+LinkedIn job id: 4381714099
+Description: Netic is the AI revenue engine for essential services who are the backbone of the American economy.
+
+With $43M in funding from Founders Fund, Greylock, Hanabi, and Dylan Field who led our Series B, we helped our customers book hundreds of thousands of jobs across services industries in North America. There are now companies operating entirely AI-first on Netic.
+
+You'll join our team with relentless builders from Scale, Databricks, HRT, Meta, MIT, Stanford, and Harvard in bringing frontier AI to the physical economy, where the problems are hard, the data is complex, and the impact is immediate and tangible.
+
+About The Role
+
+We are looking for a GTM Engineer to set the standard for how we use data and systems to not only build our own GTM engine but also help our customers build theirs.
+
+At Netic, we currently are laying the foundation for the best GTM engine in tech. We need to build the TAM, track signals against it, choose the right set of tools to buy vs. build, set up an environment for all marketers and sellers to effectively leverage AI and much more.
+
+Four our customers, we get to do the same.
+
+This is a perfect opportunity for the hungriest of GTM Engineers that cares about building sophisticated systems that have an outsized impact on revenue. If you're interested, send a 2 minute video of something you've built to noah@netic.ai.
+
+What you'll do
+
+Level up how we map the essential service TAM across the US
+Come up with, test, and monitor the best intent signals against our database
+Help inform a lot of Netic's early tech stack
+Build the foundational internal tools, workflows, and automations for sales and marketing at Netic to use & leverage AI to be more effective
+Come up with ways to use GTM Engineering principles to help our customers be more successful
+Build a flywheel based on customer conversations to accelerate our understanding of our users
+Dig into the Netic customer usage data to inform TOF campaigns and messaging
+Chip in wherever is needed as we scale the team
+
+What you'll bring
+
+3+ years in GTM Engineering, sales, growth, RevOps or a MarketingOps role
+Strong technical foundations – you can write some amount of code yourself and you understand how to set up the right architecture for systems that can scale
+Great business intuition. You have demonstrated experience moving the needle on the most important metrics you have owned and choosing the right set of initiatives to focus on
+Deep curiosity. You tinker in your free time and have demonstrated high levels of curiosity + running down rabbit holes.
+Hustle and grit. You thrive in ambiguity, take ownership of new problems, and iterate quickly until you land what works.
+Exceptional cross-functional skills. You build strong partnerships with Sales and internal partners to build systems that are aligned, high leverage, and easy to execute against.
+High-ownership leader. You set the standard, lead from the front, and take full accountability for outcomes.
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
+Fyxer / fyxer.com
+title: GTM Lead Engineer (GTM Lead Engineer if "GTM Lead Engineer" not present)
+job url: https://www.linkedin.com/jobs/view/gtm-lead-engineer-at-fyxer-4382991679
+salary:  -  currency:
+date added: 2026-03-09T06:10:30.048Z
+location: New London, NY
+LinkedIn job id: 4382991679
+Description: Reports to: Chief Customer Officer
+
+Location: London (preference) or New York. Both 4 days a week onsite.
+
+The Mission
+
+We have a product that works, a team delivering results, and a PLG motion converting prosumer users into enterprise contracts — all without a systematic GTM function. Now it's time to build one.
+
+Your mission: design, build, and run the revenue engine that takes us to $100M ARR. You are equal parts strategist, systems builder, and operator — the CTO of our go-to-market motion.
+
+The Role
+
+We've grown fast on inbound and product. What comes next is the precision layer on top — the systems, signals, and automation that turn a fast-growing company into a high-frequency revenue machine.
+
+You'll design our outbound infrastructure, engineer AI-powered prospecting workflows, and build the signal layer that tells Sales and CS exactly where to focus. In the early days, you'll run the motion yourself. As we scale, you'll own the architecture that powers everyone else.
+
+What You'll Own
+
+Outbound Infrastructure — Build the full outbound stack from scratch: email domains, deliverability, sending tools, CRM workflows, enrichment pipelines. Full autonomy on tooling decisions.
+
+AI-Powered Prospecting — Clay-powered enrichment waterfalls, intent signals, lead scoring, and personalised outreach at scale. Define the ICP, source and segment target account lists.
+
+GTM Automation — Eliminate manual work across the full sales and CS motion. Automate prep, follow-up, and note-taking so the team spends time on what actually moves revenue.
+
+Signal Layer — Surface churn risk, expansion triggers, and pipeline health automatically. Build briefings and alerts so Sales and CS always know where to focus — without asking for a report.
+
+Stack Architecture — Own the strategic view of the GTM tech stack. Cut what's redundant, add what's missing, turn a list of tools into a coherent system.
+
+What Success Looks Like at Six Months
+
+A live outbound engine generating measurable pipeline
+Automated churn, expansion, and pipeline signals delivered to Sales and CS
+At least one AI-powered workflow demonstrably moving a revenue metric
+The most painful manual work designed out, not delegated
+You're setting the agenda, not waiting for one
+
+Who You Are
+
+Technical GTM operator with deep knowledge of the modern stack — Clay, Instantly/Smartlead, Apollo, Gong, CRM automation
+Builder, not just configurer — you've done this the hard way and now use AI to do it ten times faster
+Commercial and technical in equal measure — you connect data signals to revenue outcomes
+Systems thinker — when you see a manual process, your instinct is to automate it
+Able to code or script automations and work with APIs without needing engineering support
+5–10 years in GTM engineering, RevOps, or outbound-focused growth at a B2B SaaS company
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
+Recur Software / recursoftware.com
+title: GTM Engineer (GTM Engineer if "GTM Engineer" not present)
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-recur-software-4383852596
+salary:  -  currency:
+date added: 2026-03-11T01:28:48.000Z
+location: United States
+LinkedIn job id: 4383852596
+Description: Our Mission
+We're building a private equity platform for the AI era. We acquire mission-critical vertical SaaS companies ($1-10M ARR) and transform them using AI and modern technology. We're a team of former investors from Accel, backed by some of the world's leading technology investors including Reef Pass, Prosus Ventures, Accel, and the founders of Mainsail and TCV. We've raised >$50M and acquired four companies in less than nine months.
+
+Role Overview
+We're hiring a GTM Engineer to own the technical infrastructure behind how Recur finds software companies and how our portfolio companies find customers. This role sits at the intersection of sales, data, and automation. You'll build enrichment pipelines in Clay, design outbound campaigns in Smartlead, use Claude Code to prototype and automate, wire up CRM workflows, and create repeatable go-to-market playbooks that we can deploy across multiple companies. You'll run experiments constantly - testing new channels, messaging, and processes - and double down on what works. If you love turning messy data into clean pipelines and manual outreach into automated systems, this is your role.
+
+What You'll Do
+Build and maintain enrichment and prospecting pipelines in Clay - from raw company lists to qualified, personalised outreach
+Design and optimise cold email campaigns in Smartlead (sequences, deliverability, A/B testing, reply handling)
+Create automations that connect our tools: Clay, Salesforce, Claude Code, etc.
+Develop repeatable GTM playbooks that can be deployed across Recur's portfolio companies
+Run experiments across messaging, channels, and sales processes - test fast, measure what works, kill what doesn't
+Analyse outbound performance data and find the bottlenecks slowing down pipeline conversion
+Help portfolio companies stand up their own outbound, inbound, and lead generation infrastructure
+Work with the founders to identify new channels, verticals, and approaches for deal sourcing
+
+What We're Looking For
+2-5 years of experience in a GTM engineering, revenue operations, or growth role at a B2B SaaS company
+Hands-on experience with Clay, Smartlead, Apollo, HubSpot, Salesforce, or similar tools - you've built real pipelines, not just watched demos
+Comfortable writing lightweight automations (n8n, Zapier, Make, or basic Python scripting) and using AI tools like Claude Code to move faster
+Deep understanding of cold email best practices: deliverability, domain health, personalisation at scale
+Data-oriented: you think in enrichment steps, match rates, and conversion funnels
+An experimenter at heart - you'd rather test ten things and learn than plan one thing perfectly
+Resourceful and self-directed - you figure things out, you don't wait for a playbook
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /add -->
+Full-Time | In-Office (Lehi, UT)
+
+Reports to Director of AI Strategy
+
+Compensation: $70,000 - $90,000 base, performance based bonus for $90,000 - $110,000 OTE + equity options. Variable compensation is tied to pipeline generation and system performance metrics, not closed-won revenue.
+
+About Clientbook
+Clientbook is the leading clienteling and sales tool built to enable retail sales associates to effectively follow-up and proactively drive more business. We've helped thousands of jewelry stores and luxury brands increase sales and retain existing clients. When it comes to retail, we're their biggest champion.
+
+The Short Version
+We need someone who can build the machine, not just operate it. You will own the entire top-of-funnel revenue engine: AI-powered outbound, automated prospecting workflows, CRM architecture, and every integration that connects them. You will write workflows in Clay, build automations in n8n and Zapier, script in Python when the no-code tools fall short, and manage Salesforce as the system of record underneath all of it.
+
+If something breaks at 3pm on a Friday, you fix it. If a better approach exists, you build it. If a tool does not exist yet, you figure out how to make one.
+
+This is a GTM engineering role where Salesforce admin is one of the tools in your belt. If you have only ever configured CRM and never built an automated pipeline from scratch, this may not be the right fit.
+
+What You Will Own
+
+Pipeline Generation and Outbound Automation
+- Design, build, and optimize AI SDR workflows that generate qualified pipeline. You will inherit a partially built system and need to make it work.
+- Build and manage automated outbound sequences (email and other channels). Evaluate tools, architect the cadences, and own the results.
+- Use Clay for data enrichment, lead scoring, and account research automation.
+- Stand up prospecting workflows that pull from ZoomInfo, Leadfeeder, and other data sources, then route qualified signals into Salesforce and outbound sequences.
+- Own top-of-funnel metrics: pipeline generated, conversion rates, sequence performance, cost per lead. If the numbers are bad, you fix the system.
+
+Salesforce Administration and Architecture
+- Manage our Salesforce org as the system of record for Sales and CSMs: user management, permissions, page layouts, fields, validation rules, Flows, and Apex when needed.
+- Maintain the Opportunity lifecycle, lead conversion, Closed Won handoff to CS, and custom Customer object architecture.
+- Build and maintain data flows, action items, reports, and dashboards for SDRs, AEs, CS, and leadership.
+- Own data imports, exports, cleanup, and sales data quality.
+- Troubleshoot integration issues between Salesforce and connected tools (ZoomInfo, Leadfeeder, PandaDoc, Calendly, AI SDR platforms, demo recording tools).
+
+Tool Evaluation, Integration, and Automation
+- Evaluate and implement new GTM tools. Current projects include replacing their sequencing software, migrating demo recordings from Granola to Fathom (with Salesforce integration), and optimizing the AI SDR stack.
+- Build integrations using Zapier, n8n, APIs, and Python scripts. You should be comfortable reading API docs and writing a quick script to solve a data problem.
+- Use Claude, ChatGPT, and other AI tools daily. You are not impressed by AI as a concept. You use it to ship faster.
+- Document every system and integration you build. If you get hit by a bus, someone should be able to pick up where you left off within a week.
+
+What We Are Looking For
+
+Required Technical Skills
+- Hands-on experience building automated outbound/prospecting workflows. You have actually set up an AI SDR, a Clay table, or an automated enrichment pipeline, not just read about them.
+- Working knowledge of Salesforce administration: objects, fields, Flows, validation rules, reports, dashboards, and data management. Apex experience is a strong plus.
+- Proficiency with automation platforms (Zapier, n8n, Make, or similar). You can build a multi-step workflow across tools without hand-holding.
+- Basic Python scripting: enough to clean a CSV, hit an API, or transform data between systems.
+- Comfort with APIs, webhooks, and data formats (JSON, CSV).
+- Experience with Clay, or the demonstrated ability to pick up complex data/automation platforms quickly.
+- Familiarity with AI-powered tools (Claude, ChatGPT, AI SDR platforms) as actual work tools, not novelties.
+
+Required Mindset and Working Style
+- Entrepreneurial mindset. Self-starter who does not wait for instructions.
+- Comfortable trying things, getting them wrong, and iterating fast.
+- Proven ability to learn new tools fast and deliver measurable ROI.
+- Ownership mentality over pipeline generation.
+- Strong documentation habits and proactive communication.
+
+Experience
+- Recent graduate with both technical AND sales/business experience who has built real projects, OR 3-5 years in revenue operations, sales operations, or GTM engineering with proven technical depth.
+- B2B SaaS experience strongly preferred.
+- Salesforce Administrator certification is a nice-to-have, not a requirement.
+- Experience building AI SDR or automated outbound workflows is a significant differentiator.
+
+job jd url: https://www.linkedin.com/jobs/view/gtm-engineer-at-clientbook-4382462537
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
+CompanyCam / companycam.com
+title: GTM Systems Engineer (GTM Systems Engineer if "GTM Systems Engineer" not present)
+job url: https://www.linkedin.com/jobs/view/gtm-systems-engineer-at-companycam-4384339140
+salary: 115000 - 125000 currency: USD YEAR
+date added: 2026-03-11T16:41:14.000Z
+location: Lincoln, NE
+LinkedIn job id: 4384339140
+Description: Hi, we're CompanyCam.
+
+We're a simple-to-use photo documentation and productivity app for contractors of all commercial and home services industries. Packed with intuitive functionality, CompanyCam facilitates unparalleled communication and accountability across a contractor's entire business. We're committed to providing a consumer-grade, game-changing experience that helps our users build trust within their company and with their customers.
+
+But don't let that corporate description fool you—the people behind our buttoned-up product are laid-back (but hardworking), genuine, and kickass, and you could be one of them!
+
+The Role
+
+We're looking for a GTM Systems Engineer to help build and scale the systems, automation, and infrastructure that power our go-to-market organization. This role expands our revenue systems capacity while accelerating intelligent automation across sales, marketing, and customer success.
+
+You'll operate with a builder mindset—someone who doesn't just maintain systems but designs and implements scalable, AI-powered workflows that improve efficiency and drive measurable business outcomes. Working closely with Revenue Operations, Marketing Operations, and GTM leadership, you'll help architect the infrastructure that supports pipeline growth, customer expansion, and operational excellence.
+
+This role blends strong CRM expertise, automation engineering, data fluency, and emerging AI capabilities in a high-growth SaaS environment.
+
+Location: This is a remote position. You must live and work permanently in the U.S. to be considered.
+
+What You'll Do
+
+Design and implement automation that improves the efficiency and effectiveness of go-to-market teams. Build AI-powered workflows, prompt frameworks, and automation logic using modern LLM platforms and orchestration tools. Develop intelligent routing, territory assignment, and operational workflows within CRM and automation platforms. Continuously test, measure, and optimize automation performance to ensure measurable business impact. Administer and enhance the Salesforce ecosystem, leveraging advanced automation, flows, and custom functionality. Support integrations across the GTM tech stack including marketing automation, enrichment platforms, CPQ, and contract management tools. Design scalable workflows that support lead management, opportunity management, and customer lifecycle processes. Reduce manual work across marketing, sales, and customer success through thoughtful system design and automation. Partner with cross-functional teams to translate business requirements into scalable technical solutions. Prototype and evaluate new tools, AI platforms, and automation technologies that enhance system capabilities. Maintain system documentation, governance standards, and data integrity across the GTM technology ecosystem. Build reporting frameworks and dashboards that provide visibility into funnel performance, automation effectiveness, and system adoption.
+
+What You'll Bring
+
+4+ years of experience in GTM Systems, Revenue Operations, Sales Operations, Marketing Operations, or similar technical roles. Strong hands-on experience administering and optimizing Salesforce or similar CRM platforms. Experience designing and implementing automation workflows across multiple GTM systems. Technical fluency working with APIs, integrations, and system orchestration tools. Experience building or experimenting with AI-powered workflows using LLM APIs such as OpenAI or Anthropic. Strong analytical and problem-solving skills with the ability to translate business needs into technical solutions. Experience partnering cross-functionally with sales, marketing, customer success, and operations teams. Bachelor's degree in Computer Science, Information Systems, Engineering, Business, or related field.
+
+Benefits & Compensation
+
+This is a salaried position at CompanyCam. Our starting salary range is $115,000-$125,000 per year and is based on experience. We also offer meaningful equity and other benefits.
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
+Huzzle.com / huzzle.com
+title: GTM Engineer (GTM Engineer if "GTM Engineer" not present)
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4384503040
+salary:  -  currency:
+date added: 2026-03-11T21:29:53.910Z
+location: United States
+LinkedIn job id: 4384503040
+Description: About Huzzle
+
+At Huzzle, we connect exceptional talents with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and tech platforms across industries such as SaaS, MarTech, FinTech, and EdTech.
+
+Unlike an outsourcing agency, we place you directly with a client where you're hired in-house as a valued member of their team.
+
+Role Type: Full-time
+Engagement: Independent Contractor
+
+Job Summary
+
+Our client is a fast-growing AI-first B2B growth agency that helps high-growth tech companies scale revenue through AI-powered Revenue Operations, automated outbound systems, and growth infrastructure. They work with venture-backed startups and scaling B2B SaaS companies, implementing end-to-end GTM systems, sales automation, and data-driven outbound strategies. Since launching, the company has grown from $0 to $2M ARR in under a year.
+
+We are looking for a GTM Engineer to help design and implement scalable Revenue Operations systems, outbound infrastructure, and automation workflows for high-growth B2B SaaS companies.
+
+Key Responsibilities
+
+GTM Strategy & Play Design: Recommend and implement outbound GTM plays tailored to each client's ICP and growth stage. Advise clients on sales tech stack selection and automation tools. Build lead allocation systems to distribute prospects across sales teams efficiently.
+
+TAM Mapping & Data Infrastructure: Build ICP models using firmographic, technographic, and behavioral signals. Map Total Addressable Markets (TAM) and prioritize high-value accounts. Implement signal tracking systems using first-party and third-party data sources. Identify decision-makers and buying committee members within target accounts.
+
+Clay & Data Enrichment: Build advanced Clay workflows for data enrichment and account research. Implement AI-driven enrichment pipelines to automate manual research. Create automation workflows using tools such as Clay, APIs, and workflow automation platforms. Develop account scoring systems to prioritize high-intent prospects.
+
+Outbound Campaign Development: Build personalized multi-channel outbound campaigns across email and LinkedIn. Create scalable outbound sequences while maintaining personalization. Analyze campaign performance and iterate based on results and client feedback.
+
+Requirements
+
+Must Have: 2-4+ years in Sales, RevOps, Sales Operations, BizOps, or GTM Engineering. Experience in B2B SaaS, startups, or agencies. Strong working knowledge of Clay. Curiosity about AI tools, automation, and growth experimentation.
+
+Nice to Have: Experience with HubSpot or Salesforce CRM systems. Experience with workflow automation tools such as n8n. Experience working with sales automation or outbound tooling.
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
+1: Perk (formerly TravelPerk) — GTM Engineer (US). url: https://www.linkedin.com/jobs/view/gtm-engineer-us-at-perk-4381789305/
+About Us: Perk is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processing, and more. Founded in 2015, 1,800 people, 12 offices, HQ in London and Boston. The NAM GTM Engineer is a hands-on technical and operational role within the Revenue Systems team providing local execution and systems support for NAM Sales teams. Tools: Salesforce, Outreach, Gong, Clay, SalesLoft. Salary: $136,000 - $160,000 base.
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
+2: Tanium — GTM Engineer. url: https://www.linkedin.com/jobs/view/gtm-engineer-at-tanium-4382837961
+About: Tanium is the Autonomous IT company. Endpoint management and security. Forbes Cloud 100 for ten consecutive years. GTM Engineer sits within GTM Automation team designing and building AI-powered automation and signal-based workflows across Marketing and Sales. Tools: Salesforce, Qualified, 6sense, Marketo, People.ai, Clari, Traction Complete, SQL, Workato. Salary: $90,000 - $270,000 base. Hybrid — Addison TX, Bellevue WA, Durham NC, Emeryville CA, Reston VA.
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
+3: Iru — Senior GTM Engineer. url: https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-iru-4385109976
+About: Iru is the AI-powered security & IT platform. Backed by General Catalyst, Tiger Global, Felicis. Raised $100M at $850M valuation (July 2024). Customers include Notion, Cursor, Lovable, Replit, Mercor. Senior GTM Engineer builds systems, applications, and decisioning logic. Reports to Head of GTM Operations. Tools: HubSpot, Clay, Apollo, Orum, n8n, Python, SQL. Hybrid (3 days in office). No salary listed.
