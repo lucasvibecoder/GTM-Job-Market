@@ -217,6 +217,15 @@ Normalize all tool mentions to these exact strings:
 | Fathom | fathom.video (AI meeting recorder) |
 | People.ai | people.ai (revenue intelligence) |
 | Traction Complete | tractioncomplete (Salesforce lead-to-account matching/routing) |
+| Metaflow | metaflow (ML/data workflow orchestration) |
+| reo.dev | reo.dev (intent/visitor identification) |
+| TypeScript | TS, typescript |
+| Drippi.ai | drippi.ai (LinkedIn automation) |
+| Warmy.io | warmy.io (email warmup) |
+| GoHighLevel | GHL, gohighlevel (CRM/marketing platform) |
+| SendGrid | sendgrid (email delivery API) |
+| Pipedrive | pipedrive (CRM) |
+| 11x | 11x.ai (AI SDR/digital workers) |
 
 ## Company Type Tags
 Classify based on what the company's *product* does. Most companies get 1 tag; use 2+ only when the company genuinely straddles categories.

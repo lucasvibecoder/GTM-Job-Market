@@ -4800,3 +4800,89 @@ About: Tanium is the Autonomous IT company. Endpoint management and security. Fo
 <!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
 3: Iru — Senior GTM Engineer. url: https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-iru-4385109976
 About: Iru is the AI-powered security & IT platform. Backed by General Catalyst, Tiger Global, Felicis. Raised $100M at $850M valuation (July 2024). Customers include Notion, Cursor, Lovable, Replit, Mercor. Senior GTM Engineer builds systems, applications, and decisioning logic. Reports to Head of GTM Operations. Tools: HubSpot, Clay, Apollo, Orum, n8n, Python, SQL. Hybrid (3 days in office). No salary listed.
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
+Buildkite / buildkite.com
+title: Staff GTM Engineer (Staff GTM Engineer if "Staff GTM Engineer" not present)
+job url: https://www.linkedin.com/jobs/view/staff-gtm-engineer-at-buildkite-4381876010
+salary:  -  currency:  
+date added: 2026-03-09T15:41:15.892Z
+location: United States
+LinkedIn job id: 4381876010
+Description: About Buildkite
+At Buildkite, our mission is to unblock every developer on the planet. We've rethought how software delivery should work and have built a platform that is fast, reliable, secure, and able to scale to the needs of the most demanding high-growth tech companies globally including Airbnb, Shopify, Canva, PagerDuty, Lyft, and Pinterest.
+
+Job Overview
+We're looking for a Staff Go-To-Market (GTM) Engineer to build the orchestration engine powering our go-to-market strategy; the data foundations, agentic tooling and workflows that supercharge how our Sales and Brand teams operate end-to-end.
+
+We need someone who is technically hardcore and commercially fluent. Someone who understands how revenue is actually created: how pipeline moves, why deals stall, what signals matter, how lifecycle works, what "good" looks like in outbound/inbound.
+
+What You'll Do
+Model a new realm for RevOps
+Map Buildkite's GTM and brand experience end-to-end. Build a signal taxonomy across the full customer journey and define what signals are actionable at each stage. Partner tightly with Sales and Brand to turn ambiguity into clarity.
+
+Spike and implement the GTM foundation
+Establish and protect a clean, enforceable data foundation. Develop a coherent operating system without tool sprawl. Build workflows that are safe at volume.
+
+Build hybrid workflows that supercharge execution
+Design agentic workflows that accelerate human work without removing human judgment. Implement guardrails and quality controls so agentic output stays trustworthy. Build systems that respect reality and provide clarity.
+
+Ship "stage plays" moving the funnel
+Devise and ship stage plays across all stages of the customer journey. Make plays measurable and iterative, learn fast with deep insight, harden what works. Work side-by-side with Sales and Brand to diagnose funnel friction and ship fixes that stick.
+
+Run an OS that compounds
+Foundation loop: keep data trustworthy without manual heroics. Signal loop: capture→normalize→model→route. Play loop: prototype→ship→measure→iterate. Quality loop: eval, sampling and review gates. Adoption loop: clear, transparent enablement and docs.
+
+Raise the bar for how GTM is deployed
+Document decisions, risks, and tradeoffs like an engineering team. Create standards and reusable components so GTM execution becomes faster and better over time.
+
+Skills & Experience We Value
+Engineering background; shipped and operated production systems. GTM engineering experience. Experience sequencing and scripting AI-led tooling such as Metaflow, Clay, Customer.io, and reo.dev. Sales fluency. Marketing fluency. Agentic workflow maturity. Systems thinking under constraints. Commercial judgment. Clear written communication. Comfort working async.
+
+Additional Experience That's a Plus
+SQL and lightweight scripting (TypeScript/Python). CRM/data architecture. Intent/ABM systems, deliverability and suppression discipline. Developer tools / technical GTM motions.
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
+ListLab / list-lab.org
+title: Lead GTM Engineer (Lead GTM Engineer if "Lead GTM Engineer" not present)
+job url: https://www.linkedin.com/jobs/view/lead-gtm-engineer-at-listlab-4382060371
+salary:  -  currency:  
+date added: 2026-03-10T13:19:37.086Z
+location: Laguna Beach, CA
+LinkedIn job id: 4382060371
+Description: We're hiring a Lead GTM Engineer to build and run our multi-channel outbound infrastructure.
+
+Flexible Title: Can tailor to reflect your skills & experience — from GTM Engineer to RevOps Lead or Outbound Pipeline Architect. Flexible Time: Can do full-time, part-time, side-gig (off-hours), or fractional (contract). Flexible Commitment: Can do short-term, long-term, or intermittent.
+
+About Us: We're a credible, funded, remote-first startup led by a serial technical founder, backed by a 20-person team. The product is live in private alpha.
+
+About The Role: This is the lead tactical role for our outbound engine — hands-on execution driven by the strategy you help set. AI is central to how we personalize and automate outreach at scale.
+
+Tech stack: Apollo, Clay, Phantom Buster, Instantly, Lemlist, Dripify, Drippi.ai, Warmy.io, GoHighLevel, SendGrid, Zapier, Make, n8n, HubSpot (or Pipedrive), AI tools for personalization/automation, and domain warmup/deliverability.
+
+Compensation: Up to $350,000 max total annual compensation in Tier 1 cities; cash and equity components to be negotiated.
+
+What You'll Do: Build and run the outreach machine. Orchestrate multi-channel sequences. Connect the stack. Own email infrastructure. Run LinkedIn and Facebook automation. Track and report. Document and systematize. Optionally coordinate vendors.
+
+Must-haves: Hands-on tactical execution. Multi-channel outbound experience. AI exposure. Fast iteration. Technical proficiency with GTM stack. Systems thinker.
+
+Nice-to-have: Experience leading GTM operators/SDRs/vendors. Venture-backed startup experience.
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
+Assembly / assembly.com
+title: Growth & GTM Engineer (Growth & GTM Engineer if "Growth & GTM Engineer" not present)
+job url: https://www.linkedin.com/jobs/view/growth-gtm-engineer-at-assembly-4384542519
+salary: 139000 - 180000 currency: USD YEAR
+date added: 2026-03-12T02:08:20.155Z
+location: New York, NY
+LinkedIn job id: 4384542519
+Description: As our first Growth & GTM Engineer, you'll collaborate closely with the founders and operate at the intersection of engineering, product, and marketing — building both in-product features (onboarding flows, referrals, templates, etc.) and external GTM initiatives (agents that scrape lead lists, outbound automation, and experimenting with next-gen AI tools). Highly cross-functional role reporting to the CEO.
+
+What you'll do: Own product growth features. Automate GTM processes. Experiment rapidly. Collaborate across teams. Drive data-backed decisions. Stay on the bleeding edge.
+
+Who you are: Hybrid technical + growth. Problem-solver. Data-driven. Collaborative. Move fast. Early-stage enthusiast. In-person.
+
+Compensation Range: $139K - $180K
