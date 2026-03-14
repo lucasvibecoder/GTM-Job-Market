@@ -200,6 +200,9 @@ Normalize all tool mentions to these exact strings:
 | Microsoft Teams | Teams (Microsoft) |
 | ChurnZero | churnzero.com (customer success) |
 | UserGems | usergems.com (pipeline generation) |
+| Mode | mode.com (analytics/BI) |
+| RevenueHero | revenuehero.io (inbound scheduling/routing) |
+| Replit | replit.com (browser IDE/deployment) |
 
 ## Company Type Tags
 Classify based on what the company's *product* does. Most companies get 1 tag; use 2+ only when the company genuinely straddles categories.

@@ -4231,3 +4231,125 @@ Within the first six months, this person will have taken ownership of Casper's G
 
 Compensation & Structure
 This is a full-time role with competitive compensation and bonus structure. Casper operates as a global, remote-friendly team and this role offers the opportunity to build the operational backbone of a fast-growing AI company.
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
+dbt Labs / getdbt.com
+title: GTM Engineer, Marketing Operations (GTM Engineer, Marketing Operations if "GTM Engineer, Marketing Operations" not present)
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-marketing-operations-at-dbt-labs-4381915592
+salary: 127000 - 180000 currency: USD YEAR
+date added: 2026-03-06T02:06:41.900Z
+location: United States
+LinkedIn job id: 4381915592
+Description: About Us
+
+dbt Labs is the pioneer of analytics engineering, helping data teams transform raw data into reliable, actionable insights. Since 2016, we've grown from an open source project into the leading analytics engineering platform, now used by over 90,000 teams every week, driving data transformations and AI use cases.
+
+As of February 2025, we've surpassed $100 million in annual recurring revenue (ARR) and serve more than 5,400 dbt Platform customers, including AstraZenica, Sky, Nasdaq, Volvo, JetBlue, and SafetyCulture.
+
+We're backed by top-tier investors including Andreessen Horowitz, Sequoia Capital, and Altimeter. At our core, we believe in empowering data practitioners:
+Reliable, high-quality data is the fuel that propels AI-powered data engineering. AI is changing data work, fast. dbt's data control plane keeps data engineers ahead of that curve. We empower engineers to deliver reliable, governed data faster, cheaper, and at scale.
+
+dbt Labs is now synonymous with analytics engineering, defining the modern data stack and serving as the data control plane for enterprise teams around the world. And we're just getting started.. We're growing fast and building a team of passionate, curious people across the globe. Learn more about what makes us special by checking out our values.
+
+We're searching for a high-impact, results-driven individual to join our team as a GTM Engineer, focused on revolutionizing our marketing operations and go-to-market (GTM) motion. This is a critical role that will leverage cutting-edge AI and automation to build the scalable technical backbone that accelerates customer acquisition and expansion across the entire GTM organization. You'll partner closely with Marketing, Sales, and Data teams to translate strategic vision into high-performing, measurable systems.
+
+In this role, you can expect to:
+
+Streamline and optimize marketing processes—including campaign creation, audience segmentation
+Partner with Marketing, Marketing Intelligence and Sales Operations teams to identify and scope opportunities for AI-driven solutions and technology adoption across teams
+Integrate AI APIs, MCP Servers, and other automation tools to build agents and workflows that improve Marketing's Go-to-Market motions
+Own how and where we utilize AI to drive optimization, productivity, and cost savings
+Architect, build, and deploy AI prototypes and scalable automated workflows (integrating LLMs and AI APIs) to proactively eliminate friction and drive efficiency gains across end-to-end marketing processes
+Create and maintain technical documentation and training materials to ensure adherence to operational best practices and increase team self-sufficiency
+Own and manage a 15+ Marketing tooling suite
+Own integrations, optimizations, and access management across the marketing tech stack, including vendor management, administration, and maintaining a forward-looking tooling roadmap
+Partner closely with SDR and Sales leaders to support lead funnel management and routing, lead processing, SLA management, and lead scoring and qualification frameworks
+
+You are a good fit if you have:
+
+6+ years of demonstrated experience in Marketing Operations or Revenue Operations within a high-growth SaaS environment
+Hands-on, expert-level experience with Salesforce and Hubspot
+Hands-on experience with data orchestration and automation platforms, like Clay, Workato
+Hands-on experience owning a mar tech stack of multiple tools, vendor evaluation and management, with the ability to scale, optimize and understand redundancies for a large tech stack
+A proven track record of applying AI or advanced automation to solve complex business problems, with practical experience with AI concepts (LLMs, RAG, prompt engineering)
+Exceptional communication and executive presence, with the ability to clearly articulate complex technical strategies to both technical and non-technical stakeholders
+A "builder" and "practical innovator" mindset: who turns problems into scalable solutions
+Highly analytical and process-driven, focused on efficiency and scalability
+Proficiency in SQL, or BI visualization tools (e.g., Tableau, Looker, Power BI, Omni)
+Experience supporting or building lead management infrastructure, including routing logic, scoring models, and SLA frameworks in partnership with SDR and Sales teams
+Nice to have: proficiency in Python or JavaScript/TypeScript for building automation scripts and handling API requests
+
+Compensation: $127,000 - $160,000 USD (base), $141,000 - $180,000 USD (select locations)
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
+Beautiful.ai / beautiful.ai
+title: GTM Engineer (GTM Engineer if "GTM Engineer" not present)
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-beautiful-ai-4382353379
+salary: 80000 - 120000 currency: USD YEAR
+date added: 2026-03-07T04:25:44.279Z
+location: San Francisco, CA
+LinkedIn job id: 4382353379
+Description: Change the way the world presents.
+
+About Beautiful.ai
+
+Today, Beautiful.ai powers presentations for thousands of organizations worldwide, from fast-growing startups to Fortune 500 enterprises. Companies like SAP, HP, Rakuten, and LIV Golf rely on Beautiful.ai to communicate ideas with clarity and impact. As we continue to scale, we are redefining what modern presentation software looks like by combining intelligent design, automation, and AI to help teams move faster and tell better stories.
+
+About the Role
+
+Beautiful.ai is building the future of presentations with AI. As we scale across product-led growth and sales-assisted motions, we're looking for someone who doesn't just manage systems, they use systems to drive pipeline. This role sits at the intersection of growth, marketing, sales, automation, and AI to help connect strategy > automation > execution > pipeline. You'll help design and execute growth campaigns while building the automation and systems behind them. This isn't just a backend RevOps role, you'll actively help generate qualified pipelines for the business.
+
+What You'll Own: Manage and operate the GTM tool stack. Build and automate workflows. Build pipeline through Smart Campaigns. Launch and support outbound campaigns (email, LinkedIn, sequencing). Build segmented target lists using Apollo, Common Room, Clay, and other enrichment tools. Create workflows that automate personalization at scale. Partner with marketing to run experiments across inbound and outbound channels. Help create campaign messaging and content (email copy, landing page inputs, enablement materials). General pipeline reporting and analysis.
+
+Automate Everything: Build lead routing, enrichment, and lifecycle workflows in Salesforce and HubSpot. Use tools like Zapier, n8n, and Clay to automate prospect research and outbound personalization. Implement AI-powered scoring and segmentation models. Reduce manual SDR work through smart automation.
+
+Turn Data Into Growth Decisions: Monitor campaign performance (conversion rates, speed-to-lead, reply rates). Build dashboards tracking pipeline generation by source and segment. Identify drop-offs in the funnel and run experiments to fix them.
+
+Maintain the Growth Tech Stack: Salesforce, HubSpot, Apollo, CommonRoom, Mode, Amplitude, RevenueHero, Snowflake or BigQuery.
+
+Who You Are: 1-3 years in Growth, RevOps, Sales Ops, Marketing Ops, or a technical GTM role. Background in marketing or sales. Strong in Salesforce (flows, reporting, objects). Working knowledge of SQL. Hands-on with automation tools (Zapier, n8n, Make, etc.). Curious about AI.
+
+Remote - USA Pay Range: $80,000 - $120,000 USD
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
+Nitra / nitra.com
+title: Growth Engineer (GTM Systems) (Growth Engineer (GTM Systems) if "Growth Engineer (GTM Systems)" not present)
+job url: https://www.linkedin.com/jobs/view/growth-engineer-gtm-systems-at-nitra-4382197128
+salary: - currency:
+date added: 2026-03-06T22:34:17.508Z
+location: New York City Metropolitan Area
+LinkedIn job id: 4382197128
+Description: Who we are:
+Nitra's mission is to build a more efficient healthcare system and the technology that makes it possible. Our goal is to provide an ecosystem of fintech and software solutions that help doctors better manage their practices, so they can have time back to focus on what matters to them most.
+
+We operate with urgency, intensity, and ambition. The bar is high because the opportunity is massive. We expect excellence, ownership, and intellectual rigor from every team member. We move fast, make bold decisions, and hold ourselves accountable to results.
+
+We are scaling rapidly and on a clear trajectory toward becoming a unicorn this year and beyond. Backed by Andreessen Horowitz, NEA, and supported by advisors including the cofounders of Square and Xendit, executives from Intuit, and a co-founder of CityMD.
+
+Nitra maintains a hybrid work policy, with team members working from the office four days per week and Wednesdays designated as a work-from-home day.
+
+We're looking for: A Growth Engineer (GTM Systems) who will be the technical architect of our engine for scale. We need a high-achieving individual to own the intersection of marketing, sales, and engineering—building the automated systems, data pipelines, and sophisticated tooling that power Nitra's rapid expansion.
+
+Responsibilities: Building and maintaining robust data pipelines using Fivetran, BigQuery, and Sigma. Architecting deep lead enrichment workflows and automated outbound campaigns. Managing the full marketing tech stack, including CRM integrations, drip campaigns, cookie tracking, and intent signals. Owning Salesforce (SFDC) administration. Setting up and maintaining web properties on Replit and leveraging Clay for advanced sales automation. Deploying AI tools to automate repetitive marketing tasks and enhance SEO campaign efficiency. Collaborating cross-functionally.
+
+Requirements: Salesforce (SFDC) Certification (Required). Bachelor's in CS, Software Engineering, or related. Advanced Python, TypeScript/JavaScript, SQL. Deep expertise in data warehouse management and pipeline tools (Fivetran, BigQuery, Sigma). API management. Clay and drip campaign software. Modern marketing tech stack (SEO tools, cookie tracking, intent data). Replit for web development. AI tools for GTM operations.
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
+advisorey. / advisorey.com
+title: GTM Engineer at an Early-Stage HealthTech Startup (GTM Engineer at an Early-Stage HealthTech Startup if "GTM Engineer at an Early-Stage HealthTech Startup" not present)
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-an-early-stage-healthtech-startup-at-advisorey-4379885693
+salary: 115000 - 150000 currency: USD YEAR
+date added: 2026-03-05T17:47:54.958Z
+location: New York City Metropolitan Area
+LinkedIn job id: 4379885693
+Description: Our client, an early-stage AI HealthTech startup, is looking to bring on a GTM Engineer to own the systems and automation that power their revenue engine. You'll work closely with Growth to build the infrastructure that helps them reach the right buyers, faster. This is a hands-on, high-impact role for someone who loves being in the weeds of tooling, data, and process — and can see directly how their work moves pipeline.
+
+About the Role: Build and maintain outbound workflows and sequences in Outreach or Salesloft. Own and optimize our HubSpot instance — lead lifecycle, scoring, routing, and reporting. Build enrichment pipelines using Clay. Partner with Sales and Marketing to identify funnel gaps. Manage integrations across the GTM stack. Document processes and help the team adopt new tooling.
+
+About You: 2+ years in GTM engineering, sales ops, or revenue operations. Solid HubSpot experience. Experience with Outreach or Salesloft. Familiarity with Clay or enrichment tools. Comfortable with APIs or Zapier-style integrations. Strong communicator. Bonus: healthtech, B2B SaaS, or enterprise experience.
+
+Salary: $115,000 - $150,000 USD
