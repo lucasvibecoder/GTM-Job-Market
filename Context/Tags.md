@@ -203,6 +203,8 @@ Normalize all tool mentions to these exact strings:
 | Mode | mode.com (analytics/BI) |
 | RevenueHero | revenuehero.io (inbound scheduling/routing) |
 | Replit | replit.com (browser IDE/deployment) |
+| Contentful | contentful.com (headless CMS) |
+| Storyblok | storyblok.com (headless CMS) |
 
 ## Company Type Tags
 Classify based on what the company's *product* does. Most companies get 1 tag; use 2+ only when the company genuinely straddles categories.

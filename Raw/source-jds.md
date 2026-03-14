@@ -4353,3 +4353,37 @@ About the Role: Build and maintain outbound workflows and sequences in Outreach 
 About You: 2+ years in GTM engineering, sales ops, or revenue operations. Solid HubSpot experience. Experience with Outreach or Salesloft. Familiarity with Clay or enrichment tools. Comfortable with APIs or Zapier-style integrations. Strong communicator. Bonus: healthtech, B2B SaaS, or enterprise experience.
 
 Salary: $115,000 - $150,000 USD
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /add -->
+Hiya Inc. / hiya.com
+title: Sr. GTM Engineer, Marketing
+job url: https://www.linkedin.com/jobs/view/sr-gtm-engineer-marketing-at-hiya-inc-4382343713
+salary: $133,500 - $194,000
+location: Seattle, WA
+
+About Hiya: At Hiya, we're making calls safe, useful, and human again. Voice is the most human form of communication, yet it's become one of the least trusted. Spam, scams, and AI manipulation have eroded what was once a simple way to connect. Each month our AI voice technology analyzes 28+ billion calls, protecting over 550 million users and 800+ businesses worldwide.
+
+Role: Senior Marketing Engineer – Web & AI. Own the end-to-end buyer journey, lead migration from Webflow to headless CMS (React/Next.js), integrate AI agents and LLM APIs, own international website expansion across 20+ markets. Required: 5-8+ years growth/frontend engineering, React/Next.js, headless CMS, GA4/Amplitude, technical SEO/GEO/AEO. Preferred: HubSpot, Salesforce, Segment, AI APIs (OpenAI, Anthropic).
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
+Giga / giga.ai
+title: GTM Engineer - San Francisco (GTM Engineer - San Francisco if "GTM Engineer - San Francisco" not present)
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-san-francisco-at-giga-4382661603
+salary: 200000 - 240000 currency: USD YEAR
+date added: 2026-03-08T09:42:25.697Z
+location: San Francisco, CA
+LinkedIn job id: 4382661603
+Description: About Giga — Giga has recently raised a $61M Series A and has several paying customers, including DoorDash. Building the next generation of customer experience - real-time AI agents that can understand emotion, resolve issues instantly, and scale across the world's largest enterprises. Role: GTM Engineer to architect, automate, and scale the systems that power Giga's revenue engine. Architect GTM tech stack (Salesforce, Gong, Clay, Claude Cowork), automate repetitive work with APIs/webhooks/AI agents, own data integrity, translate GTM strategy into automated playbooks and signal-based workflows, build outbound engine from scratch. Required: 3-5+ years Growth/GTM Engineer/RevOps, APIs/webhooks/data integrations, Python/JavaScript/SQL, GTM funnel fluency. Preferred: B2B SaaS/AI startup, Clay/CRM experience, enrichment waterfalls, AI agents for GTM, automated outbound/inbound motions. Compensation: $200K-$240K.
+
+---
+<!-- Imported: 2026-03-13T00:00:00Z via /bulk-add -->
+Sardine / sardine.ai
+title: GTM Engineer (GTM Engineer if "GTM Engineer" not present)
+job url: https://www.linkedin.com/jobs/view/gtm-engineer-at-sardine-4383432312
+salary: - currency:
+date added: 2026-03-10T00:24:13.104Z
+location: NAMER
+LinkedIn job id: 4383432312
+Description: Sardine is a leader in fraud prevention and AML compliance. Platform uses device intelligence, behavior biometrics, ML, and AI to stop fraud. 300+ banks, retailers, and fintechs worldwide. $145M raised from a16z, Activant, Visa, Experian, FIS, Google Ventures. Remote-first. Role: First GTM Engineer — lead architect of commercial infrastructure. Own technical roadmap for GTM tech stack (CRM, Marketing Automation, CPQ), workflow automation across lead-to-cash, data pipelines between GTM tools, lifecycle engineering from lead routing to renewal. Required: 4+ years technical RevOps/GTM Engineering/Sales Systems, APIs/webhooks/middleware (Zapier, Clay, Workato, Tray.io), deep Salesforce expertise, HubSpot/Unify/Clay/n8n, relational data models, cross-functional collaboration. Remote US/Canada.
